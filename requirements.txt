@@ -1,0 +1,12 @@
+trafilatura
+spacy
+requests
+torch
+pandas
+sentence-transformers
+rdflib
+owlready2
+numpy
+matplotlib
+scikit-learn
+pykeen
