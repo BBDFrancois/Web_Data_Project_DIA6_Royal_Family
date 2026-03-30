@@ -1,0 +1,688 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix priv: <http://example.org/private#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+priv:Afghanistan owl:sameAs dbr:Afghanistan .
+
+priv:AlbertEdward owl:sameAs dbr:Albert_I_of_Germany .
+
+priv:Alexander owl:sameAs dbr:Charles_Paul_Alexander .
+
+priv:AlexanderMountbatten owl:sameAs dbr:Charles_Paul_Alexander .
+
+priv:Alfred owl:sameAs dbr:Prince_Alfred_College .
+
+priv:AlfredDukeOfSaxecoburg owl:sameAs dbr:Duke .
+
+priv:Alice owl:sameAs dbr:Portrayals_of_Alice_in_Wonderland .
+
+priv:Alix owl:sameAs dbr:The_Adventures_of_Alix .
+
+priv:AlmanachRoyalOfficiel owl:sameAs dbr:Almanac .
+
+priv:AnneGabrielleAlexandrineMor owl:sameAs dbr:Gabrielle_Solis .
+
+priv:ArchieBrown owl:sameAs dbr:Archie_Comics .
+
+priv:ArchivesDeBruxelles owl:sameAs dbr:Brussels .
+
+priv:ArchivesDeBruxellesCibrario owl:sameAs dbr:Brussels .
+
+priv:Arthur owl:sameAs dbr:King_Arthur .
+
+priv:ArthurBigge owl:sameAs dbr:King_Arthur .
+
+priv:Asean owl:sameAs dbr:ASEAN .
+
+priv:Asia owl:sameAs dbr:Asia .
+
+priv:Asquith owl:sameAs dbr:H._H._Asquith .
+
+priv:Augusta owl:sameAs dbr:Augusta_Highway .
+
+priv:Austrians owl:sameAs dbr:Austria .
+
+priv:Balfour owl:sameAs dbr:Arthur_Balfour .
+
+priv:Balmoral owl:sameAs dbr:Balmoral_Castle .
+
+priv:BalmoralCastle owl:sameAs dbr:Balmoral_Castle .
+
+priv:BalmoralCastleToSouthAfrica owl:sameAs dbr:Balmoral_Castle .
+
+priv:BarbaraWTuchman owl:sameAs dbr:Barbara_Bush .
+
+priv:BaronVonStockmar owl:sameAs dbr:Baron .
+
+priv:BbcNews owl:sameAs dbr:BBC_News .
+
+priv:Beatrice owl:sameAs dbr:Princess_Beatrice_of_the_United_Kingdom .
+
+priv:BeatriceLaysWreath owl:sameAs dbr:Princess_Beatrice_of_the_United_Kingdom .
+
+priv:BenjaminDisraeli owl:sameAs dbr:Benjamin_Disraeli .
+
+priv:Bergstrsser owl:sameAs dbr:Gotthelf_Bergsträsser .
+
+priv:Bill owl:sameAs dbr:Finance_Act .
+
+priv:Bismarck owl:sameAs dbr:Otto_von_Bismarck .
+
+priv:Bornstedt owl:sameAs dbr:Bornstedt_\(Potsdam\) .
+
+priv:Boulogne owl:sameAs dbr:Boulogne-sur-Mer .
+
+priv:Britain owl:sameAs dbr:United_Kingdom_of_Great_Britain_and_Ireland .
+
+priv:BritishEmpire owl:sameAs dbr:British_Empire .
+
+priv:Buchanan owl:sameAs dbr:James_Buchanan .
+
+priv:CamillaParkerBowles owl:sameAs <http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall> .
+
+priv:CapePrinceAlfred owl:sameAs dbr:Prince_Alfred_College .
+
+priv:Cham owl:sameAs dbr:Chams .
+
+priv:Charles owl:sameAs dbr:Charles_II_of_England .
+
+priv:CharlesIii owl:sameAs dbr:Charles_III_of_Spain .
+
+priv:CharlesMordaunt owl:sameAs dbr:Charles_II_of_England .
+
+priv:ChildrenVictoria owl:sameAs dbr:Queen_Victoria .
+
+priv:Christian owl:sameAs dbr:Christianity .
+
+priv:Christmas1877 owl:sameAs dbr:Christmas .
+
+priv:Coburg owl:sameAs dbr:Coburg .
+
+priv:CrownPrinceGustafAdolf owl:sameAs dbr:Gustaf_VI_Adolf .
+
+priv:Dagmar owl:sameAs dbr:Dagmar_of_Bohemia .
+
+priv:DaisyGreville owl:sameAs <http://dbpedia.org/resource/Daisy_Greville,_Countess_of_Warwick> .
+
+priv:DavidProthero owl:sameAs dbr:Donald_Prothero .
+
+priv:DeJmLara owl:sameAs dbr:Lara_de_los_Infantes .
+
+priv:Denmark owl:sameAs dbr:Denmark .
+
+priv:DerbyAnd owl:sameAs dbr:Derby .
+
+priv:DienBienPhu owl:sameAs dbr:Battle_of_Dien_Bien_Phu .
+
+priv:Disraeli owl:sameAs dbr:Benjamin_Disraeli .
+
+priv:Duchess owl:sameAs dbr:Duke .
+
+priv:Duke owl:sameAs <http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge> .
+
+priv:DukeOfAlbany owl:sameAs dbr:Duke .
+
+priv:DukeOfArgyll owl:sameAs dbr:Duke .
+
+priv:DukeOfKent owl:sameAs dbr:Duke .
+
+priv:Eastbourne owl:sameAs dbr:Eastbourne .
+
+priv:Edward owl:sameAs dbr:Edward_VII .
+
+priv:EdwardOxford owl:sameAs dbr:Edward_Oxford .
+
+priv:EdwardViiEdwardVii owl:sameAs dbr:Edward_VII .
+
+priv:ElizabethGarrett owl:sameAs dbr:Elizabeth_II .
+
+priv:EmilyWilliamson owl:sameAs dbr:Emily_Williamson .
+
+priv:EmpressFrederick owl:sameAs dbr:Emperor .
+
+priv:Ena owl:sameAs dbr:Victoria_Eugenie_of_Battenberg .
+
+priv:England owl:sameAs dbr:England .
+
+priv:Esher owl:sameAs dbr:Viscount_Esher .
+
+priv:Europe owl:sameAs dbr:Continental_Europe .
+
+priv:FelicityKendal owl:sameAs dbr:Felicity_Kendal .
+
+priv:FelixMendelssohn owl:sameAs dbr:Felix_Mendelssohn .
+
+priv:Fiddle owl:sameAs dbr:Fiddle .
+
+priv:France owl:sameAs dbr:France .
+
+priv:Frederick owl:sameAs dbr:Frederick_the_Great .
+
+priv:FrederickIii owl:sameAs <http://dbpedia.org/resource/Frederick_III,_Holy_Roman_Emperor> .
+
+priv:FrederickWilliam owl:sameAs dbr:Frederick_William_I_of_Prussia .
+
+priv:FrederickWilliamIv owl:sameAs dbr:Frederick_William_IV_of_Prussia .
+
+priv:Freemason owl:sameAs dbr:Freemasonry .
+
+priv:French owl:sameAs dbr:French_language .
+
+priv:Fulford1949 owl:sameAs dbr:Great_Fulford .
+
+priv:GenotypeAnalysisIdentifiesTheCauseOfTheRoyalDisease owl:sameAs dbr:Genotype .
+
+priv:GeorgErnstHinzpeter owl:sameAs dbr:Georg_Ernst_Hinzpeter .
+
+priv:GeorgeV owl:sameAs dbr:George_V .
+
+priv:German owl:sameAs dbr:German_language .
+
+priv:Germany owl:sameAs dbr:Germany .
+
+priv:Gladstone owl:sameAs dbr:William_Ewart_Gladstone .
+
+priv:GoldenJubilee owl:sameAs dbr:Golden_Age_of_Comic_Books .
+
+priv:GreatBritain owl:sameAs dbr:Great_Britain .
+
+priv:GreatPomp owl:sameAs dbr:POMP .
+
+priv:HallieWoodhall owl:sameAs dbr:George_Woodhall .
+
+priv:Hamlet owl:sameAs dbr:Hamlet .
+
+priv:Hanover owl:sameAs dbr:House_of_Hanover .
+
+priv:Hattersley owl:sameAs dbr:Hattersley .
+
+priv:Helena owl:sameAs dbr:Helena_Roerich .
+
+priv:HenryPonsonby owl:sameAs dbr:Henry_Ponsonby .
+
+priv:Hesse owl:sameAs dbr:House_of_Hesse .
+
+priv:Hibbert owl:sameAs dbr:Roy_Hibbert .
+
+priv:HighSteward owl:sameAs dbr:Lord_High_Steward .
+
+priv:Highlands owl:sameAs dbr:Scottish_Highlands .
+
+priv:Hohenzollerns owl:sameAs dbr:House_of_Hohenzollern .
+
+priv:Holstein owl:sameAs dbr:Holstein .
+
+priv:Hungarian owl:sameAs dbr:Hungarian_language .
+
+priv:India owl:sameAs dbr:India .
+
+priv:Indochina owl:sameAs dbr:French_Indochina .
+
+priv:Ireland owl:sameAs dbr:Ireland .
+
+priv:Japan owl:sameAs dbr:Japan .
+
+priv:JavedMahmood owl:sameAs dbr:Sultan_Bashiruddin_Mahmood .
+
+priv:JohnCampbell owl:sameAs dbr:John_B._T._Campbell_III .
+
+priv:Junkers owl:sameAs dbr:Junker .
+
+priv:Karim owl:sameAs dbr:Karim_Wade .
+
+priv:KensalGreenCemetery owl:sameAs dbr:Kensal_Green_Cemetery .
+
+priv:KensingtonPalace owl:sameAs dbr:Kensington_Palace .
+
+priv:KensingtonSystem owl:sameAs dbr:Kensington_System .
+
+priv:KentHouse owl:sameAs dbr:Kent .
+
+priv:King owl:sameAs dbr:Monarch .
+
+priv:KingLeopold owl:sameAs dbr:Leopold_I_of_Belgium .
+
+priv:LadyFlora owl:sameAs dbr:Flora .
+
+priv:LadyRandolph owl:sameAs dbr:Lady_Randolph_Churchill .
+
+priv:LakeLouise owl:sameAs dbr:Lake_Louise_Ski_Resort .
+
+priv:Leopold owl:sameAs dbr:Leopold_I_of_Belgium .
+
+priv:Leopold4Education owl:sameAs dbr:Leopold_II_of_Belgium .
+
+priv:LewisCarroll owl:sameAs dbr:Lewis_Carroll .
+
+priv:ListeDerRitterDesKniglichPreuischenHohenOrdensVomSchwarzenAdler owl:sameAs dbr:Ritter .
+
+priv:Lneburg owl:sameAs dbr:Lüneburg .
+
+priv:LochLaggan owl:sameAs dbr:Loch_Laggan .
+
+priv:London owl:sameAs <http://dbpedia.org/resource/Pall_Mall,_London> .
+
+priv:LondonDied owl:sameAs dbr:London .
+
+priv:Longford owl:sameAs dbr:Longford .
+
+priv:Lorne owl:sameAs dbr:Municipality_of_Lorne .
+
+priv:LouisMountbatten owl:sameAs <http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma> .
+
+priv:LouisPhilippe owl:sameAs dbr:Louis_Philippe_I .
+
+priv:Louise owl:sameAs dbr:Louise_of_Mecklenburg-Strelitz .
+
+priv:LucindaHawksley owl:sameAs dbr:Lucinda_Hawksley .
+
+priv:LyonPlayfair owl:sameAs <http://dbpedia.org/resource/Lyon_Playfair,_1st_Baron_Playfair> .
+
+priv:Manchester owl:sameAs dbr:Manchester .
+
+priv:MantaAlfredi owl:sameAs dbr:Reef_manta_ray .
+
+priv:Margaret owl:sameAs dbr:Princess_Margaret_of_Prussia .
+
+priv:Maria owl:sameAs dbr:Grand_Duchess_Maria_Nikolaevna_of_Russia .
+
+priv:MaryBaring owl:sameAs dbr:Mary_II_of_England .
+
+priv:MaryLouise owl:sameAs dbr:Mary_II_of_England .
+
+priv:Melbourne owl:sameAs dbr:Melbourne .
+
+priv:MountVernon owl:sameAs dbr:Mount_Vernon .
+
+priv:NapoleonIii owl:sameAs dbr:Napoleon .
+
+priv:NationalPortraitGallery owl:sameAs <http://dbpedia.org/resource/National_Portrait_Gallery,_London> .
+
+priv:Nicholas owl:sameAs dbr:Nicholas_II_of_Russia .
+
+priv:NorthAmericans owl:sameAs dbr:North_Carolina .
+
+priv:OlveraAyes owl:sameAs dbr:Olvera .
+
+priv:OrdenDeCarlosIii owl:sameAs dbr:Order_of_Charles_III .
+
+priv:OttoVonBismarck owl:sameAs dbr:Otto_von_Bismarck .
+
+priv:OxfordUniversity owl:sameAs dbr:University_of_Oxford .
+
+priv:Palmerston owl:sameAs dbr:Palmerston_Park .
+
+priv:Paris owl:sameAs dbr:Paris .
+
+priv:Parliament owl:sameAs dbr:Parliament_of_England .
+
+priv:Peel owl:sameAs dbr:Robert_Peel .
+
+priv:Pietermaritzburg owl:sameAs dbr:Pietermaritzburg .
+
+priv:PrinceAlbert owl:sameAs dbr:Albert_I_of_Germany .
+
+priv:PrinceAlfred owl:sameAs <http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha> .
+
+priv:PrinceAlfredHamlet owl:sameAs dbr:Prince_Alfred_College .
+
+priv:PrinceAlfredStreet owl:sameAs dbr:Prince_Alfred_of_Liechtenstein .
+
+priv:PrinceChristian owl:sameAs dbr:Prince_Christian_of_Schleswig-Holstein .
+
+priv:PrinceConsort34 owl:sameAs dbr:Prince_consort .
+
+priv:PrinceEdward owl:sameAs dbr:Prince_Michael_of_Kent .
+
+priv:PrinceJohn owl:sameAs dbr:Prince_John_of_the_United_Kingdom .
+
+priv:PrinceLeopold owl:sameAs dbr:Leopold_II_of_Belgium .
+
+priv:Princess owl:sameAs dbr:Princess_Helena_of_the_United_Kingdom .
+
+priv:PrincessFeodora owl:sameAs dbr:Princess .
+
+priv:PrincessHelena owl:sameAs dbr:Edward_VII .
+
+priv:PrincessVictoria owl:sameAs dbr:Queen_Victoria .
+
+priv:Prussia owl:sameAs dbr:Prussia .
+
+priv:Quebec owl:sameAs dbr:Quebec .
+
+priv:Queen owl:sameAs dbr:Elizabeth_II .
+
+priv:QueenCharlotte53 owl:sameAs dbr:Charlotte_of_Mecklenburg-Strelitz .
+
+priv:QueenVictoria owl:sameAs dbr:Queen_Victoria .
+
+priv:QueensRoad owl:sameAs dbr:Elizabeth_II .
+
+priv:RadicalsAndTories owl:sameAs dbr:Classical_radicalism .
+
+priv:RangerOfWindsorPark owl:sameAs dbr:United_States_Army_Rangers .
+
+priv:Rcn owl:sameAs dbr:Royal_College_of_Nursing .
+
+priv:RomanCatholicism owl:sameAs dbr:Catholic_Church .
+
+priv:Russell owl:sameAs dbr:Bertrand_Russell .
+
+priv:Russia owl:sameAs dbr:Russia .
+
+priv:Salisbury owl:sameAs dbr:Salisbury .
+
+priv:SantaBarbara owl:sameAs <http://dbpedia.org/resource/Santa_Barbara,_California> .
+
+priv:Saxecoburg owl:sameAs dbr:Saxe-Coburg_and_Gotha .
+
+priv:Schleswigholstein owl:sameAs dbr:Province_of_Schleswig-Holstein .
+
+priv:SchombergHouse owl:sameAs dbr:Schomberg_House .
+
+priv:Sigismund owl:sameAs dbr:Sigismund_III_Vasa .
+
+priv:SouthAudleyStreet owl:sameAs dbr:South_Audley_Street .
+
+priv:SoutheastAsia owl:sameAs dbr:Mainland_Southeast_Asia .
+
+priv:Spain owl:sameAs dbr:Spain .
+
+priv:Stockmar owl:sameAs <http://dbpedia.org/resource/Christian_Friedrich,_Baron_Stockmar> .
+
+priv:Stoecker owl:sameAs dbr:Adolf_Stoecker .
+
+priv:Strauss owl:sameAs dbr:Richard_Strauss .
+
+priv:TheAlfredRowingClub owl:sameAs dbr:Rowing .
+
+priv:TheAntientGrandLodgeOfEngland owl:sameAs dbr:Premier_Grand_Lodge_of_England .
+
+priv:TheAustroprussianWar owl:sameAs dbr:Austro-Prussian_War .
+
+priv:TheBattleOfKniggrtz owl:sameAs dbr:Hradec_Králové .
+
+priv:TheBoerWar owl:sameAs dbr:Second_Boer_War .
+
+priv:TheBritishCivilList owl:sameAs dbr:United_Kingdom .
+
+priv:TheChurchOfEngland owl:sameAs dbr:England .
+
+priv:TheCrimeanWar owl:sameAs dbr:Crimean_War .
+
+priv:TheCupolaRoom owl:sameAs dbr:Cupola .
+
+priv:TheCurraghCamp owl:sameAs dbr:Curragh_Camp .
+
+priv:TheDukeAndDuchess owl:sameAs dbr:Duke .
+
+priv:TheFebruaryRevolution owl:sameAs dbr:February_Revolution .
+
+priv:TheFirstWorldWar owl:sameAs dbr:World_War_I .
+
+priv:TheFrancoprussianWar owl:sameAs dbr:Franco-Prussian_War .
+
+priv:TheFrenchEmperor owl:sameAs dbr:Emperor_of_the_French .
+
+priv:TheGermanConfederation owl:sameAs dbr:German_Confederation .
+
+priv:TheHouseOfAssemblyOfUpperCanada1839 owl:sameAs dbr:United_States_House_of_Representatives .
+
+priv:TheHultonArchive owl:sameAs dbr:Picture_Post .
+
+priv:TheKingdomOfPrussia owl:sameAs dbr:Prussia .
+
+priv:TheLodgeOfReconciliation owl:sameAs dbr:The_Lodge_RSPB_reserve .
+
+priv:TheNationalGallery owl:sameAs dbr:National_Gallery .
+
+priv:TheNorthGermanConfederation owl:sameAs dbr:North_German_Confederation .
+
+priv:TheNorthWestTerritories owl:sameAs dbr:Northwest_Territories .
+
+priv:ThePrinceAlfredHotel owl:sameAs dbr:Prince_Alfred_of_Liechtenstein .
+
+priv:ThePrinceConsort owl:sameAs dbr:Prince_consort .
+
+priv:ThePrinceImperial owl:sameAs dbr:Prince_Imperial_of_Brazil .
+
+priv:ThePrussianArmy owl:sameAs dbr:Prussian_Army .
+
+priv:TheRoyalArchives1855Visit owl:sameAs dbr:Royal_Archives .
+
+priv:TheRoyalFamily owl:sameAs dbr:Royal_family .
+
+priv:TheRoyalNavy owl:sameAs dbr:Royal_Navy .
+
+priv:TheShahOf owl:sameAs dbr:Naser_al-Din_Shah_Qajar .
+
+priv:TheSiegeOfParis owl:sameAs dbr:Paris .
+
+priv:TheTheoryOfEvolutionOfDarwin owl:sameAs dbr:Evolution .
+
+priv:TheUnitedStates owl:sameAs dbr:United_States .
+
+priv:TheUniversityOfBonn owl:sameAs dbr:University_of_Bonn .
+
+priv:TheUniversityOfDurham owl:sameAs dbr:Durham_University .
+
+priv:TheodoreMartin owl:sameAs dbr:Purple_martin .
+
+priv:Tory owl:sameAs dbr:Tory .
+
+priv:TsarevichNicholas owl:sameAs dbr:Nicholas_II_of_Russia .
+
+priv:Urdu owl:sameAs dbr:Urdu .
+
+priv:Victoria owl:sameAs dbr:Queen_Victoria .
+
+priv:VictoriaAlexandria owl:sameAs dbr:Queen_Victoria .
+
+priv:Vienna owl:sameAs dbr:Vienna .
+
+priv:Vietnam owl:sameAs dbr:Vietnam .
+
+priv:Wales owl:sameAs dbr:Wales .
+
+priv:WalterBagehot owl:sameAs dbr:Walter_Bagehot .
+
+priv:Weymouth owl:sameAs dbr:Weymouth_railway_station .
+
+priv:WilhelmIi owl:sameAs <http://dbpedia.org/resource/Wilhelm_II,_German_Emperor> .
+
+priv:WilliamIFrederick owl:sameAs dbr:William_I_of_the_Netherlands .
+
+priv:WilliamIv owl:sameAs dbr:William_IV .
+
+priv:Williams owl:sameAs dbr:Williams_Grand_Prix_Engineering .
+
+priv:Wilson owl:sameAs dbr:Woodrow_Wilson .
+
+priv:Windsor owl:sameAs dbr:Windsor_Castle .
+
+priv:WindsorCastle owl:sameAs dbr:Windsor_Castle .
+
+priv:Wonderland owl:sameAs <http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland> .
+
+priv:accompanyPrinceTo rdfs:subPropertyOf dbo:monarch .
+
+priv:arrangeMarriageOfHisDaughterToPrince rdfs:subPropertyOf dbo:spouse .
+
+priv:ask rdfs:subPropertyOf dbo:topic .
+
+priv:attend owl:equivalentProperty dbo:numberOfPeopleAttending .
+
+priv:be rdfs:subPropertyOf dbo:show .
+
+priv:beDaughterOf owl:equivalentProperty dbo:daughter .
+
+priv:beFormerStateInNorthern owl:equivalentProperty dbo:formerName .
+
+priv:beHappyWith owl:equivalentProperty dbo:smiles .
+
+priv:beHeirTo owl:equivalentProperty dbo:heir .
+
+priv:beInLineToThroneAfter owl:equivalentProperty dbo:routeLine .
+
+priv:beLastViceroyOf owl:equivalentProperty dbo:lastPosition .
+
+priv:beOf rdfs:subPropertyOf dbo:show .
+
+priv:bearOnAt owl:equivalentProperty dbo:animal .
+
+priv:becomeFatherInLawOf owl:equivalentProperty dbo:father .
+
+priv:becomeFluentInBoth rdfs:subPropertyOf dbo:translator .
+
+priv:becomeSir rdfs:subPropertyOf dbo:honours .
+
+priv:buyCottageIn rdfs:subPropertyOf dbo:restaurant .
+
+priv:celebrateS rdfs:subPropertyOf dbo:employersCelebration .
+
+priv:changeFamilyNameFromTo owl:equivalentProperty dbo:languageFamily .
+
+priv:changeNameOfRoyalHouseFromTo owl:equivalentProperty dbo:alternativeName .
+
+priv:churchillb rdfs:subPropertyOf dbo:honours .
+
+priv:commission owl:equivalentProperty dbo:commissioner .
+
+priv:complainTo rdfs:subPropertyOf dbo:comment .
+
+priv:consider rdfs:subPropertyOf dbo:comment .
+
+priv:controlItAlongWithAs rdfs:subPropertyOf dbo:editing .
+
+priv:defeat owl:equivalentProperty dbo:defeat .
+
+priv:describe owl:equivalentProperty dbo:description .
+
+priv:dieAt owl:equivalentProperty dbo:pendamicDeaths .
+
+priv:dieOnIn owl:equivalentProperty dbo:pendamicDeaths .
+
+priv:engageTo rdfs:subPropertyOf dbo:partner .
+
+priv:entrustThisTaskToBrightStrictPhilologist rdfs:subPropertyOf dbo:veneratedIn .
+
+priv:fallDownSomeStairAt owl:equivalentProperty dbo:layingDown .
+
+priv:fightWarWith owl:equivalentProperty dbo:war .
+
+priv:findIn rdfs:subPropertyOf dbo:discoverer .
+
+priv:foundIn owl:equivalentProperty dbo:created .
+
+priv:giveHonoraryPositionOf owl:equivalentProperty dbo:honours .
+
+priv:haveAffairWith rdfs:subPropertyOf dbo:fc .
+
+priv:haveChildTogetherPrincessVictoriaAdelaide owl:equivalentProperty dbo:child .
+
+priv:haveCulturalAffinityWith rdfs:subPropertyOf dbo:refcul .
+
+priv:haveTowards rdfs:subPropertyOf dbo:bishopric .
+
+priv:holidayInMainland owl:equivalentProperty dbo:island .
+
+priv:inform owl:equivalentProperty dbo:information .
+
+priv:inviteTo owl:equivalentProperty dbo:id .
+
+priv:label owl:equivalentProperty dbo:recordLabel .
+
+priv:lease owl:equivalentProperty dbo:tenant .
+
+priv:listMonument113In owl:equivalentProperty dbo:dutchMIPCode .
+
+priv:liveIn owl:equivalentProperty dbo:livingPlace .
+
+priv:marry owl:equivalentProperty dbo:spouse .
+
+priv:marryOf owl:equivalentProperty dbo:spouse .
+
+priv:marryPrinceChristianOfSchleswigHolsteinIn rdfs:subPropertyOf dbo:spouse .
+
+priv:meetEveryMemberOf rdfs:subPropertyOf dbo:meetingCity .
+
+priv:meetOf owl:equivalentProperty dbo:meetingCity .
+
+priv:nameAfter rdfs:subPropertyOf dbo:book .
+
+priv:nominate owl:equivalentProperty dbo:nominee .
+
+priv:occupy rdfs:subPropertyOf dbo:tenant .
+
+priv:occupyEasternmostPartOfMainland owl:equivalentProperty dbo:eastPlace .
+
+priv:occupyHouseAsHer owl:equivalentProperty dbo:house .
+
+priv:payForGrandDucalFamilyToHolidayIn owl:equivalentProperty dbo:free .
+
+priv:predecease rdfs:subPropertyOf dbo:precursor .
+
+priv:proposeTallRichOf rdfs:subPropertyOf dbo:heightAgainst .
+
+priv:provideRespiteFor rdfs:subPropertyOf dbo:provides .
+
+priv:publishBookLeavesFromIn owl:equivalentProperty dbo:publisher .
+
+priv:pursue rdfs:subPropertyOf dbo:approach .
+
+priv:pushThrough rdfs:subPropertyOf dbo:movement .
+
+priv:quoteIn owl:equivalentProperty dbo:quote .
+
+priv:raiseLargelyIsolateFromOtherChildUnderSoCall rdfs:subPropertyOf dbo:percentage .
+
+priv:restoreRelationWith owl:equivalentProperty dbo:relation .
+
+priv:retrieveApril rdfs:subPropertyOf dbo:primate .
+
+priv:returnTo rdfs:subPropertyOf dbo:result .
+
+priv:see owl:equivalentProperty dbo:show .
+
+priv:setAgainst rdfs:subPropertyOf dbo:setDesigner .
+
+priv:shareMonarchWith owl:equivalentProperty dbo:monarch .
+
+priv:sideWith owl:equivalentProperty dbo:bSide .
+
+priv:speakOfHisDevotionTo rdfs:subPropertyOf dbo:consecration .
+
+priv:spendMuchOfHerTimeAt owl:equivalentProperty dbo:budget .
+
+priv:spendRainyHolidayInWestOfAt rdfs:subPropertyOf dbo:climate .
+
+priv:spendStudyAtUnderAmongOtherChemist rdfs:subPropertyOf dbo:student .
+
+priv:stayAt rdfs:subPropertyOf dbo:end .
+
+priv:succeedImmediatelyAs rdfs:subPropertyOf dbo:achievement .
+
+priv:suggestOf rdfs:subPropertyOf dbo:approach .
+
+priv:tend rdfs:subPropertyOf dbo:spurType .
+
+priv:travelThroughout owl:equivalentProperty dbo:totalTravellers .
+
+priv:visit owl:equivalentProperty dbo:touristicSite .
+
+priv:voiceSharpCriticismOf owl:equivalentProperty dbo:voice .
+
+priv:write rdfs:subPropertyOf dbo:notes .
+
+priv:writeSAdventuresIn rdfs:subPropertyOf dbo:dfE .
+
+priv:writeTo rdfs:subPropertyOf dbo:notes .
+
+priv:writeToBaron rdfs:subPropertyOf dbo:chairmanTitle .
+
+priv:writeToSir rdfs:subPropertyOf dbo:minister .
+
+priv:yieldTo rdfs:subPropertyOf dbo:produces .
+

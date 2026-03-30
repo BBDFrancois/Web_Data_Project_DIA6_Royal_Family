@@ -1,0 +1,6978 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix priv: <http://example.org/private#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+priv:10_Downing_Street a owl:NamedIndividual .
+
+priv:42nd_Canadian_Parliament a owl:NamedIndividual .
+
+priv:Aachen a owl:NamedIndividual .
+
+priv:Aachen_Cathedral a owl:NamedIndividual .
+
+priv:Aalborg a owl:NamedIndividual .
+
+priv:Abbas_Mirza a owl:NamedIndividual .
+
+<http://example.org/private#Abbeville,_South_Carolina> a owl:NamedIndividual .
+
+priv:Abbott_Lawrence a owl:NamedIndividual .
+
+priv:Abdol_Majid_Mirza a owl:NamedIndividual .
+
+priv:Abdou_Diouf a owl:NamedIndividual .
+
+priv:Abdoulaye_Wade a owl:NamedIndividual .
+
+priv:Abdul_Ghafar_Baba a owl:NamedIndividual .
+
+priv:Abdul_Hakim_Haqqani a owl:NamedIndividual .
+
+priv:Abdul_Jalil_\(militant\) a owl:NamedIndividual .
+
+priv:Abdul_Kabir a owl:NamedIndividual .
+
+priv:Abdullah_of_Pahang a owl:NamedIndividual .
+
+priv:Abel_P._Upshur a owl:NamedIndividual .
+
+priv:Aberdeenshire a owl:NamedIndividual .
+
+priv:Abraham_Lincoln a owl:NamedIndividual .
+
+priv:Acehnese_people a owl:NamedIndividual .
+
+priv:Acharya_Devvrat a owl:NamedIndividual .
+
+priv:Achilles_Morris a owl:NamedIndividual .
+
+priv:Acting_\(law\) a owl:NamedIndividual .
+
+<http://example.org/private#Adalbert_I,_Margrave_of_Tuscany> a owl:NamedIndividual .
+
+priv:Adam_Albert_von_Neipperg a owl:NamedIndividual .
+
+priv:Adelaide a owl:NamedIndividual .
+
+priv:Adelaide_of_Meissen a owl:NamedIndividual .
+
+priv:Adelaide_of_Saxe-Meiningen a owl:NamedIndividual .
+
+priv:Adelheid_of_Katzenelnbogen a owl:NamedIndividual .
+
+<http://example.org/private#Adolf,_King_of_the_Romans> a owl:NamedIndividual .
+
+priv:Adolphe_Thiers a owl:NamedIndividual .
+
+priv:Adolphus_Frederick_II a owl:NamedIndividual .
+
+priv:Adolphus_Frederick_IV a owl:NamedIndividual .
+
+priv:Adriatic_Sea a owl:NamedIndividual .
+
+priv:Advent a owl:NamedIndividual .
+
+priv:Africa a owl:NamedIndividual .
+
+priv:African_theatre_of_World_War_I a owl:NamedIndividual .
+
+priv:Agha_Mohammad_Khan_Qajar a owl:NamedIndividual .
+
+<http://example.org/private#Agnes_of_Bohemia,_Duchess_of_Austria> a owl:NamedIndividual .
+
+priv:Agnes_of_Gorizia-Tyrol a owl:NamedIndividual .
+
+priv:Ahmad_Ali_Mirza_\(Qajar_Prince\) a owl:NamedIndividual .
+
+priv:Ahmad_Moshir_al-Saltaneh a owl:NamedIndividual .
+
+priv:Ahmad_Shah_Qajar a owl:NamedIndividual .
+
+priv:Akhtar_Mansour a owl:NamedIndividual .
+
+priv:Akihito a owl:NamedIndividual .
+
+priv:Alan_Campbell_\(politician\) a owl:NamedIndividual .
+
+<http://example.org/private#Alastair_Campbell,_4th_Baron_Colgrain> a owl:NamedIndividual .
+
+<http://example.org/private#Albert_Azzo_II,_Margrave_of_Milan> a owl:NamedIndividual .
+
+<http://example.org/private#Albert_II,_Margrave_of_Meissen> a owl:NamedIndividual .
+
+priv:Albert_II_of_Germany a owl:NamedIndividual .
+
+<http://example.org/private#Albert_IV,_Count_of_Habsburg> a owl:NamedIndividual .
+
+<http://example.org/private#Albert_IV,_Duke_of_Austria> a owl:NamedIndividual .
+
+priv:Albert_I_of_Belgium a owl:NamedIndividual .
+
+<http://example.org/private#Albert_Joseph_Goblet_d'Alviella> a owl:NamedIndividual .
+
+<http://example.org/private#Albert_VI,_Archduke_of_Austria> a owl:NamedIndividual .
+
+priv:Alberta a owl:NamedIndividual .
+
+priv:Albion a owl:NamedIndividual .
+
+<http://example.org/private#Albrecht_von_Bernstorff_(diplomat,_born_1809)> a owl:NamedIndividual .
+
+priv:Albrecht_von_Roon a owl:NamedIndividual .
+
+priv:Albrecht_von_Stosch a owl:NamedIndividual .
+
+priv:Alexander_Beglov a owl:NamedIndividual .
+
+<http://example.org/private#Alexander_Frederick,_Landgrave_of_Hesse> a owl:NamedIndividual .
+
+priv:Alexander_III_of_Russia a owl:NamedIndividual .
+
+priv:Alexander_II_of_Russia a owl:NamedIndividual .
+
+priv:Alexander_J._Dallas_\(United_States_Navy_officer\) a owl:NamedIndividual .
+
+priv:Alexander_Pechtold a owl:NamedIndividual .
+
+priv:Alexander_Pröll a owl:NamedIndividual .
+
+priv:Alexander_Schallenberg a owl:NamedIndividual .
+
+priv:Alexander_Sprot a owl:NamedIndividual .
+
+priv:Alexander_Van_der_Bellen a owl:NamedIndividual .
+
+priv:Alexander_Zhukov a owl:NamedIndividual .
+
+priv:Alexander_von_Monts a owl:NamedIndividual .
+
+priv:Alexander_von_Schleinitz a owl:NamedIndividual .
+
+priv:Alexandra_Feodorovna_\(Alix_of_Hesse\) a owl:NamedIndividual .
+
+priv:Alexandra_of_Denmark a owl:NamedIndividual .
+
+priv:Alexandra_of_Lithuania a owl:NamedIndividual .
+
+priv:Alexandre_Pierre_Chevalier_Moline_de_Saint-Yon a owl:NamedIndividual .
+
+priv:Alexandre_Rassaërt a owl:NamedIndividual .
+
+priv:Alexandre_de_Beauharnais a owl:NamedIndividual .
+
+<http://example.org/private#Alexandria,_Virginia> a owl:NamedIndividual .
+
+priv:Alexei_Kudrin a owl:NamedIndividual .
+
+<http://example.org/private#Alfonso,_Prince_of_Asturias_(1907–1938)> a owl:NamedIndividual .
+
+priv:Alfonso_Rodríguez_Gómez_de_Celis a owl:NamedIndividual .
+
+priv:Alfonso_XII a owl:NamedIndividual .
+
+priv:Alfonso_XIII a owl:NamedIndividual .
+
+priv:Alfredo_Pérez_Rubalcaba a owl:NamedIndividual .
+
+priv:Ali_Khan_Amin_ud-Daula a owl:NamedIndividual .
+
+priv:Alice_Weidel a owl:NamedIndividual .
+
+priv:Alicia_García_Rodríguez a owl:NamedIndividual .
+
+priv:Alireza_Zakani a owl:NamedIndividual .
+
+priv:Alison_Saunders a owl:NamedIndividual .
+
+priv:Alphonse_de_Lamartine a owl:NamedIndividual .
+
+priv:Alphonso_Taft a owl:NamedIndividual .
+
+priv:Alys_Pearsall_Smith a owl:NamedIndividual .
+
+priv:Amanda_Parker a owl:NamedIndividual .
+
+<http://example.org/private#Amelius_Lockwood,_1st_Baron_Lambourne> a owl:NamedIndividual .
+
+priv:Amiens a owl:NamedIndividual .
+
+priv:Amina_Aqdas a owl:NamedIndividual .
+
+priv:Amir_Kabir a owl:NamedIndividual .
+
+priv:Amirsoleimani_family a owl:NamedIndividual .
+
+priv:Ammameh a owl:NamedIndividual .
+
+priv:Amritsar a owl:NamedIndividual .
+
+priv:Amédée_Despans-Cubières a owl:NamedIndividual .
+
+<http://example.org/private#Amédée_Girod_de_l'Ain> a owl:NamedIndividual .
+
+priv:Anandiben_Patel a owl:NamedIndividual .
+
+priv:Ancona a owl:NamedIndividual .
+
+priv:Ander_Gil a owl:NamedIndividual .
+
+priv:Anderlecht a owl:NamedIndividual .
+
+priv:Andrew_Boff a owl:NamedIndividual .
+
+priv:Andrew_Johnson a owl:NamedIndividual .
+
+priv:Andrew_L._Harris a owl:NamedIndividual .
+
+priv:Andrey_Yatskin a owl:NamedIndividual .
+
+priv:Angela_Merkel a owl:NamedIndividual .
+
+<http://example.org/private#Angela_Smith,_Baroness_Smith_of_Basildon> a owl:NamedIndividual .
+
+priv:Anis_al-Dawla a owl:NamedIndividual .
+
+priv:Anna_Jagiellon a owl:NamedIndividual .
+
+priv:Anna_Pavlovna_of_Russia a owl:NamedIndividual .
+
+<http://example.org/private#Annabel_Campbell,_Baroness_Colgrain> a owl:NamedIndividual .
+
+<http://example.org/private#Anne,_Princess_Royal_and_Princess_of_Orange> a owl:NamedIndividual .
+
+<http://example.org/private#Anne,_Queen_of_Great_Britain> a owl:NamedIndividual .
+
+<http://example.org/private#Anne_FitzPatrick,_Countess_of_Upper_Ossory> a owl:NamedIndividual .
+
+<http://example.org/private#Anne_Wellesley,_Countess_of_Mornington> a owl:NamedIndividual .
+
+<http://example.org/private#Anne_of_Austria,_Queen_of_Poland> a owl:NamedIndividual .
+
+priv:Anne_of_Brittany a owl:NamedIndividual .
+
+priv:Annick_Girardin a owl:NamedIndividual .
+
+priv:Annunciation a owl:NamedIndividual .
+
+priv:Anthony_Addington a owl:NamedIndividual .
+
+priv:Anthony_Albanese a owl:NamedIndividual .
+
+<http://example.org/private#Anthony_Fane,_13th_Earl_of_Westmorland> a owl:NamedIndividual .
+
+<http://example.org/private#Anthony_St_Clair-Erskine,_6th_Earl_of_Rosslyn> a owl:NamedIndividual .
+
+priv:Antonio_Farnese a owl:NamedIndividual .
+
+priv:Anutin_Charnvirakul a owl:NamedIndividual .
+
+priv:Anwar_Ibrahim a owl:NamedIndividual .
+
+priv:Apabhraṃśa a owl:NamedIndividual .
+
+priv:Ara_Najarian a owl:NamedIndividual .
+
+priv:Arabian_Peninsula a owl:NamedIndividual .
+
+<http://example.org/private#Arak,_Iran> a owl:NamedIndividual .
+
+priv:Arch-Treasurer a owl:NamedIndividual .
+
+priv:Archduchy_of_Austria a owl:NamedIndividual .
+
+priv:Archduke a owl:NamedIndividual .
+
+priv:Archduke_Franz_Karl_of_Austria a owl:NamedIndividual .
+
+priv:Archduke_Joseph_of_Austria_\(Palatine_of_Hungary\) a owl:NamedIndividual .
+
+<http://example.org/private#Archibald_Primrose,_4th_Earl_of_Rosebery> a owl:NamedIndividual .
+
+<http://example.org/private#Archibald_Primrose,_5th_Earl_of_Rosebery> a owl:NamedIndividual .
+
+priv:Ardy_Kassakhian a owl:NamedIndividual .
+
+priv:Armand-Augustin-Louis_de_Caulaincourt a owl:NamedIndividual .
+
+priv:Armin_Laschet a owl:NamedIndividual .
+
+priv:Arnaud_Montebourg a owl:NamedIndividual .
+
+priv:Arnsberg a owl:NamedIndividual .
+
+<http://example.org/private#Arthur_Bigge,_1st_Baron_Stamfordham> a owl:NamedIndividual .
+
+priv:Arthur_Otway a owl:NamedIndividual .
+
+<http://example.org/private#Arthur_Wellesley,_1st_Duke_of_Wellington> a owl:NamedIndividual .
+
+priv:Asian_and_Pacific_theatre_of_World_War_I a owl:NamedIndividual .
+
+priv:Asparuh_of_Bulgaria a owl:NamedIndividual .
+
+priv:Athens a owl:NamedIndividual .
+
+priv:Atlantic_U-boat_campaign_of_World_War_I a owl:NamedIndividual .
+
+priv:Augusta_of_Saxe-Weimar-Eisenach a owl:NamedIndividual .
+
+priv:Auguste_Beernaert a owl:NamedIndividual .
+
+priv:Auguste_von_Harrach a owl:NamedIndividual .
+
+<http://example.org/private#Augustenborg,_Denmark> a owl:NamedIndividual .
+
+<http://example.org/private#Augustus_FitzRoy,_3rd_Duke_of_Grafton> a owl:NamedIndividual .
+
+priv:Augustus_III_of_Poland a owl:NamedIndividual .
+
+priv:Australia a owl:NamedIndividual .
+
+priv:Australian_House_of_Representatives a owl:NamedIndividual .
+
+priv:Australian_Senate a owl:NamedIndividual .
+
+priv:Austria-Hungary a owl:NamedIndividual .
+
+priv:Austria_within_Nazi_Germany a owl:NamedIndividual .
+
+priv:Austrian_Empire a owl:NamedIndividual .
+
+priv:Austrian_Netherlands a owl:NamedIndividual .
+
+priv:Austrian_Parliament_Building a owl:NamedIndividual .
+
+priv:Austronesian_peoples a owl:NamedIndividual .
+
+priv:BBC a owl:NamedIndividual .
+
+priv:Ba_Vì_district a owl:NamedIndividual .
+
+priv:Ba_Đình_district a owl:NamedIndividual .
+
+priv:Bad_Homburg a owl:NamedIndividual .
+
+priv:Bahnar_people a owl:NamedIndividual .
+
+priv:Bailieborough a owl:NamedIndividual .
+
+priv:Balkans a owl:NamedIndividual .
+
+priv:Ballater a owl:NamedIndividual .
+
+priv:Balqa_Governorate a owl:NamedIndividual .
+
+priv:Baltic_Sea a owl:NamedIndividual .
+
+<http://example.org/private#Banff,_Alberta> a owl:NamedIndividual .
+
+priv:Barack_Obama a owl:NamedIndividual .
+
+priv:Barbara_of_Cilli a owl:NamedIndividual .
+
+priv:Barbara_of_Portugal a owl:NamedIndividual .
+
+priv:Bari a owl:NamedIndividual .
+
+priv:Baronet a owl:NamedIndividual .
+
+priv:Barthélémy_de_Theux_de_Meylandt a owl:NamedIndividual .
+
+priv:Basilica_of_Saint-Denis a owl:NamedIndividual .
+
+priv:Batavian_Revolution a owl:NamedIndividual .
+
+priv:Battenberg_family a owl:NamedIndividual .
+
+priv:Bayonne a owl:NamedIndividual .
+
+priv:Beatrice_of_Avesnes a owl:NamedIndividual .
+
+priv:Bedfordshire a owl:NamedIndividual .
+
+priv:Begom_Jan_Khanom a owl:NamedIndividual .
+
+priv:Begoña_Gómez a owl:NamedIndividual .
+
+priv:Belgian_Socialist_Party a owl:NamedIndividual .
+
+priv:Belgium a owl:NamedIndividual .
+
+priv:Belgium_in_the_long_nineteenth_century a owl:NamedIndividual .
+
+priv:Belgravia a owl:NamedIndividual .
+
+<http://example.org/private#Bellevue_Palace,_Germany> a owl:NamedIndividual .
+
+priv:Belvoir_Castle a owl:NamedIndividual .
+
+priv:Ben_Ray_Luján a owl:NamedIndividual .
+
+priv:Bengal a owl:NamedIndividual .
+
+priv:Bengal_Sultanate a owl:NamedIndividual .
+
+<http://example.org/private#Benjamin_D'Israeli_(merchant)> a owl:NamedIndividual .
+
+priv:Benjamin_Kendrick_Pierce a owl:NamedIndividual .
+
+priv:Benjamin_Pierce_\(governor\) a owl:NamedIndividual .
+
+priv:Benjamin_Wood_Richards a owl:NamedIndividual .
+
+priv:Berchem-Sainte-Agathe a owl:NamedIndividual .
+
+priv:Berengaria_of_Portugal a owl:NamedIndividual .
+
+priv:Berg_Castle a owl:NamedIndividual .
+
+priv:Berkeley_Square a owl:NamedIndividual .
+
+priv:Berkshire a owl:NamedIndividual .
+
+priv:Berlin a owl:NamedIndividual .
+
+priv:Berlin_Cathedral a owl:NamedIndividual .
+
+priv:Berlin_Palace a owl:NamedIndividual .
+
+priv:Bermuda a owl:NamedIndividual .
+
+<http://example.org/private#Berne,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Bernice_Layne_Brown a owl:NamedIndividual .
+
+priv:Besançon a owl:NamedIndividual .
+
+<http://example.org/private#Bevern,_Lower_Saxony> a owl:NamedIndividual .
+
+priv:Bheki_Maphalala a owl:NamedIndividual .
+
+priv:Bianca_Maria_Sforza a owl:NamedIndividual .
+
+priv:Bill_Archer a owl:NamedIndividual .
+
+priv:Bill_Clinton a owl:NamedIndividual .
+
+<http://example.org/private#Bingham,_Nottinghamshire> a owl:NamedIndividual .
+
+priv:Birmingham a owl:NamedIndividual .
+
+priv:Black_Sea a owl:NamedIndividual .
+
+priv:Bladon a owl:NamedIndividual .
+
+<http://example.org/private#Blanche_Cavendish,_Countess_of_Burlington> a owl:NamedIndividual .
+
+<http://example.org/private#Blanche_of_France,_Duchess_of_Austria> a owl:NamedIndividual .
+
+<http://example.org/private#Blooming_Grove,_Ohio> a owl:NamedIndividual .
+
+priv:Bloomsbury a owl:NamedIndividual .
+
+priv:Bob_Dole a owl:NamedIndividual .
+
+priv:Bobby_Jindal a owl:NamedIndividual .
+
+priv:Bohemia a owl:NamedIndividual .
+
+priv:Bombay_Presidency a owl:NamedIndividual .
+
+priv:Bombay_State a owl:NamedIndividual .
+
+priv:Bona_Sforza a owl:NamedIndividual .
+
+<http://example.org/private#Boniface_I,_Margrave_of_Tuscany> a owl:NamedIndividual .
+
+priv:Boris_I_of_Bulgaria a owl:NamedIndividual .
+
+priv:Boris_Rhein a owl:NamedIndividual .
+
+priv:Boris_Vallaud a owl:NamedIndividual .
+
+priv:Boris_Yeltsin a owl:NamedIndividual .
+
+priv:Borough_president a owl:NamedIndividual .
+
+<http://example.org/private#Boso,_Margrave_of_Tuscany> a owl:NamedIndividual .
+
+priv:Botho_zu_Eulenburg a owl:NamedIndividual .
+
+priv:Bounthong_Chitmany a owl:NamedIndividual .
+
+priv:Bourbon_Restoration_in_France a owl:NamedIndividual .
+
+priv:Bowes-Lyon_family a owl:NamedIndividual .
+
+priv:Bowood_House a owl:NamedIndividual .
+
+priv:Boxing_Day a owl:NamedIndividual .
+
+<http://example.org/private#Bradenham,_Buckinghamshire> a owl:NamedIndividual .
+
+priv:Braunschweig a owl:NamedIndividual .
+
+priv:Breisgau a owl:NamedIndividual .
+
+priv:Brighton a owl:NamedIndividual .
+
+priv:Brigitte_Macron a owl:NamedIndividual .
+
+priv:Brilon a owl:NamedIndividual .
+
+priv:Brisbane a owl:NamedIndividual .
+
+priv:British_America a owl:NamedIndividual .
+
+priv:British_Broadcasting_Company a owl:NamedIndividual .
+
+priv:British_Raj a owl:NamedIndividual .
+
+priv:Broadcasting_House a owl:NamedIndividual .
+
+<http://example.org/private#Brook_Street,_London> a owl:NamedIndividual .
+
+priv:Brooklyn a owl:NamedIndividual .
+
+priv:Brooklyn_District_Attorney a owl:NamedIndividual .
+
+priv:Bruck_an_der_Mur a owl:NamedIndividual .
+
+priv:Bruges a owl:NamedIndividual .
+
+priv:Brunswick-Bevern a owl:NamedIndividual .
+
+<http://example.org/private#Brunswick–Lüneburg> a owl:NamedIndividual .
+
+priv:Brussels_Parliament_building a owl:NamedIndividual .
+
+priv:Bucharest a owl:NamedIndividual .
+
+priv:Buda a owl:NamedIndividual .
+
+priv:Buda_Castle a owl:NamedIndividual .
+
+<http://example.org/private#Buffalo,_New_York> a owl:NamedIndividual .
+
+priv:Building_of_Council_of_Labor_and_Defense a owl:NamedIndividual .
+
+priv:Bukit_Mertajam a owl:NamedIndividual .
+
+priv:Bundespräsidium a owl:NamedIndividual .
+
+priv:Bundesrat_\(German_Empire\) a owl:NamedIndividual .
+
+priv:Bundestag a owl:NamedIndividual .
+
+priv:Buonconvento a owl:NamedIndividual .
+
+priv:Burgomaster a owl:NamedIndividual .
+
+<http://example.org/private#Bury,_Greater_Manchester> a owl:NamedIndividual .
+
+priv:Bush_family a owl:NamedIndividual .
+
+priv:Báthory_family a owl:NamedIndividual .
+
+priv:C._P._Radhakrishnan a owl:NamedIndividual .
+
+priv:Calgary a owl:NamedIndividual .
+
+<http://example.org/private#California's_21st_senatorial_district> a owl:NamedIndividual .
+
+<http://example.org/private#California's_24th_congressional_district> a owl:NamedIndividual .
+
+<http://example.org/private#California's_37th_State_Assembly_district> a owl:NamedIndividual .
+
+priv:Calvin_Coolidge a owl:NamedIndividual .
+
+priv:Cambo-les-Bains a owl:NamedIndividual .
+
+priv:Cambodia a owl:NamedIndividual .
+
+priv:Cameron_Henry a owl:NamedIndividual .
+
+priv:Camille_Janssen a owl:NamedIndividual .
+
+priv:Canada a owl:NamedIndividual .
+
+priv:Canberra a owl:NamedIndividual .
+
+priv:Cannes a owl:NamedIndividual .
+
+priv:Canute_VI_of_Denmark a owl:NamedIndividual .
+
+priv:Capitol_Hill a owl:NamedIndividual .
+
+priv:Capri a owl:NamedIndividual .
+
+priv:Captaincy_General_of_Chile a owl:NamedIndividual .
+
+priv:Carl_Gustaf_Emil_Mannerheim a owl:NamedIndividual .
+
+priv:Carl_XVI_Gustaf a owl:NamedIndividual .
+
+<http://example.org/private#Carlisle,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Carlos_Solis a owl:NamedIndividual .
+
+priv:Caroline_Augusta_of_Bavaria a owl:NamedIndividual .
+
+priv:Caroline_Lacroix a owl:NamedIndividual .
+
+priv:Caroline_Russell a owl:NamedIndividual .
+
+priv:Caroline_of_Baden a owl:NamedIndividual .
+
+priv:Caroline_of_Brunswick a owl:NamedIndividual .
+
+priv:Cartmel a owl:NamedIndividual .
+
+priv:Casimir_Pierre_Périer a owl:NamedIndividual .
+
+priv:Cassius_Marcellus_Clay_\(politician\) a owl:NamedIndividual .
+
+priv:Castello_Estense a owl:NamedIndividual .
+
+priv:Castello_del_Catajo a owl:NamedIndividual .
+
+priv:Catherine_Gladstone a owl:NamedIndividual .
+
+priv:Catherine_Jagiellon a owl:NamedIndividual .
+
+priv:Catherine_Telegdi a owl:NamedIndividual .
+
+<http://example.org/private#Catherine_Wellesley,_Duchess_of_Wellington> a owl:NamedIndividual .
+
+priv:Catholic a owl:NamedIndividual .
+
+<http://example.org/private#Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne> a owl:NamedIndividual .
+
+priv:Cecilia_Renata_of_Austria a owl:NamedIndividual .
+
+priv:Central_Asia a owl:NamedIndividual .
+
+priv:Central_Indo-Aryan_languages a owl:NamedIndividual .
+
+priv:Central_Legislative_Assembly a owl:NamedIndividual .
+
+priv:Centro_\(Madrid\) a owl:NamedIndividual .
+
+priv:Chair_\(officer\) a owl:NamedIndividual .
+
+priv:Chairman_of_the_National_Assembly_of_Vietnam a owl:NamedIndividual .
+
+<http://example.org/private#Chairman_of_the_Standing_Committee_of_the_National_People's_Congress> a owl:NamedIndividual .
+
+priv:Chancellor_of_Austria a owl:NamedIndividual .
+
+priv:Chancellor_of_Germany a owl:NamedIndividual .
+
+priv:Chapelle_royale_de_Dreux a owl:NamedIndividual .
+
+priv:Charissa_Suli a owl:NamedIndividual .
+
+priv:Charles-François_Lebrun a owl:NamedIndividual .
+
+priv:Charles-René_de_Bombelles a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Abbott,_1st_Baron_Tenterden> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Adderley,_1st_Baron_Norton> a owl:NamedIndividual .
+
+priv:Charles_Arbuthnot a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Chetwynd-Talbot,_19th_Earl_of_Shrewsbury> a owl:NamedIndividual .
+
+priv:Charles_Dodgson_\(bishop\) a owl:NamedIndividual .
+
+priv:Charles_Dodgson_\(priest\) a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Edward,_Duke_of_Saxe-Coburg_and_Gotha> a owl:NamedIndividual .
+
+priv:Charles_Edward_Magoon a owl:NamedIndividual .
+
+priv:Charles_Evans_Hughes a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Francis_Adams_Sr.> a owl:NamedIndividual .
+
+priv:Charles_G._Atherton a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Gordon-Lennox,_6th_Duke_of_Richmond> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Gordon-Lennox,_7th_Duke_of_Richmond> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Grant,_1st_Baron_Glenelg> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Grey,_2nd_Earl_Grey> a owl:NamedIndividual .
+
+priv:Charles_Grey_\(British_Army_officer\) a owl:NamedIndividual .
+
+priv:Charles_H._Aldrich a owl:NamedIndividual .
+
+<http://example.org/private#Charles_II,_Archduke_of_Austria> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_II,_Duke_of_Parma> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_II,_Grand_Duke_of_Mecklenburg-Strelitz> a owl:NamedIndividual .
+
+priv:Charles_III a owl:NamedIndividual .
+
+priv:Charles_II_of_Spain a owl:NamedIndividual .
+
+<http://example.org/private#Charles_IV,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Charles_IV_of_Spain a owl:NamedIndividual .
+
+priv:Charles_IX_of_Sweden a owl:NamedIndividual .
+
+priv:Charles_I_of_Austria a owl:NamedIndividual .
+
+priv:Charles_Jared_Ingersoll a owl:NamedIndividual .
+
+priv:Charles_M._Egan a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Manners,_6th_Duke_of_Rutland> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Monck,_4th_Viscount_Monck> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Pelham,_4th_Earl_of_Yarborough> a owl:NamedIndividual .
+
+priv:Charles_Picqué a owl:NamedIndividual .
+
+priv:Charles_Rogier a owl:NamedIndividual .
+
+priv:Charles_Sumner a owl:NamedIndividual .
+
+<http://example.org/private#Charles_V,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_VI,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_VII,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Vane-Tempest-Stewart,_6th_Marquess_of_Londonderry> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Wood,_1st_Viscount_Halifax> a owl:NamedIndividual .
+
+<http://example.org/private#Charles_Wood,_2nd_Viscount_Halifax> a owl:NamedIndividual .
+
+priv:Charles_X_of_France a owl:NamedIndividual .
+
+priv:Charles_Yost a owl:NamedIndividual .
+
+priv:Charles_de_Broqueville a owl:NamedIndividual .
+
+priv:Charles_de_Merode-Westerloo a owl:NamedIndividual .
+
+priv:Charles_the_Bald a owl:NamedIndividual .
+
+priv:Charlotte_Campbell-Bannerman a owl:NamedIndividual .
+
+<http://example.org/private#Charolais,_France> a owl:NamedIndividual .
+
+priv:Chatsworth_House a owl:NamedIndividual .
+
+priv:Cheshire a owl:NamedIndividual .
+
+priv:Chester a owl:NamedIndividual .
+
+priv:Chicago a owl:NamedIndividual .
+
+<http://example.org/private#Chichester_Parkinson-Fortescue,_1st_Baron_Carlingford> a owl:NamedIndividual .
+
+priv:Chief_Justice_of_Afghanistan a owl:NamedIndividual .
+
+priv:Chief_Justice_of_South_Africa a owl:NamedIndividual .
+
+priv:Chief_Justice_of_the_United_States a owl:NamedIndividual .
+
+priv:Chief_executive_officer a owl:NamedIndividual .
+
+priv:Chief_justice a owl:NamedIndividual .
+
+priv:China a owl:NamedIndividual .
+
+<http://example.org/private#Chiyoda,_Tokyo> a owl:NamedIndividual .
+
+<http://example.org/private#Chlodwig,_Prince_of_Hohenlohe-Schillingsfürst> a owl:NamedIndividual .
+
+<http://example.org/private#Christian,_Crown_Prince_of_Denmark> a owl:NamedIndividual .
+
+<http://example.org/private#Christian_August_II,_Duke_of_Schleswig-Holstein-Sonderburg-Augustenburg> a owl:NamedIndividual .
+
+priv:Christian_Charles_Josias_von_Bunsen a owl:NamedIndividual .
+
+<http://example.org/private#Christian_Danneskiold-Samsøe_(Danish_nobleman,_born_1774)> a owl:NamedIndividual .
+
+priv:Christian_IX_of_Denmark a owl:NamedIndividual .
+
+priv:Christian_Poncelet a owl:NamedIndividual .
+
+priv:Christian_Stocker a owl:NamedIndividual .
+
+priv:Christian_VIII_of_Denmark a owl:NamedIndividual .
+
+priv:Christiane_Emilie_of_Schwarzburg-Sondershausen a owl:NamedIndividual .
+
+priv:Christina_of_Holstein-Gottorp a owl:NamedIndividual .
+
+priv:Christmas_Eve a owl:NamedIndividual .
+
+priv:Christmastide a owl:NamedIndividual .
+
+priv:Christoph_Chorherr a owl:NamedIndividual .
+
+priv:Chuck_Grassley a owl:NamedIndividual .
+
+priv:Chuck_Schumer a owl:NamedIndividual .
+
+priv:Chunar a owl:NamedIndividual .
+
+priv:Church_of_Our_Lady_of_Laeken a owl:NamedIndividual .
+
+<http://example.org/private#Church_of_Peace,_Potsdam> a owl:NamedIndividual .
+
+priv:Churchill_C._Cambreleng a owl:NamedIndividual .
+
+priv:Cincinnati a owl:NamedIndividual .
+
+<http://example.org/private#City_Hall,_London_(Newham)> a owl:NamedIndividual .
+
+priv:City_council a owl:NamedIndividual .
+
+priv:City_manager a owl:NamedIndividual .
+
+priv:City_of_Brussels a owl:NamedIndividual .
+
+priv:City_of_Westminster a owl:NamedIndividual .
+
+priv:City_status_in_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Claude_Ambroise_Régnier a owl:NamedIndividual .
+
+<http://example.org/private#Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne> a owl:NamedIndividual .
+
+priv:Clinton_family a owl:NamedIndividual .
+
+<http://example.org/private#Clive_Wigram,_1st_Baron_Wigram> a owl:NamedIndividual .
+
+priv:Coconut_Grove a owl:NamedIndividual .
+
+priv:Colmar-Berg a owl:NamedIndividual .
+
+priv:Colony_of_Virginia a owl:NamedIndividual .
+
+priv:Community_of_Madrid a owl:NamedIndividual .
+
+priv:Company_rule_in_India a owl:NamedIndividual .
+
+<http://example.org/private#Concord,_New_Hampshire> a owl:NamedIndividual .
+
+priv:Condoleezza_Rice a owl:NamedIndividual .
+
+priv:Congress_of_Deputies a owl:NamedIndividual .
+
+priv:Conrad_IV_of_Germany a owl:NamedIndividual .
+
+priv:Conservative_Campaign_Headquarters a owl:NamedIndividual .
+
+priv:Conservative_Party_\(UK\) a owl:NamedIndividual .
+
+priv:Constance_of_Austria a owl:NamedIndividual .
+
+priv:Constance_of_Hungary a owl:NamedIndividual .
+
+<http://example.org/private#Constantine_Phipps,_1st_Marquess_of_Normanby> a owl:NamedIndividual .
+
+priv:Constitution_of_Denmark a owl:NamedIndividual .
+
+priv:Convent_of_the_Salesas_Reales a owl:NamedIndividual .
+
+priv:Copenhagen a owl:NamedIndividual .
+
+priv:Corfu a owl:NamedIndividual .
+
+priv:Cornelius_Darragh a owl:NamedIndividual .
+
+priv:Cornwall a owl:NamedIndividual .
+
+priv:Council_of_State_\(India\) a owl:NamedIndividual .
+
+priv:Council_of_State_\(Netherlands\) a owl:NamedIndividual .
+
+priv:Council_of_the_District_of_Columbia a owl:NamedIndividual .
+
+priv:Count_of_Altemburg a owl:NamedIndividual .
+
+priv:Count_of_Artois a owl:NamedIndividual .
+
+priv:Count_of_Barcelona a owl:NamedIndividual .
+
+priv:Count_of_Besalú a owl:NamedIndividual .
+
+priv:Count_of_Champagne a owl:NamedIndividual .
+
+priv:Count_of_Chartres a owl:NamedIndividual .
+
+priv:Count_of_Flanders a owl:NamedIndividual .
+
+priv:Count_of_Girona a owl:NamedIndividual .
+
+priv:Count_of_Goriza a owl:NamedIndividual .
+
+priv:Count_of_Hainaut a owl:NamedIndividual .
+
+priv:Count_of_Haut-Rhin a owl:NamedIndividual .
+
+priv:Count_of_Hohenberg a owl:NamedIndividual .
+
+priv:Count_of_Holland a owl:NamedIndividual .
+
+priv:Count_of_Mortain a owl:NamedIndividual .
+
+priv:Count_of_Nevers a owl:NamedIndividual .
+
+priv:Count_of_Onertau a owl:NamedIndividual .
+
+priv:Count_of_Paris a owl:NamedIndividual .
+
+priv:Count_of_Perche a owl:NamedIndividual .
+
+priv:Count_of_Poitiers a owl:NamedIndividual .
+
+priv:Count_of_Roussillon a owl:NamedIndividual .
+
+priv:Count_of_Toulouse a owl:NamedIndividual .
+
+priv:Count_of_Vermandois a owl:NamedIndividual .
+
+priv:Count_of_Vertus a owl:NamedIndividual .
+
+priv:Count_of_Zutphen a owl:NamedIndividual .
+
+priv:Count_of_Évreux a owl:NamedIndividual .
+
+priv:Count_palatine a owl:NamedIndividual .
+
+priv:Countess_Augusta_Reuss_of_Ebersdorf a owl:NamedIndividual .
+
+priv:Countess_Louise_Sophie_Danneskiold-Samsøe a owl:NamedIndividual .
+
+priv:Countess_Maria_Louise_Albertine_of_Leiningen-Dagsburg-Falkenburg a owl:NamedIndividual .
+
+priv:Countess_Palatine_Dorothea_Sophie_of_Neuburg a owl:NamedIndividual .
+
+priv:Countess_Sophia_Albertine_of_Erbach-Erbach a owl:NamedIndividual .
+
+priv:Counts_and_Dukes_of_Angoulême a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Alençon a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Anjou a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Aumale a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Gravina a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Guelders a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Valois a owl:NamedIndividual .
+
+priv:Counts_and_dukes_of_Étampes a owl:NamedIndividual .
+
+priv:Counts_of_Clermont-en-Beauvaisis a owl:NamedIndividual .
+
+priv:Counts_of_Dreux a owl:NamedIndividual .
+
+priv:Counts_of_Eu a owl:NamedIndividual .
+
+priv:Counts_of_Louvain a owl:NamedIndividual .
+
+priv:Counts_of_Soissons a owl:NamedIndividual .
+
+priv:County_Cavan a owl:NamedIndividual .
+
+priv:County_Kildare a owl:NamedIndividual .
+
+priv:County_Meath a owl:NamedIndividual .
+
+priv:County_of_Cerdanya a owl:NamedIndividual .
+
+priv:County_of_Hainaut a owl:NamedIndividual .
+
+priv:County_of_La_Marche a owl:NamedIndividual .
+
+priv:County_of_Longueville a owl:NamedIndividual .
+
+priv:County_of_Nassau a owl:NamedIndividual .
+
+priv:County_of_Osona a owl:NamedIndividual .
+
+priv:County_of_Provence a owl:NamedIndividual .
+
+priv:County_of_Tyrol a owl:NamedIndividual .
+
+priv:County_of_Zeeland a owl:NamedIndividual .
+
+<http://example.org/private#Cove_Gap,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Crimea a owl:NamedIndividual .
+
+<http://example.org/private#Cromartie_Sutherland-Leveson-Gower,_4th_Duke_of_Sutherland> a owl:NamedIndividual .
+
+<http://example.org/private#Cromwell's_Other_House> a owl:NamedIndividual .
+
+priv:Crown_Colony_of_Penang a owl:NamedIndividual .
+
+priv:Crown_of_the_Kingdom_of_Poland a owl:NamedIndividual .
+
+priv:Croydon a owl:NamedIndividual .
+
+priv:Cumbria a owl:NamedIndividual .
+
+priv:Cymburgis_of_Masovia a owl:NamedIndividual .
+
+priv:Cyril_Ramaphosa a owl:NamedIndividual .
+
+<http://example.org/private#Dagsboro,_Delaware> a owl:NamedIndividual .
+
+priv:Damvillers a owl:NamedIndividual .
+
+priv:Dan_Quayle a owl:NamedIndividual .
+
+priv:Danene_Sorace a owl:NamedIndividual .
+
+priv:Dangan_Castle a owl:NamedIndividual .
+
+priv:Daniel_D._Barnard a owl:NamedIndividual .
+
+priv:Daniel_D._Tompkins a owl:NamedIndividual .
+
+priv:Daniel_Elliott_Huger a owl:NamedIndividual .
+
+priv:Daniel_Patrick_Moynihan a owl:NamedIndividual .
+
+priv:Daniel_Webster a owl:NamedIndividual .
+
+priv:Daniil_Yegorov a owl:NamedIndividual .
+
+priv:Danneskiold-Samsøe a owl:NamedIndividual .
+
+priv:Daresbury a owl:NamedIndividual .
+
+priv:Darmstadt a owl:NamedIndividual .
+
+priv:Dauphin_of_France a owl:NamedIndividual .
+
+priv:David_K._E._Bruce a owl:NamedIndividual .
+
+<http://example.org/private#David_Plunket,_1st_Baron_Rathmore> a owl:NamedIndividual .
+
+priv:David_Wilmot_\(politician\) a owl:NamedIndividual .
+
+priv:Debbie_Dingell a owl:NamedIndividual .
+
+priv:Deilingen a owl:NamedIndividual .
+
+priv:Delft a owl:NamedIndividual .
+
+priv:Delhi a owl:NamedIndividual .
+
+priv:Delhi_Sultanate a owl:NamedIndividual .
+
+priv:Delizia_di_Belriguardo a owl:NamedIndividual .
+
+priv:Democratic_Party_\(United_States\) a owl:NamedIndividual .
+
+priv:Denbighshire a owl:NamedIndividual .
+
+priv:Deputy_President_of_South_Africa a owl:NamedIndividual .
+
+priv:Derbyshire a owl:NamedIndividual .
+
+priv:Derry_Hill a owl:NamedIndividual .
+
+priv:Destin_Hall a owl:NamedIndividual .
+
+priv:Detmold a owl:NamedIndividual .
+
+priv:Deva_dynasty a owl:NamedIndividual .
+
+priv:Dewan_Negara a owl:NamedIndividual .
+
+priv:Dewan_Rakyat a owl:NamedIndividual .
+
+priv:Dick_Borrell a owl:NamedIndividual .
+
+priv:Dick_Durbin a owl:NamedIndividual .
+
+priv:Diet_of_Hungary a owl:NamedIndividual .
+
+priv:Dijon a owl:NamedIndividual .
+
+priv:Diocese_and_prince-bishopric_of_Schwerin a owl:NamedIndividual .
+
+priv:Dissolution_of_the_Holy_Roman_Empire a owl:NamedIndividual .
+
+priv:District_attorney a owl:NamedIndividual .
+
+priv:District_of_Columbia a owl:NamedIndividual .
+
+<http://example.org/private#District_of_Columbia's_at-large_congressional_district> a owl:NamedIndividual .
+
+priv:District_of_Columbia_Home_Rule_Act a owl:NamedIndividual .
+
+priv:District_of_Columbia_Organic_Act_of_1801 a owl:NamedIndividual .
+
+priv:District_of_Columbia_Organic_Act_of_1871 a owl:NamedIndividual .
+
+priv:Dmitry_Medvedev a owl:NamedIndividual .
+
+priv:Donald_B._Ayer a owl:NamedIndividual .
+
+priv:Donald_Trump a owl:NamedIndividual .
+
+priv:Doncaster a owl:NamedIndividual .
+
+priv:Donovan_Richards a owl:NamedIndividual .
+
+priv:Dora_Russell a owl:NamedIndividual .
+
+priv:Doris_Bures a owl:NamedIndividual .
+
+priv:Doris_Schmidauer a owl:NamedIndividual .
+
+priv:Dorothy_Howell_Rodham a owl:NamedIndividual .
+
+<http://example.org/private#Dover,_Delaware> a owl:NamedIndividual .
+
+priv:Dresden a owl:NamedIndividual .
+
+priv:Dresden_Castle a owl:NamedIndividual .
+
+priv:Droupadi_Murmu a owl:NamedIndividual .
+
+priv:Dublin a owl:NamedIndividual .
+
+priv:Dubrovnik a owl:NamedIndividual .
+
+priv:Duc_de_Dalberg a owl:NamedIndividual .
+
+priv:Ducal_Palace_of_Modena a owl:NamedIndividual .
+
+priv:Ducal_Palace_of_Sassuolo a owl:NamedIndividual .
+
+priv:Duchess_Elisabeth_of_Württemberg a owl:NamedIndividual .
+
+priv:Duchess_Luise_of_Brunswick-Wolfenbüttel a owl:NamedIndividual .
+
+priv:Duchess_Maria_Dorothea_of_Württemberg a owl:NamedIndividual .
+
+priv:Duchess_Marie_of_Württemberg a owl:NamedIndividual .
+
+priv:Duchy_of_Austria a owl:NamedIndividual .
+
+priv:Duchy_of_Bavaria a owl:NamedIndividual .
+
+priv:Duchy_of_Brunswick a owl:NamedIndividual .
+
+priv:Duchy_of_Bukovina a owl:NamedIndividual .
+
+priv:Duchy_of_Carinthia a owl:NamedIndividual .
+
+priv:Duchy_of_Carniola a owl:NamedIndividual .
+
+priv:Duchy_of_Ferrara a owl:NamedIndividual .
+
+<http://example.org/private#Duchy_of_Limburg_(1839–1867)> a owl:NamedIndividual .
+
+priv:Duchy_of_Lucca a owl:NamedIndividual .
+
+priv:Duchy_of_Masovia a owl:NamedIndividual .
+
+priv:Duchy_of_Massa_and_Carrara a owl:NamedIndividual .
+
+priv:Duchy_of_Mecklenburg-Schwerin a owl:NamedIndividual .
+
+priv:Duchy_of_Mecklenburg-Strelitz a owl:NamedIndividual .
+
+priv:Duchy_of_Parma_and_Piacenza a owl:NamedIndividual .
+
+priv:Duchy_of_Saxony a owl:NamedIndividual .
+
+priv:Duchy_of_Styria a owl:NamedIndividual .
+
+priv:Duchy_of_Swabia a owl:NamedIndividual .
+
+<http://example.org/private#Dudley_Ryder,_3rd_Earl_of_Harrowby> a owl:NamedIndividual .
+
+priv:Duke_Buchan a owl:NamedIndividual .
+
+priv:Duke_Charles_Louis_Frederick_of_Mecklenburg a owl:NamedIndividual .
+
+priv:Duke_of_Aquitaine a owl:NamedIndividual .
+
+priv:Duke_of_Berry a owl:NamedIndividual .
+
+priv:Duke_of_Bourbon a owl:NamedIndividual .
+
+priv:Duke_of_Brabant a owl:NamedIndividual .
+
+priv:Duke_of_Braganza a owl:NamedIndividual .
+
+priv:Duke_of_Burgundy a owl:NamedIndividual .
+
+priv:Duke_of_Calabria a owl:NamedIndividual .
+
+priv:Duke_of_Chartres a owl:NamedIndividual .
+
+priv:Duke_of_Châtellerault a owl:NamedIndividual .
+
+priv:Duke_of_Enghien a owl:NamedIndividual .
+
+priv:Duke_of_Ferrara_and_of_Modena a owl:NamedIndividual .
+
+priv:Duke_of_Finland a owl:NamedIndividual .
+
+priv:Duke_of_Galliera a owl:NamedIndividual .
+
+priv:Duke_of_Lothier a owl:NamedIndividual .
+
+priv:Duke_of_Montpensier a owl:NamedIndividual .
+
+priv:Duke_of_Nemours a owl:NamedIndividual .
+
+priv:Duke_of_Normandy a owl:NamedIndividual .
+
+priv:Duke_of_Orléans a owl:NamedIndividual .
+
+priv:Duke_of_Parma a owl:NamedIndividual .
+
+priv:Duke_of_Slavonia a owl:NamedIndividual .
+
+priv:Duke_of_Spoleto a owl:NamedIndividual .
+
+priv:Duke_of_Teck a owl:NamedIndividual .
+
+priv:Duke_of_Touraine a owl:NamedIndividual .
+
+priv:Dumfries a owl:NamedIndividual .
+
+priv:Dunrobin_Castle a owl:NamedIndividual .
+
+priv:Durrës a owl:NamedIndividual .
+
+priv:Dutch_Republic a owl:NamedIndividual .
+
+<http://example.org/private#Dysart,_Fife> a owl:NamedIndividual .
+
+priv:Dáil_constituencies a owl:NamedIndividual .
+
+priv:DéFI a owl:NamedIndividual .
+
+priv:Early_New_High_German a owl:NamedIndividual .
+
+priv:East_Asia a owl:NamedIndividual .
+
+priv:East_Cowes a owl:NamedIndividual .
+
+priv:East_Sussex a owl:NamedIndividual .
+
+priv:East_Timor a owl:NamedIndividual .
+
+priv:Eastern_Europe a owl:NamedIndividual .
+
+priv:Eastern_Hungarian_Kingdom a owl:NamedIndividual .
+
+priv:Easton_Lodge a owl:NamedIndividual .
+
+priv:Eaton_Square a owl:NamedIndividual .
+
+priv:Eaubonne a owl:NamedIndividual .
+
+priv:Ecolo a owl:NamedIndividual .
+
+priv:Ed_Markey a owl:NamedIndividual .
+
+priv:Edgar_Cowan a owl:NamedIndividual .
+
+priv:Edinburgh a owl:NamedIndividual .
+
+priv:Edith_Finch_Russell a owl:NamedIndividual .
+
+priv:Edith_Luckett_Davis a owl:NamedIndividual .
+
+priv:Edith_Wilson a owl:NamedIndividual .
+
+priv:Edmond_de_Sélys_Longchamps a owl:NamedIndividual .
+
+priv:Edmund_Peel a owl:NamedIndividual .
+
+priv:Edolphus_Towns a owl:NamedIndividual .
+
+<http://example.org/private#Edward,_King_of_Portugal> a owl:NamedIndividual .
+
+priv:Edward_Akroyd a owl:NamedIndividual .
+
+priv:Edward_C._Stokes a owl:NamedIndividual .
+
+priv:Edward_D._Duffield a owl:NamedIndividual .
+
+priv:Edward_Douglass_White a owl:NamedIndividual .
+
+priv:Edward_Egerton a owl:NamedIndividual .
+
+priv:Edward_Ellice_\(merchant\) a owl:NamedIndividual .
+
+<http://example.org/private#Edward_Grenfell,_1st_Baron_St_Just> a owl:NamedIndividual .
+
+priv:Edward_Horsman a owl:NamedIndividual .
+
+<http://example.org/private#Edward_Knatchbull-Hugessen,_1st_Baron_Brabourne> a owl:NamedIndividual .
+
+priv:Edward_Mitchell_\(Scottish_politician\) a owl:NamedIndividual .
+
+<http://example.org/private#Edward_Smith-Stanley,_13th_Earl_of_Derby> a owl:NamedIndividual .
+
+<http://example.org/private#Edward_Smith-Stanley,_14th_Earl_of_Derby> a owl:NamedIndividual .
+
+priv:Edward_Stanhope a owl:NamedIndividual .
+
+<http://example.org/private#Edward_Stanley,_15th_Earl_of_Derby> a owl:NamedIndividual .
+
+priv:Edward_VIII a owl:NamedIndividual .
+
+priv:Edwards_Cust a owl:NamedIndividual .
+
+priv:Edwin_Stanton a owl:NamedIndividual .
+
+priv:Ehrenburg_Palace a owl:NamedIndividual .
+
+priv:Eisenach a owl:NamedIndividual .
+
+priv:El_Escorial a owl:NamedIndividual .
+
+priv:Eldred_Simkins a owl:NamedIndividual .
+
+<http://example.org/private#Eleanor_of_Aragon,_Queen_of_Portugal> a owl:NamedIndividual .
+
+<http://example.org/private#Eleanor_of_Portugal,_Holy_Roman_Empress> a owl:NamedIndividual .
+
+priv:Electorate_of_Bavaria a owl:NamedIndividual .
+
+priv:Electorate_of_Hanover a owl:NamedIndividual .
+
+priv:Electorate_of_Saxony a owl:NamedIndividual .
+
+priv:Elen_Asatryan a owl:NamedIndividual .
+
+priv:Eleonore_Magdalene_of_Neuburg a owl:NamedIndividual .
+
+priv:Elihu_Root a owl:NamedIndividual .
+
+priv:Elisabeth_Christine_of_Brunswick-Wolfenbüttel a owl:NamedIndividual .
+
+<http://example.org/private#Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia> a owl:NamedIndividual .
+
+priv:Elisabeth_Christine_of_Brunswick-Wolfenbüttel-Bevern a owl:NamedIndividual .
+
+priv:Elisabeth_Farnese a owl:NamedIndividual .
+
+priv:Elisabeth_Ludovika_of_Bavaria a owl:NamedIndividual .
+
+<http://example.org/private#Elisabeth_of_Bavaria,_Queen_of_Germany> a owl:NamedIndividual .
+
+<http://example.org/private#Elisabeth_of_Bavaria,_Queen_of_the_Belgians> a owl:NamedIndividual .
+
+<http://example.org/private#Elisabeth_of_Carinthia,_Queen_of_Germany> a owl:NamedIndividual .
+
+<http://example.org/private#Elizabeth_FitzRoy,_Duchess_of_Grafton> a owl:NamedIndividual .
+
+<http://example.org/private#Elizabeth_Lamb,_Viscountess_Melbourne> a owl:NamedIndividual .
+
+<http://example.org/private#Elizabeth_Manners,_Duchess_of_Rutland> a owl:NamedIndividual .
+
+priv:Elizabeth_Richeza_of_Poland a owl:NamedIndividual .
+
+priv:Elizabeth_of_Lobdeburg-Arnshaugk a owl:NamedIndividual .
+
+priv:Elizabeth_of_Luxembourg a owl:NamedIndividual .
+
+priv:Elizabeth_of_Pomerania a owl:NamedIndividual .
+
+priv:Elke_Büdenbender a owl:NamedIndividual .
+
+priv:Ellen_Axson_Wilson a owl:NamedIndividual .
+
+priv:Ellis_Lewis a owl:NamedIndividual .
+
+<http://example.org/private#Emich_Carl,_2nd_Prince_of_Leiningen> a owl:NamedIndividual .
+
+<http://example.org/private#Emicho_I,_Count_of_Nassau-Hadamar> a owl:NamedIndividual .
+
+<http://example.org/private#Emily_FitzGerald,_Duchess_of_Leinster> a owl:NamedIndividual .
+
+<http://example.org/private#Emma_Caroline_Smith-Stanley,_Countess_of_Derby> a owl:NamedIndividual .
+
+<http://example.org/private#Emmanuel,_comte_de_Las_Cases> a owl:NamedIndividual .
+
+priv:Emmanuel_Macron a owl:NamedIndividual .
+
+priv:Emmanuelle_Wargon a owl:NamedIndividual .
+
+priv:Emperor_Jimmu a owl:NamedIndividual .
+
+priv:Emperor_of_Austria a owl:NamedIndividual .
+
+priv:Emperor_of_India a owl:NamedIndividual .
+
+priv:Emperor_of_Japan a owl:NamedIndividual .
+
+priv:Emperor_of_Mexico a owl:NamedIndividual .
+
+priv:Emperor_of_Russia a owl:NamedIndividual .
+
+priv:Empire_of_Japan a owl:NamedIndividual .
+
+priv:Empress_Elisabeth_of_Austria a owl:NamedIndividual .
+
+priv:Empress_Masako a owl:NamedIndividual .
+
+priv:Empress_Michiko a owl:NamedIndividual .
+
+<http://example.org/private#Enfield,_London> a owl:NamedIndividual .
+
+priv:England_and_Wales a owl:NamedIndividual .
+
+priv:England_national_football_team a owl:NamedIndividual .
+
+priv:English_claims_to_the_French_throne a owl:NamedIndividual .
+
+<http://example.org/private#Enrichetta_d'Este> a owl:NamedIndividual .
+
+<http://example.org/private#Ephrata,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Epiphany_\(holiday\) a owl:NamedIndividual .
+
+priv:Epsom a owl:NamedIndividual .
+
+<http://example.org/private#Ercole_III_d'Este> a owl:NamedIndividual .
+
+priv:Eric_Gonzalez_\(lawyer\) a owl:NamedIndividual .
+
+priv:Eric_IV_of_Denmark a owl:NamedIndividual .
+
+priv:Eric_XIV_of_Sweden a owl:NamedIndividual .
+
+<http://example.org/private#Ernest,_Duke_of_Austria> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_Augustus,_Duke_of_Brunswick> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_Augustus,_Elector_of_Hanover> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_Augustus,_King_of_Hanover> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_Frederick_I,_Duke_of_Saxe-Hildburghausen> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha> a owl:NamedIndividual .
+
+<http://example.org/private#Ernest_Louis,_Grand_Duke_of_Hesse> a owl:NamedIndividual .
+
+<http://example.org/private#Ernst_II,_Prince_of_Hohenlohe-Langenburg> a owl:NamedIndividual .
+
+priv:Erskine_Childers_\(author\) a owl:NamedIndividual .
+
+priv:Essex a owl:NamedIndividual .
+
+priv:Esther_Gil_de_Reboleño_Lastortres a owl:NamedIndividual .
+
+priv:Eswatini a owl:NamedIndividual .
+
+<http://example.org/private#Eugene,_Oregon> a owl:NamedIndividual .
+
+priv:Eugénie_de_Montijo a owl:NamedIndividual .
+
+priv:Europe a owl:NamedIndividual .
+
+priv:European_Parliament_constituencies_in_the_Republic_of_Ireland a owl:NamedIndividual .
+
+priv:European_theatre_of_World_War_I a owl:NamedIndividual .
+
+<http://example.org/private#Euston,_Suffolk> a owl:NamedIndividual .
+
+priv:Eva_Glawischnig-Piesczek a owl:NamedIndividual .
+
+priv:Evan_Meredith_Jenkins a owl:NamedIndividual .
+
+priv:Executive_arrangements a owl:NamedIndividual .
+
+priv:Ezzat_ed-Dowleh a owl:NamedIndividual .
+
+<http://example.org/private#F._J._Robinson,_1st_Viscount_Goderich> a owl:NamedIndividual .
+
+<http://example.org/private#Fairfax_County,_Virginia> a owl:NamedIndividual .
+
+priv:Family_of_Donald_Trump a owl:NamedIndividual .
+
+priv:Family_of_Vladimir_Putin a owl:NamedIndividual .
+
+priv:Far_East a owl:NamedIndividual .
+
+priv:Fasque_House a owl:NamedIndividual .
+
+priv:Fatemeh_Sultan_Baghbanbashi a owl:NamedIndividual .
+
+priv:Fath-Ali_Shah_Qajar a owl:NamedIndividual .
+
+priv:Fatima_Masumeh_Shrine a owl:NamedIndividual .
+
+priv:Feast_of_the_Baptism_of_the_Lord a owl:NamedIndividual .
+
+priv:Federal_Council_\(Austria\) a owl:NamedIndividual .
+
+priv:Federalist_Party a owl:NamedIndividual .
+
+priv:Federation_Council_\(Russia\) a owl:NamedIndividual .
+
+priv:Felipe_VI a owl:NamedIndividual .
+
+priv:Fellow_of_the_Royal_College_of_Physicians a owl:NamedIndividual .
+
+priv:Fellow_of_the_Royal_Society a owl:NamedIndividual .
+
+<http://example.org/private#Ferdinand_Albert_II,_Duke_of_Brunswick-Wolfenbüttel> a owl:NamedIndividual .
+
+priv:Ferdinand_I_of_Austria a owl:NamedIndividual .
+
+priv:Ferdinand_I_of_the_Two_Sicilies a owl:NamedIndividual .
+
+priv:Ferdinand_VI a owl:NamedIndividual .
+
+priv:Ferdinand_VII a owl:NamedIndividual .
+
+<http://example.org/private#Fernando_de_Silva,_12th_Duke_of_Alba> a owl:NamedIndividual .
+
+priv:Ferrara a owl:NamedIndividual .
+
+priv:Fife a owl:NamedIndividual .
+
+<http://example.org/private#File:Panker_2012a.jpg> a owl:NamedIndividual .
+
+priv:Fin_Garden a owl:NamedIndividual .
+
+priv:First_French_Empire a owl:NamedIndividual .
+
+<http://example.org/private#Flers,_Orne> a owl:NamedIndividual .
+
+priv:Flintshire a owl:NamedIndividual .
+
+priv:Florence a owl:NamedIndividual .
+
+priv:Florence_Harding a owl:NamedIndividual .
+
+priv:Florence_Parly a owl:NamedIndividual .
+
+priv:Florida a owl:NamedIndividual .
+
+priv:Floride_Calhoun a owl:NamedIndividual .
+
+priv:France_in_the_early_modern_period a owl:NamedIndividual .
+
+priv:France_national_football_team a owl:NamedIndividual .
+
+priv:Francesc_Antich a owl:NamedIndividual .
+
+priv:Francesco_Farnese a owl:NamedIndividual .
+
+priv:Francina_Armengol a owl:NamedIndividual .
+
+<http://example.org/private#Francis,_Duke_of_Saxe-Coburg-Saalfeld> a owl:NamedIndividual .
+
+<http://example.org/private#Francis,_Duke_of_Teck> a owl:NamedIndividual .
+
+<http://example.org/private#Francis_Baring,_1st_Baron_Northbrook> a owl:NamedIndividual .
+
+<http://example.org/private#Francis_Conyngham,_2nd_Marquess_Conyngham> a owl:NamedIndividual .
+
+<http://example.org/private#Francis_Egerton,_1st_Earl_of_Ellesmere> a owl:NamedIndividual .
+
+<http://example.org/private#Francis_Greville,_5th_Earl_of_Warwick> a owl:NamedIndividual .
+
+<http://example.org/private#Francis_II,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Francis_I_of_the_Two_Sicilies a owl:NamedIndividual .
+
+<http://example.org/private#Francis_Knollys,_1st_Viscount_Knollys> a owl:NamedIndividual .
+
+priv:Francis_Landey_Patton a owl:NamedIndividual .
+
+<http://example.org/private#Francis_V,_Duke_of_Modena> a owl:NamedIndividual .
+
+priv:Francis_de_Winton a owl:NamedIndividual .
+
+priv:Francisco_Saavedra_de_Sangronis a owl:NamedIndividual .
+
+priv:Frank-Walter_Steinmeier a owl:NamedIndividual .
+
+priv:Frank_B._Willis a owl:NamedIndividual .
+
+priv:Frank_Dobson a owl:NamedIndividual .
+
+priv:Frankfurt_Cathedral a owl:NamedIndividual .
+
+<http://example.org/private#Franklin_County,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Franklin_H._Elmore a owl:NamedIndividual .
+
+priv:Franklin_Pierce a owl:NamedIndividual .
+
+priv:Frans_Schollaert a owl:NamedIndividual .
+
+priv:Franz_Joseph_I_of_Austria a owl:NamedIndividual .
+
+priv:Franz_Müntefering a owl:NamedIndividual .
+
+priv:François_Bayrou a owl:NamedIndividual .
+
+priv:François_Guizot a owl:NamedIndividual .
+
+priv:François_Hollande a owl:NamedIndividual .
+
+priv:Fred_Trump a owl:NamedIndividual .
+
+priv:Frederica_Louisa_of_Hesse-Darmstadt a owl:NamedIndividual .
+
+priv:Frederica_of_Mecklenburg-Strelitz a owl:NamedIndividual .
+
+<http://example.org/private#Frederick,_Prince_of_Wales> a owl:NamedIndividual .
+
+priv:Frederick_Cavendish_Ponsonby a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_Christian_II,_Duke_of_Schleswig-Holstein-Sonderburg-Augustenburg> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_Henry,_Prince_of_Orange> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_I,_Grand_Duke_of_Baden> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_I,_Margrave_of_Meissen> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_II,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_II,_Margrave_of_Meissen> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_III,_German_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_IV,_Duke_of_Saxe-Gotha-Altenburg> a owl:NamedIndividual .
+
+priv:Frederick_I_of_Prussia a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_North,_Lord_North> a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_Stanley,_16th_Earl_of_Derby> a owl:NamedIndividual .
+
+priv:Frederick_Tuta a owl:NamedIndividual .
+
+<http://example.org/private#Frederick_VIII,_Duke_of_Schleswig-Holstein> a owl:NamedIndividual .
+
+priv:Frederick_VII_of_Denmark a owl:NamedIndividual .
+
+priv:Frederick_VI_of_Denmark a owl:NamedIndividual .
+
+priv:Frederick_William_III_of_Prussia a owl:NamedIndividual .
+
+priv:Frederick_William_II_of_Prussia a owl:NamedIndividual .
+
+priv:Frederik_X a owl:NamedIndividual .
+
+priv:Free_Imperial_City_of_Nuremberg a owl:NamedIndividual .
+
+priv:French_Fifth_Republic a owl:NamedIndividual .
+
+priv:French_First_Republic a owl:NamedIndividual .
+
+priv:French_Second_Republic a owl:NamedIndividual .
+
+priv:French_Senegal a owl:NamedIndividual .
+
+priv:French_Third_Republic a owl:NamedIndividual .
+
+<http://example.org/private#Friedrich_Ludwig,_Prince_of_Hohenlohe-Ingelfingen> a owl:NamedIndividual .
+
+priv:Friedrich_Merz a owl:NamedIndividual .
+
+priv:Friedrichsruh a owl:NamedIndividual .
+
+priv:Fukushiro_Nukaga a owl:NamedIndividual .
+
+<http://example.org/private#Fumihito,_Crown_Prince_of_Japan> a owl:NamedIndividual .
+
+priv:Fumio_Kishida a owl:NamedIndividual .
+
+priv:Funchal a owl:NamedIndividual .
+
+priv:Further_Austria a owl:NamedIndividual .
+
+priv:Félix_Fuchs a owl:NamedIndividual .
+
+priv:Félix_de_Muelenaere a owl:NamedIndividual .
+
+priv:Galin_Khanom a owl:NamedIndividual .
+
+priv:Galin_Khanum_\(mother_of_Mohammad_Shah_Qajar\) a owl:NamedIndividual .
+
+priv:Gallipoli a owl:NamedIndividual .
+
+priv:Gangaridai a owl:NamedIndividual .
+
+<http://example.org/private#Garret_Wesley,_1st_Earl_of_Mornington> a owl:NamedIndividual .
+
+<http://example.org/private#Gathorne_Gathorne-Hardy,_1st_Earl_of_Cranbrook> a owl:NamedIndividual .
+
+priv:Gayo_people a owl:NamedIndividual .
+
+priv:Gdańsk a owl:NamedIndividual .
+
+priv:Gdynia a owl:NamedIndividual .
+
+priv:Geoffrey_Kendal a owl:NamedIndividual .
+
+priv:Georg_Herbert_Münster a owl:NamedIndividual .
+
+<http://example.org/private#George,_Grand_Duke_of_Mecklenburg-Strelitz> a owl:NamedIndividual .
+
+<http://example.org/private#George_Barrington,_7th_Viscount_Barrington> a owl:NamedIndividual .
+
+<http://example.org/private#George_Byng,_3rd_Earl_of_Strafford> a owl:NamedIndividual .
+
+priv:George_Cornewall_Lewis a owl:NamedIndividual .
+
+<http://example.org/private#George_Glyn,_2nd_Baron_Wolverton> a owl:NamedIndividual .
+
+<http://example.org/private#George_Goschen,_1st_Viscount_Goschen> a owl:NamedIndividual .
+
+priv:George_Graham_\(soldier\) a owl:NamedIndividual .
+
+<http://example.org/private#George_Greville,_4th_Earl_of_Warwick> a owl:NamedIndividual .
+
+priv:George_H._W._Bush a owl:NamedIndividual .
+
+<http://example.org/private#George_Hamilton-Gordon,_4th_Earl_of_Aberdeen> a owl:NamedIndividual .
+
+<http://example.org/private#George_Howard,_6th_Earl_of_Carlisle> a owl:NamedIndividual .
+
+priv:George_Hudson_\(MP\) a owl:NamedIndividual .
+
+<http://example.org/private#George_I,_Duke_of_Saxe-Meiningen> a owl:NamedIndividual .
+
+priv:George_III a owl:NamedIndividual .
+
+priv:George_II_of_Great_Britain a owl:NamedIndividual .
+
+priv:George_IV a owl:NamedIndividual .
+
+priv:George_I_of_Great_Britain a owl:NamedIndividual .
+
+priv:George_M._Dallas a owl:NamedIndividual .
+
+<http://example.org/private#George_Montagu-Dunk,_2nd_Earl_of_Halifax> a owl:NamedIndividual .
+
+priv:George_O._Rathbun a owl:NamedIndividual .
+
+priv:George_Papandreou a owl:NamedIndividual .
+
+priv:George_Robert_Dawson a owl:NamedIndividual .
+
+<http://example.org/private#George_Robinson,_1st_Marquess_of_Ripon> a owl:NamedIndividual .
+
+<http://example.org/private#George_Shaw_Lefevre,_1st_Baron_Eversley> a owl:NamedIndividual .
+
+<http://example.org/private#George_Spencer-Churchill,_6th_Duke_of_Marlborough> a owl:NamedIndividual .
+
+priv:George_Tryon_Harding a owl:NamedIndividual .
+
+priv:George_VI a owl:NamedIndividual .
+
+priv:George_V_of_Hanover a owl:NamedIndividual .
+
+<http://example.org/private#George_Villiers,_4th_Earl_of_Clarendon> a owl:NamedIndividual .
+
+priv:George_W._Bush a owl:NamedIndividual .
+
+priv:George_Ward_Hunt a owl:NamedIndividual .
+
+priv:George_of_Poděbrady a owl:NamedIndividual .
+
+<http://example.org/private#Georgian_Quarter,_Liverpool> a owl:NamedIndividual .
+
+<http://example.org/private#Georgina_Gascoyne-Cecil,_Marchioness_of_Salisbury> a owl:NamedIndividual .
+
+priv:Gerald_Kisoun a owl:NamedIndividual .
+
+<http://example.org/private#Gerlach_I,_Count_of_Nassau> a owl:NamedIndividual .
+
+priv:German_Bundesrat a owl:NamedIndividual .
+
+priv:German_Emperor a owl:NamedIndividual .
+
+priv:German_Empire a owl:NamedIndividual .
+
+priv:German_nobility a owl:NamedIndividual .
+
+priv:Germanic_languages a owl:NamedIndividual .
+
+priv:Gertrude_of_Hohenberg a owl:NamedIndividual .
+
+priv:Getty_Images a owl:NamedIndividual .
+
+priv:Ghent a owl:NamedIndividual .
+
+priv:Glasgow a owl:NamedIndividual .
+
+<http://example.org/private#Glendale,_California> a owl:NamedIndividual .
+
+priv:Gloria_Deukmejian a owl:NamedIndividual .
+
+priv:Glynne_baronets a owl:NamedIndividual .
+
+priv:Golestan_Palace a owl:NamedIndividual .
+
+<http://example.org/private#Gonzalo_O'Farrill> a owl:NamedIndividual .
+
+priv:Goodwood_House a owl:NamedIndividual .
+
+priv:Gotha a owl:NamedIndividual .
+
+priv:Governing_Mayor_of_Berlin a owl:NamedIndividual .
+
+priv:Governor-General_of_Australia a owl:NamedIndividual .
+
+priv:Governor-General_of_India a owl:NamedIndividual .
+
+priv:Governor_General_of_Canada a owl:NamedIndividual .
+
+priv:Governor_of_Saint_Petersburg a owl:NamedIndividual .
+
+<http://example.org/private#Grand_Ducal_Palace,_Luxembourg> a owl:NamedIndividual .
+
+priv:Grand_Duchess_Elena_Vladimirovna_of_Russia a owl:NamedIndividual .
+
+priv:Grand_Duchess_Maria_Alexandrovna_of_Russia a owl:NamedIndividual .
+
+priv:Grand_Duchy_of_Baden a owl:NamedIndividual .
+
+priv:Grand_Duchy_of_Hesse a owl:NamedIndividual .
+
+priv:Grand_Duchy_of_Tuscany a owl:NamedIndividual .
+
+priv:Grand_Duke_of_Finland a owl:NamedIndividual .
+
+priv:Grand_pensionary a owl:NamedIndividual .
+
+<http://example.org/private#Granville_Leveson-Gower,_2nd_Earl_Granville> a owl:NamedIndividual .
+
+priv:Graz a owl:NamedIndividual .
+
+priv:Great_Moravia a owl:NamedIndividual .
+
+priv:Greater_Vienna a owl:NamedIndividual .
+
+<http://example.org/private#Greensburg,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Greenwood_Union_Cemetery a owl:NamedIndividual .
+
+priv:Greifswald a owl:NamedIndividual .
+
+priv:Grenoble a owl:NamedIndividual .
+
+priv:Grodno a owl:NamedIndividual .
+
+priv:Groen_\(political_party\) a owl:NamedIndividual .
+
+priv:Grosvenor_Square a owl:NamedIndividual .
+
+priv:Guido_Westerwelle a owl:NamedIndividual .
+
+priv:Guildford a owl:NamedIndividual .
+
+priv:Guillermo_Fernández_Vara a owl:NamedIndividual .
+
+priv:Gunilla_Bielke a owl:NamedIndividual .
+
+priv:Gupta_Empire a owl:NamedIndividual .
+
+priv:Gustaf_V a owl:NamedIndividual .
+
+priv:Gustav_Vasa a owl:NamedIndividual .
+
+priv:Gustave_de_Beaumont a owl:NamedIndividual .
+
+priv:Gustavus_Adolphus a owl:NamedIndividual .
+
+priv:Gwent_\(county\) a owl:NamedIndividual .
+
+priv:Gérard_Cooreman a owl:NamedIndividual .
+
+priv:Gérard_Larcher a owl:NamedIndividual .
+
+priv:Göllheim a owl:NamedIndividual .
+
+priv:Günther_von_Reibnitz a owl:NamedIndividual .
+
+priv:Haapsalu a owl:NamedIndividual .
+
+priv:Habsburg_Castle a owl:NamedIndividual .
+
+priv:Habsburg_Netherlands a owl:NamedIndividual .
+
+priv:Hainan a owl:NamedIndividual .
+
+priv:Haji_Mirza_Aqasi a owl:NamedIndividual .
+
+priv:Hakeem_Jeffries a owl:NamedIndividual .
+
+priv:Hamburg a owl:NamedIndividual .
+
+priv:Hamburg_Airport a owl:NamedIndividual .
+
+<http://example.org/private#Hamilton,_Bermuda> a owl:NamedIndividual .
+
+<http://example.org/private#Hamilton,_South_Lanarkshire> a owl:NamedIndividual .
+
+priv:Hamzah_Zainudin a owl:NamedIndividual .
+
+priv:Han_Zheng a owl:NamedIndividual .
+
+<http://example.org/private#Hannah_Primrose,_Countess_of_Rosebery> a owl:NamedIndividual .
+
+priv:Hannah_Whitall_Smith a owl:NamedIndividual .
+
+priv:Hannibal_Hamlin a owl:NamedIndividual .
+
+priv:Hanoi a owl:NamedIndividual .
+
+priv:Hanover a owl:NamedIndividual .
+
+priv:Happy_Rockefeller a owl:NamedIndividual .
+
+priv:Harivansh_Narayan_Singh a owl:NamedIndividual .
+
+priv:Harriet_Lane a owl:NamedIndividual .
+
+priv:Harrow_Road a owl:NamedIndividual .
+
+priv:Harry_L._Gordon a owl:NamedIndividual .
+
+<http://example.org/private#Harry_Primrose,_6th_Earl_of_Rosebery> a owl:NamedIndividual .
+
+priv:Hasan_Akhund a owl:NamedIndividual .
+
+priv:Hasan_Kwame_Jeffries a owl:NamedIndividual .
+
+<http://example.org/private#Hatfield,_Hertfordshire> a owl:NamedIndividual .
+
+priv:Hawarden_Castle_\(18th_century\) a owl:NamedIndividual .
+
+priv:Hazaveh a owl:NamedIndividual .
+
+priv:Hedwig_of_Brandenburg a owl:NamedIndividual .
+
+priv:Heinz_Fischer a owl:NamedIndividual .
+
+priv:Helen_Herron_Taft a owl:NamedIndividual .
+
+priv:Helle_Thorning-Schmidt a owl:NamedIndividual .
+
+priv:Helsinki a owl:NamedIndividual .
+
+priv:Henri_Barbet a owl:NamedIndividual .
+
+priv:Henri_Jacques_Guillaume_Clarke a owl:NamedIndividual .
+
+priv:Henri_de_Brouckère a owl:NamedIndividual .
+
+priv:Henri_de_Rigny a owl:NamedIndividual .
+
+<http://example.org/private#Henrietta_d'Oultremont> a owl:NamedIndividual .
+
+priv:Henriette_Danneskiold-Samsøe a owl:NamedIndividual .
+
+priv:Henrik_Dam_Kristensen a owl:NamedIndividual .
+
+priv:Henry_Addington a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Bathurst,_3rd_Earl_Bathurst> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Bruce,_1st_Baron_Aberdare> a owl:NamedIndividual .
+
+priv:Henry_Campbell-Bannerman a owl:NamedIndividual .
+
+priv:Henry_Cecil_Raikes a owl:NamedIndividual .
+
+priv:Henry_Chapman_\(American_politician\) a owl:NamedIndividual .
+
+priv:Henry_D._Gilpin a owl:NamedIndividual .
+
+priv:Henry_Dashwood a owl:NamedIndividual .
+
+priv:Henry_Franklin_Severens a owl:NamedIndividual .
+
+priv:Henry_Goulburn a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Hardinge,_1st_Viscount_Hardinge> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Holland,_1st_Viscount_Knutsford> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_I,_Count_of_Nassau-Siegen> a owl:NamedIndividual .
+
+priv:Henry_III_of_France a owl:NamedIndividual .
+
+<http://example.org/private#Henry_John_Temple,_3rd_Viscount_Palmerston> a owl:NamedIndividual .
+
+priv:Henry_John_Trotter a owl:NamedIndividual .
+
+priv:Henry_Jones_\(MP\) a owl:NamedIndividual .
+
+priv:Henry_Knight_Storks a owl:NamedIndividual .
+
+priv:Henry_Lawrence_\(Indian_Army_officer\) a owl:NamedIndividual .
+
+priv:Henry_M._Ridgely a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Matthews,_1st_Viscount_Llandaff> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Maynard,_3rd_Viscount_Maynard> a owl:NamedIndividual .
+
+priv:Henry_Middleton_\(governor\) a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Petty-Fitzmaurice,_4th_Marquess_of_Lansdowne> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_Petty-Fitzmaurice,_5th_Marquess_of_Lansdowne> a owl:NamedIndividual .
+
+priv:Henry_Seymour_Conway a owl:NamedIndividual .
+
+<http://example.org/private#Henry_VI,_Count_of_Luxembourg> a owl:NamedIndividual .
+
+<http://example.org/private#Henry_VII,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Henry_of_Bohemia a owl:NamedIndividual .
+
+priv:Herbert_Naylor-Leyland a owl:NamedIndividual .
+
+priv:Hertfordshire a owl:NamedIndividual .
+
+priv:Hesse a owl:NamedIndividual .
+
+priv:Het_Loo_Palace a owl:NamedIndividual .
+
+priv:Heusden-Zolder a owl:NamedIndividual .
+
+priv:Hibatullah_Akhundzada a owl:NamedIndividual .
+
+priv:Hickleton_Hall a owl:NamedIndividual .
+
+priv:Hiester_family a owl:NamedIndividual .
+
+priv:High_German_languages a owl:NamedIndividual .
+
+priv:Highland_\(council_area\) a owl:NamedIndividual .
+
+priv:Hildburghausen a owl:NamedIndividual .
+
+priv:Hillary_Clinton a owl:NamedIndividual .
+
+<http://example.org/private#Hillsborough,_New_Hampshire> a owl:NamedIndividual .
+
+priv:Hina_Bokhari a owl:NamedIndividual .
+
+priv:History_of_Denmark a owl:NamedIndividual .
+
+priv:History_of_Genoa a owl:NamedIndividual .
+
+<http://example.org/private#History_of_Spain_(1700–1808)> a owl:NamedIndividual .
+
+priv:Hlai_people a owl:NamedIndividual .
+
+priv:Ho_Chi_Minh_City a owl:NamedIndividual .
+
+priv:Hochsauerlandkreis_\(electoral_district\) a owl:NamedIndividual .
+
+priv:Hofburg a owl:NamedIndividual .
+
+priv:Hohenzieritz a owl:NamedIndividual .
+
+priv:Holstein-Gottorp-Romanov a owl:NamedIndividual .
+
+priv:Holy_Roman_Emperor a owl:NamedIndividual .
+
+priv:Holy_Roman_Empire a owl:NamedIndividual .
+
+priv:Holy_See a owl:NamedIndividual .
+
+priv:Horace_Binney a owl:NamedIndividual .
+
+priv:Horažďovice a owl:NamedIndividual .
+
+priv:Hortense_de_Beauharnais a owl:NamedIndividual .
+
+priv:House_of_Assembly_of_Eswatini a owl:NamedIndividual .
+
+priv:House_of_Aviz a owl:NamedIndividual .
+
+priv:House_of_Belgium a owl:NamedIndividual .
+
+priv:House_of_Bernadotte a owl:NamedIndividual .
+
+priv:House_of_Bonaparte a owl:NamedIndividual .
+
+priv:House_of_Bourbon a owl:NamedIndividual .
+
+priv:House_of_Bourbon-Two_Sicilies a owl:NamedIndividual .
+
+priv:House_of_Commons_of_Canada a owl:NamedIndividual .
+
+priv:House_of_Commons_of_England a owl:NamedIndividual .
+
+priv:House_of_Commons_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:House_of_Councillors a owl:NamedIndividual .
+
+priv:House_of_Este a owl:NamedIndividual .
+
+priv:House_of_Estridsen a owl:NamedIndividual .
+
+priv:House_of_Farnese a owl:NamedIndividual .
+
+priv:House_of_Glücksburg a owl:NamedIndividual .
+
+priv:House_of_Gorizia a owl:NamedIndividual .
+
+priv:House_of_Habsburg a owl:NamedIndividual .
+
+priv:House_of_Habsburg-Lorraine a owl:NamedIndividual .
+
+priv:House_of_Lords a owl:NamedIndividual .
+
+priv:House_of_Luxembourg a owl:NamedIndividual .
+
+priv:House_of_Magnates a owl:NamedIndividual .
+
+priv:House_of_Mecklenburg a owl:NamedIndividual .
+
+priv:House_of_Nassau a owl:NamedIndividual .
+
+priv:House_of_Orange-Nassau a owl:NamedIndividual .
+
+priv:House_of_Orléans a owl:NamedIndividual .
+
+priv:House_of_Representatives_\(Japan\) a owl:NamedIndividual .
+
+priv:House_of_Representatives_\(Thailand\) a owl:NamedIndividual .
+
+priv:House_of_Romanov a owl:NamedIndividual .
+
+priv:House_of_Saxe-Coburg_and_Gotha a owl:NamedIndividual .
+
+priv:House_of_Schleswig-Holstein-Sonderburg-Augustenburg a owl:NamedIndividual .
+
+priv:House_of_Vasa a owl:NamedIndividual .
+
+priv:House_of_Welf a owl:NamedIndividual .
+
+priv:House_of_Wettin a owl:NamedIndividual .
+
+priv:House_of_Windsor a owl:NamedIndividual .
+
+priv:House_of_Wittelsbach a owl:NamedIndividual .
+
+priv:House_of_Zähringen a owl:NamedIndividual .
+
+priv:Houston a owl:NamedIndividual .
+
+priv:Hugh_Childers a owl:NamedIndividual .
+
+priv:Hugh_Rodham_\(born_1911\) a owl:NamedIndividual .
+
+<http://example.org/private#Hugues-Bernard_Maret,_duc_de_Bassano> a owl:NamedIndividual .
+
+priv:Huis_ten_Bosch a owl:NamedIndividual .
+
+priv:Hun_Manet a owl:NamedIndividual .
+
+priv:Hun_Sen a owl:NamedIndividual .
+
+priv:Huy a owl:NamedIndividual .
+
+priv:Hà_Đông_district a owl:NamedIndividual .
+
+priv:Hôtel_Matignon a owl:NamedIndividual .
+
+priv:Hưng_Yên_province a owl:NamedIndividual .
+
+priv:Hậu_Giang_province a owl:NamedIndividual .
+
+priv:Hậu_Lộc_district a owl:NamedIndividual .
+
+priv:Ibrahim_Iskandar_of_Johor a owl:NamedIndividual .
+
+priv:Ignacio_Aguado a owl:NamedIndividual .
+
+priv:Illinois a owl:NamedIndividual .
+
+priv:Imagina_of_Isenburg-Limburg a owl:NamedIndividual .
+
+priv:Imam_Husayn_shrine a owl:NamedIndividual .
+
+priv:Imperial_Crypt a owl:NamedIndividual .
+
+priv:Imperial_vicar a owl:NamedIndividual .
+
+<http://example.org/private#Inca,_Spain> a owl:NamedIndividual .
+
+priv:Independent_politician a owl:NamedIndividual .
+
+<http://example.org/private#Index_of_Washington,_D.C.–related_articles> a owl:NamedIndividual .
+
+priv:Indian_National_Developmental_Inclusive_Alliance a owl:NamedIndividual .
+
+priv:Indiana a owl:NamedIndividual .
+
+priv:Indianapolis a owl:NamedIndividual .
+
+priv:Indo-Aryan_languages a owl:NamedIndividual .
+
+priv:Indo-Iranian_languages a owl:NamedIndividual .
+
+priv:Indonesia a owl:NamedIndividual .
+
+priv:Infante_of_Spain a owl:NamedIndividual .
+
+priv:Inger_Støjberg a owl:NamedIndividual .
+
+priv:Innsbruck a owl:NamedIndividual .
+
+priv:Interregnum_\(Holy_Roman_Empire\) a owl:NamedIndividual .
+
+priv:Inverness-shire a owl:NamedIndividual .
+
+priv:Ionian_Assembly a owl:NamedIndividual .
+
+priv:Iran a owl:NamedIndividual .
+
+priv:Iron_Age_in_India a owl:NamedIndividual .
+
+<http://example.org/private#Isaac_D'Israeli> a owl:NamedIndividual .
+
+priv:Isaac_D._Barnard a owl:NamedIndividual .
+
+priv:Isabel_Díaz_Ayuso a owl:NamedIndividual .
+
+<http://example.org/private#Isabella_of_Burgundy,_Queen_of_Germany> a owl:NamedIndividual .
+
+priv:Islamic_City_Council_of_Tehran a owl:NamedIndividual .
+
+priv:Isle_of_Wight a owl:NamedIndividual .
+
+priv:Ismail_Sabri_Yaakob a owl:NamedIndividual .
+
+priv:Ivan_Melnikov_\(politician\) a owl:NamedIndividual .
+
+priv:Ivana_Trump a owl:NamedIndividual .
+
+<http://example.org/private#Ivy_Cavendish-Bentinck,_Duchess_of_Portland> a owl:NamedIndividual .
+
+priv:Ixelles a owl:NamedIndividual .
+
+priv:J._Donald_Cameron a owl:NamedIndividual .
+
+priv:J._Michael_Luttig a owl:NamedIndividual .
+
+priv:J._Michel_Doyon a owl:NamedIndividual .
+
+priv:J._P._Nadda a owl:NamedIndividual .
+
+priv:J._Ross_Stevenson a owl:NamedIndividual .
+
+priv:J._T._Hibbert a owl:NamedIndividual .
+
+priv:JD_Vance a owl:NamedIndividual .
+
+priv:Jacob_Gould_Schurman a owl:NamedIndividual .
+
+priv:Jacob_Hibshman a owl:NamedIndividual .
+
+priv:Jacob_Turney a owl:NamedIndividual .
+
+priv:Jacqueline_Gourault a owl:NamedIndividual .
+
+priv:Jacqueline_Thome-Patenôtre a owl:NamedIndividual .
+
+<http://example.org/private#Jacques-Charles_Dupont_de_l'Eure> a owl:NamedIndividual .
+
+priv:Jacques_Laffitte a owl:NamedIndividual .
+
+priv:Jacques_Myard a owl:NamedIndividual .
+
+priv:Jafar_Khan_Moshir_od-Dowleh a owl:NamedIndividual .
+
+priv:Jagdeep_Dhankhar a owl:NamedIndividual .
+
+priv:Jagiellonian_dynasty a owl:NamedIndividual .
+
+priv:James_A._C._Johnson a owl:NamedIndividual .
+
+priv:James_Balfour_\(died_1845\) a owl:NamedIndividual .
+
+priv:James_Barbour a owl:NamedIndividual .
+
+<http://example.org/private#James_Bryce,_1st_Viscount_Bryce> a owl:NamedIndividual .
+
+priv:James_Buchanan_Henry a owl:NamedIndividual .
+
+priv:James_Cooper_\(Pennsylvania_politician\) a owl:NamedIndividual .
+
+priv:James_Duncan_Millar a owl:NamedIndividual .
+
+priv:James_Ewing_\(MP\) a owl:NamedIndividual .
+
+priv:James_Fairman_Fielder a owl:NamedIndividual .
+
+<http://example.org/private#James_FitzGerald,_1st_Duke_of_Leinster> a owl:NamedIndividual .
+
+<http://example.org/private#James_Gascoyne-Cecil,_2nd_Marquess_of_Salisbury> a owl:NamedIndividual .
+
+<http://example.org/private#James_Harris,_3rd_Earl_of_Malmesbury> a owl:NamedIndividual .
+
+priv:James_L._Buckley a owl:NamedIndividual .
+
+priv:James_Madison_Porter a owl:NamedIndividual .
+
+priv:James_Maitland_Balfour a owl:NamedIndividual .
+
+priv:James_McCosh a owl:NamedIndividual .
+
+priv:James_Playfair_\(minister\) a owl:NamedIndividual .
+
+<http://example.org/private#James_St_Clair-Erskine,_2nd_Earl_of_Rosslyn> a owl:NamedIndividual .
+
+<http://example.org/private#James_St_Clair-Erskine,_3rd_Earl_of_Rosslyn> a owl:NamedIndividual .
+
+<http://example.org/private#James_St_Clair-Erskine,_5th_Earl_of_Rosslyn> a owl:NamedIndividual .
+
+<http://example.org/private#James_Stuart-Wortley,_1st_Baron_Wharncliffe> a owl:NamedIndividual .
+
+priv:James_Thompson_\(jurist\) a owl:NamedIndividual .
+
+priv:James_Todd_\(lawyer\) a owl:NamedIndividual .
+
+priv:James_Wilson_\(journalist\) a owl:NamedIndividual .
+
+priv:Jan_van_Zanen a owl:NamedIndividual .
+
+priv:Jane_Pierce a owl:NamedIndividual .
+
+<http://example.org/private#Janetta_Manners,_Duchess_of_Rutland> a owl:NamedIndividual .
+
+priv:Japan_Renewal_Party a owl:NamedIndividual .
+
+priv:Jarai_people a owl:NamedIndividual .
+
+priv:Jared_Ingersoll a owl:NamedIndividual .
+
+priv:Jared_W._Williams a owl:NamedIndividual .
+
+priv:Jashodaben_Modi a owl:NamedIndividual .
+
+priv:Jason_Lewis_\(Massachusetts_politician\) a owl:NamedIndividual .
+
+priv:Javier_Maroto a owl:NamedIndividual .
+
+priv:Jean-Baptiste_Jourdan a owl:NamedIndividual .
+
+<http://example.org/private#Jean-Baptiste_Nompère_de_Champagny,_duc_de_Cadore> a owl:NamedIndividual .
+
+priv:Jean-Baptiste_Nothomb a owl:NamedIndividual .
+
+priv:Jean-Baptiste_Teste a owl:NamedIndividual .
+
+priv:Jean-François_Carenco a owl:NamedIndividual .
+
+priv:Jean-Frédéric_Poisson a owl:NamedIndividual .
+
+priv:Jean-Jacques-Régis_de_Cambacérès a owl:NamedIndividual .
+
+priv:Jean-Michel_Macron a owl:NamedIndividual .
+
+priv:Jean-Pierre_Bel a owl:NamedIndividual .
+
+priv:Jean-de-Dieu_Soult a owl:NamedIndividual .
+
+priv:Jean-Étienne_Championnet a owl:NamedIndividual .
+
+priv:Jean_Antoine_Ernest_Constans a owl:NamedIndividual .
+
+priv:Jean_Isidore_Harispe a owl:NamedIndividual .
+
+priv:Jeb_Bush a owl:NamedIndividual .
+
+priv:Jeff_R._Thompson a owl:NamedIndividual .
+
+priv:Jenna_Bush_Hager a owl:NamedIndividual .
+
+<http://example.org/private#Jennie_Lee,_Baroness_Lee_of_Asheridge> a owl:NamedIndividual .
+
+priv:Jennifer_Kendal a owl:NamedIndividual .
+
+priv:Jennifer_Tolhurst a owl:NamedIndividual .
+
+priv:Jens_Spahn a owl:NamedIndividual .
+
+priv:Jeremy_Corbyn a owl:NamedIndividual .
+
+priv:Jersey a owl:NamedIndividual .
+
+<http://example.org/private#Jersey_City,_New_Jersey> a owl:NamedIndividual .
+
+priv:Jesse_Norman a owl:NamedIndividual .
+
+priv:Jeyran_\(wife_of_Naser_al-Din_Shah\) a owl:NamedIndividual .
+
+priv:Jim_Clyburn a owl:NamedIndividual .
+
+priv:Jirō_Ishiba a owl:NamedIndividual .
+
+priv:Jishnu_Dev_Varma a owl:NamedIndividual .
+
+priv:Joachim_Gauck a owl:NamedIndividual .
+
+priv:Joachim_Murat a owl:NamedIndividual .
+
+priv:Joan_Mondale a owl:NamedIndividual .
+
+<http://example.org/private#Joanna,_Duchess_of_Brabant> a owl:NamedIndividual .
+
+priv:Joanna_Sophia_of_Bavaria a owl:NamedIndividual .
+
+priv:Jobst_of_Moravia a owl:NamedIndividual .
+
+priv:Joe_Biden a owl:NamedIndividual .
+
+priv:Joe_Crowley a owl:NamedIndividual .
+
+priv:Joe_McDonald_\(politician\) a owl:NamedIndividual .
+
+priv:Johanna_von_Puttkamer a owl:NamedIndividual .
+
+<http://example.org/private#John,_Count_of_Nassau-Dillenburg> a owl:NamedIndividual .
+
+priv:John_A._Scali a owl:NamedIndividual .
+
+priv:John_Aikman_Stewart a owl:NamedIndividual .
+
+priv:John_Barrasso a owl:NamedIndividual .
+
+<http://example.org/private#John_Bonham-Carter_(1817–1884)> a owl:NamedIndividual .
+
+priv:John_Boyd_Kinnear a owl:NamedIndividual .
+
+priv:John_Bright a owl:NamedIndividual .
+
+priv:John_C._Calhoun a owl:NamedIndividual .
+
+priv:John_Calvert_\(died_1844\) a owl:NamedIndividual .
+
+<http://example.org/private#John_Campbell,_1st_Baron_Campbell> a owl:NamedIndividual .
+
+priv:John_Charles_Herries a owl:NamedIndividual .
+
+priv:John_Dowdy a owl:NamedIndividual .
+
+priv:John_Dyneley_Prince a owl:NamedIndividual .
+
+priv:John_Eldon_Gorst a owl:NamedIndividual .
+
+priv:John_Fenton-Cawthorne a owl:NamedIndividual .
+
+priv:John_Fleming_\(American_politician\) a owl:NamedIndividual .
+
+priv:John_Franklin_Fort a owl:NamedIndividual .
+
+<http://example.org/private#John_Freeman-Mitford,_1st_Baron_Redesdale> a owl:NamedIndividual .
+
+<http://example.org/private#John_Gardiner,_Baron_Gardiner_of_Kimble> a owl:NamedIndividual .
+
+priv:John_Grier_Hibben a owl:NamedIndividual .
+
+priv:John_Hales_Calcraft a owl:NamedIndividual .
+
+priv:John_Headlam a owl:NamedIndividual .
+
+priv:John_Henry_\(representative\) a owl:NamedIndividual .
+
+<http://example.org/private#John_Hobhouse,_1st_Baron_Broughton> a owl:NamedIndividual .
+
+priv:John_Hoge_Ewing a owl:NamedIndividual .
+
+priv:John_III_of_Sweden a owl:NamedIndividual .
+
+priv:John_II_Casimir_Vasa a owl:NamedIndividual .
+
+priv:John_Kerry a owl:NamedIndividual .
+
+priv:John_M._Clayton a owl:NamedIndividual .
+
+<http://example.org/private#John_Manners,_5th_Duke_of_Rutland> a owl:NamedIndividual .
+
+<http://example.org/private#John_Manners,_7th_Duke_of_Rutland> a owl:NamedIndividual .
+
+priv:John_McCallum_\(British_politician\) a owl:NamedIndividual .
+
+<http://example.org/private#John_McFall,_Baron_McFall_of_Alcluith> a owl:NamedIndividual .
+
+priv:John_Page_\(New_Hampshire_politician\) a owl:NamedIndividual .
+
+<http://example.org/private#John_Pakington,_1st_Baron_Hampton> a owl:NamedIndividual .
+
+<http://example.org/private#John_Petty,_2nd_Marquess_of_Lansdowne> a owl:NamedIndividual .
+
+<http://example.org/private#John_Ponsonby,_4th_Earl_of_Bessborough> a owl:NamedIndividual .
+
+priv:John_Randolph_Clay a owl:NamedIndividual .
+
+priv:John_Randolph_of_Roanoke a owl:NamedIndividual .
+
+priv:John_Roberts a owl:NamedIndividual .
+
+<http://example.org/private#John_Russell,_1st_Earl_Russell> a owl:NamedIndividual .
+
+<http://example.org/private#John_Russell,_6th_Duke_of_Bedford> a owl:NamedIndividual .
+
+priv:John_Sergeant_\(politician\) a owl:NamedIndividual .
+
+priv:John_Sigismund_Zápolya a owl:NamedIndividual .
+
+<http://example.org/private#John_Spencer,_3rd_Earl_Spencer> a owl:NamedIndividual .
+
+priv:John_Thune a owl:NamedIndividual .
+
+priv:John_Tyler a owl:NamedIndividual .
+
+priv:John_Wales a owl:NamedIndividual .
+
+<http://example.org/private#John_Wilkins_Jr.> a owl:NamedIndividual .
+
+<http://example.org/private#John_William,_Baron_Ripperda> a owl:NamedIndividual .
+
+<http://example.org/private#John_William_Strutt,_3rd_Baron_Rayleigh> a owl:NamedIndividual .
+
+<http://example.org/private#John_Wodehouse,_1st_Earl_of_Kimberley> a owl:NamedIndividual .
+
+<http://example.org/private#John_Young,_1st_Baron_Lisgar> a owl:NamedIndividual .
+
+priv:John_of_Bohemia a owl:NamedIndividual .
+
+priv:Jon_Husted a owl:NamedIndividual .
+
+priv:Jonas_R._McClintock a owl:NamedIndividual .
+
+priv:Jonathan_Hoge_Walker a owl:NamedIndividual .
+
+priv:Jonathan_Reynolds a owl:NamedIndividual .
+
+priv:Jordan a owl:NamedIndividual .
+
+priv:Joschka_Fischer a owl:NamedIndividual .
+
+priv:Joseph_Bonaparte a owl:NamedIndividual .
+
+priv:Joseph_Calhoun a owl:NamedIndividual .
+
+priv:Joseph_Hammons a owl:NamedIndividual .
+
+priv:Joseph_Holt a owl:NamedIndividual .
+
+<http://example.org/private#Joseph_I,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Joseph_Lebeau a owl:NamedIndividual .
+
+priv:Joseph_P._Comegys a owl:NamedIndividual .
+
+priv:Joseph_Pelet_de_la_Lozère a owl:NamedIndividual .
+
+priv:Joseph_R._Chandler a owl:NamedIndividual .
+
+priv:Joseph_Reed_Ingersoll a owl:NamedIndividual .
+
+priv:Joseph_Ruggles_Wilson a owl:NamedIndividual .
+
+priv:Joseph_Sullivan_\(British_politician\) a owl:NamedIndividual .
+
+priv:Joseph_Watson_\(mayor\) a owl:NamedIndividual .
+
+priv:José_Antonio_Bermúdez_de_Castro a owl:NamedIndividual .
+
+<http://example.org/private#José_Moñino,_1st_Count_of_Floridablanca> a owl:NamedIndividual .
+
+priv:José_Patiño a owl:NamedIndividual .
+
+priv:José_Ramón_Bauzá a owl:NamedIndividual .
+
+priv:José_de_Carvajal_y_Lancáster a owl:NamedIndividual .
+
+priv:José_de_Grimaldo a owl:NamedIndividual .
+
+priv:Joséphine_de_Beauharnais a owl:NamedIndividual .
+
+priv:Juan_Bautista_de_Orendáin_y_Azpilicueta a owl:NamedIndividual .
+
+priv:Juan_Carlos_I a owl:NamedIndividual .
+
+priv:Juan_Espadas a owl:NamedIndividual .
+
+priv:Judith_Madan a owl:NamedIndividual .
+
+priv:Judith_of_Thuringia a owl:NamedIndividual .
+
+priv:Jules_Guillery a owl:NamedIndividual .
+
+priv:Jules_Malou a owl:NamedIndividual .
+
+priv:Jules_Vandenpeereboom a owl:NamedIndividual .
+
+<http://example.org/private#Jules_d'Anethan> a owl:NamedIndividual .
+
+priv:Jules_de_Burlet a owl:NamedIndividual .
+
+priv:Jules_de_Trooz a owl:NamedIndividual .
+
+<http://example.org/private#Julia,_Princess_of_Battenberg> a owl:NamedIndividual .
+
+priv:Julia_Peel a owl:NamedIndividual .
+
+priv:Julie_von_Voss a owl:NamedIndividual .
+
+priv:July_Monarchy a owl:NamedIndividual .
+
+priv:Justiciar a owl:NamedIndividual .
+
+priv:Jyoti_Gondek a owl:NamedIndividual .
+
+priv:Jūrmala a owl:NamedIndividual .
+
+priv:Kahnamu a owl:NamedIndividual .
+
+priv:Kai_Wegner a owl:NamedIndividual .
+
+priv:Kalimpong a owl:NamedIndividual .
+
+priv:Kaliningrad a owl:NamedIndividual .
+
+priv:Kamala_Harris a owl:NamedIndividual .
+
+priv:Kamlesh_Patel_\(politician\) a owl:NamedIndividual .
+
+priv:Kampong_Cham_province a owl:NamedIndividual .
+
+priv:Kandahar a owl:NamedIndividual .
+
+priv:Kandahar_Province a owl:NamedIndividual .
+
+priv:Kao_Kim_Hourn a owl:NamedIndividual .
+
+priv:Kapoor_family a owl:NamedIndividual .
+
+priv:Karen_Hækkerup a owl:NamedIndividual .
+
+<http://example.org/private#Karl_Anton,_Prince_of_Hohenzollern_(born_1811)> a owl:NamedIndividual .
+
+priv:Karl_Nehammer a owl:NamedIndividual .
+
+priv:Karlovy_Vary a owl:NamedIndividual .
+
+priv:Karlsruhe a owl:NamedIndividual .
+
+priv:Kashan a owl:NamedIndividual .
+
+priv:Kassel a owl:NamedIndividual .
+
+priv:Katherine_Clark a owl:NamedIndividual .
+
+<http://example.org/private#Katherine_Wellesley-Pole,_Countess_of_Mornington> a owl:NamedIndividual .
+
+priv:Keir_Starmer a owl:NamedIndividual .
+
+priv:Kelvinside a owl:NamedIndividual .
+
+priv:Kemi_Badenoch a owl:NamedIndividual .
+
+priv:Ken_Macdonald a owl:NamedIndividual .
+
+priv:Kendal a owl:NamedIndividual .
+
+priv:Kensington a owl:NamedIndividual .
+
+priv:Keshubhai_Patel a owl:NamedIndividual .
+
+priv:Kevin_McCarthy a owl:NamedIndividual .
+
+priv:Khazen_al-Dawlah a owl:NamedIndividual .
+
+priv:Khuon_Sudary a owl:NamedIndividual .
+
+priv:Kidderpore a owl:NamedIndividual .
+
+priv:Kiel a owl:NamedIndividual .
+
+priv:Kildare_County_Council a owl:NamedIndividual .
+
+priv:Kildare_North_\(Dáil_constituency\) a owl:NamedIndividual .
+
+priv:Kildare_South_\(Dáil_constituency\) a owl:NamedIndividual .
+
+priv:Kincardineshire a owl:NamedIndividual .
+
+priv:King_in_Prussia a owl:NamedIndividual .
+
+priv:King_of_Germany a owl:NamedIndividual .
+
+priv:King_of_Hanover a owl:NamedIndividual .
+
+priv:King_of_Hungary a owl:NamedIndividual .
+
+priv:King_of_Italy a owl:NamedIndividual .
+
+priv:King_of_Jerusalem a owl:NamedIndividual .
+
+priv:King_of_Malaysia a owl:NamedIndividual .
+
+priv:King_of_Spain a owl:NamedIndividual .
+
+priv:King_of_Sweden a owl:NamedIndividual .
+
+priv:King_of_the_Indies a owl:NamedIndividual .
+
+priv:King_of_the_Netherlands a owl:NamedIndividual .
+
+priv:King_of_the_Romans a owl:NamedIndividual .
+
+priv:Kingdom_of_Afghanistan a owl:NamedIndividual .
+
+priv:Kingdom_of_Albania_\(medieval\) a owl:NamedIndividual .
+
+priv:Kingdom_of_Bohemia a owl:NamedIndividual .
+
+<http://example.org/private#Kingdom_of_Cambodia_(1953–1970)> a owl:NamedIndividual .
+
+priv:Kingdom_of_Dalmatia a owl:NamedIndividual .
+
+priv:Kingdom_of_Finland_\(1918\) a owl:NamedIndividual .
+
+priv:Kingdom_of_France a owl:NamedIndividual .
+
+priv:Kingdom_of_Galicia_and_Lodomeria a owl:NamedIndividual .
+
+priv:Kingdom_of_Gauda a owl:NamedIndividual .
+
+priv:Kingdom_of_Great_Britain a owl:NamedIndividual .
+
+priv:Kingdom_of_Greece a owl:NamedIndividual .
+
+priv:Kingdom_of_Hanover a owl:NamedIndividual .
+
+priv:Kingdom_of_Hungary a owl:NamedIndividual .
+
+<http://example.org/private#Kingdom_of_Hungary_(1301–1526)> a owl:NamedIndividual .
+
+<http://example.org/private#Kingdom_of_Hungary_(1526–1867)> a owl:NamedIndividual .
+
+priv:Kingdom_of_Illyria a owl:NamedIndividual .
+
+priv:Kingdom_of_Italy_\(Holy_Roman_Empire\) a owl:NamedIndividual .
+
+priv:Kingdom_of_Jaén a owl:NamedIndividual .
+
+<http://example.org/private#Kingdom_of_Lombardy–Venetia> a owl:NamedIndividual .
+
+priv:Kingdom_of_Naples a owl:NamedIndividual .
+
+<http://example.org/private#Kingdom_of_Poland_(1385–1569)> a owl:NamedIndividual .
+
+priv:Kingdom_of_Prussia a owl:NamedIndividual .
+
+priv:Kingdom_of_Saxony a owl:NamedIndividual .
+
+priv:Kingdom_of_Sicily a owl:NamedIndividual .
+
+priv:Kingdom_of_Slavonia a owl:NamedIndividual .
+
+priv:Kingdom_of_the_Two_Sicilies a owl:NamedIndividual .
+
+priv:Kirsten_Gillibrand a owl:NamedIndividual .
+
+priv:Klaipėda a owl:NamedIndividual .
+
+priv:Klemens_von_Metternich a owl:NamedIndividual .
+
+priv:Klettgau a owl:NamedIndividual .
+
+<http://example.org/private#Knowsley,_Merseyside> a owl:NamedIndividual .
+
+priv:Knowsley_Hall a owl:NamedIndividual .
+
+priv:Koh_Sotin_district a owl:NamedIndividual .
+
+priv:Kolkata a owl:NamedIndividual .
+
+priv:Komárom a owl:NamedIndividual .
+
+priv:Koper a owl:NamedIndividual .
+
+priv:Kortrijk a owl:NamedIndividual .
+
+priv:Koszęcin a owl:NamedIndividual .
+
+priv:Kołobrzeg a owl:NamedIndividual .
+
+priv:Kraków a owl:NamedIndividual .
+
+priv:Kronberg_im_Taunus a owl:NamedIndividual .
+
+priv:Kungliga_begravningsplatsen a owl:NamedIndividual .
+
+priv:Kuniyil_Kailashnathan a owl:NamedIndividual .
+
+priv:Kuressaare a owl:NamedIndividual .
+
+priv:Kushabhau_Thakre a owl:NamedIndividual .
+
+priv:Kyburg_family a owl:NamedIndividual .
+
+priv:Kärdla a owl:NamedIndividual .
+
+priv:Kébémer a owl:NamedIndividual .
+
+priv:Königsberg_Castle a owl:NamedIndividual .
+
+priv:Königsfelden_Monastery a owl:NamedIndividual .
+
+priv:Kōichirō_Genba a owl:NamedIndividual .
+
+priv:La._Ganesan a owl:NamedIndividual .
+
+<http://example.org/private#LaRue_County,_Kentucky> a owl:NamedIndividual .
+
+priv:Labourd a owl:NamedIndividual .
+
+priv:Ladislaus_the_Posthumous a owl:NamedIndividual .
+
+priv:Lady_Angela_Forbes a owl:NamedIndividual .
+
+priv:Lady_Caroline_Lamb a owl:NamedIndividual .
+
+priv:Lady_Emmeline_Stuart-Wortley a owl:NamedIndividual .
+
+priv:Laeken a owl:NamedIndividual .
+
+<http://example.org/private#Lake_Louise,_Alberta> a owl:NamedIndividual .
+
+priv:Lambert_Playfair a owl:NamedIndividual .
+
+priv:Lancashire a owl:NamedIndividual .
+
+<http://example.org/private#Lancaster,_Lancashire> a owl:NamedIndividual .
+
+<http://example.org/private#Lancaster,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Landgraviate_of_Brabant a owl:NamedIndividual .
+
+priv:Landgraviate_of_Hesse-Darmstadt a owl:NamedIndividual .
+
+priv:Landgravine_Elisabeth_Amalie_of_Hesse-Darmstadt a owl:NamedIndividual .
+
+priv:Langport a owl:NamedIndividual .
+
+priv:Lansdowne_House a owl:NamedIndividual .
+
+priv:Laos a owl:NamedIndividual .
+
+priv:Lars_Løkke_Rasmussen a owl:NamedIndividual .
+
+priv:Later_Gupta_dynasty a owl:NamedIndividual .
+
+priv:Laura_Bush a owl:NamedIndividual .
+
+priv:Laurence_Auzière-Jourdan a owl:NamedIndividual .
+
+priv:Laurent_de_Gouvion_Saint-Cyr a owl:NamedIndividual .
+
+priv:Le_Cateau-Cambrésis a owl:NamedIndividual .
+
+priv:Legislative_Assembly_of_Alberta a owl:NamedIndividual .
+
+priv:Legitimists a owl:NamedIndividual .
+
+priv:Leipzig a owl:NamedIndividual .
+
+priv:Leith a owl:NamedIndividual .
+
+priv:Len_Duvall a owl:NamedIndividual .
+
+priv:Leningrad a owl:NamedIndividual .
+
+priv:Leo_von_Caprivi a owl:NamedIndividual .
+
+priv:Leon_Rutherford_Taylor a owl:NamedIndividual .
+
+<http://example.org/private#Leonard_Courtney,_1st_Baron_Courtney_of_Penwith> a owl:NamedIndividual .
+
+priv:Leonard_Jeffries a owl:NamedIndividual .
+
+priv:Leonard_Jerome a owl:NamedIndividual .
+
+priv:Leonard_Wilcox a owl:NamedIndividual .
+
+<http://example.org/private#Leonor,_Princess_of_Asturias> a owl:NamedIndividual .
+
+<http://example.org/private#Leopold_Greville,_6th_Earl_of_Warwick> a owl:NamedIndividual .
+
+<http://example.org/private#Leopold_I,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Leopold_II,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#Leopold_III,_Duke_of_Austria> a owl:NamedIndividual .
+
+priv:Leopold_III_of_Belgium a owl:NamedIndividual .
+
+priv:Lesotho a owl:NamedIndividual .
+
+priv:Letsie_III a owl:NamedIndividual .
+
+priv:Leuven a owl:NamedIndividual .
+
+priv:Li_Qiang a owl:NamedIndividual .
+
+priv:Liepāja a owl:NamedIndividual .
+
+priv:Liesbeth_van_Tongeren a owl:NamedIndividual .
+
+priv:Lilienfeld_Abbey a owl:NamedIndividual .
+
+priv:Lim_Jock_Hoi a owl:NamedIndividual .
+
+priv:Lincoln_family a owl:NamedIndividual .
+
+priv:Linda_Sánchez a owl:NamedIndividual .
+
+priv:Lindsay_Hoyle a owl:NamedIndividual .
+
+priv:Linz a owl:NamedIndividual .
+
+priv:List_of_Aragonese_monarchs a owl:NamedIndividual .
+
+priv:List_of_Bavarian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Belgian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Bohemian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Bohemian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_British_monarchs a owl:NamedIndividual .
+
+priv:List_of_British_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Bulgarian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Castilian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Danish_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Desperate_Housewives_characters a owl:NamedIndividual .
+
+priv:List_of_Dutch_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Finnish_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_French_monarchs a owl:NamedIndividual .
+
+priv:List_of_French_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_German_queens a owl:NamedIndividual .
+
+priv:List_of_Hessian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Holy_Roman_empresses a owl:NamedIndividual .
+
+priv:List_of_Hungarian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Italian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Leonese_monarchs a owl:NamedIndividual .
+
+priv:List_of_Lithuanian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Lithuanian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Luxembourgish_consorts a owl:NamedIndividual .
+
+priv:List_of_MPs_elected_in_the_2019_United_Kingdom_general_election a owl:NamedIndividual .
+
+priv:List_of_MPs_elected_in_the_2024_United_Kingdom_general_election a owl:NamedIndividual .
+
+priv:List_of_Modenese_consorts a owl:NamedIndividual .
+
+priv:List_of_Navarrese_monarchs a owl:NamedIndividual .
+
+priv:List_of_Neapolitan_monarchs a owl:NamedIndividual .
+
+priv:List_of_Parmese_consorts a owl:NamedIndividual .
+
+priv:List_of_Polish_monarchs a owl:NamedIndividual .
+
+priv:List_of_Polish_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Portuguese_monarchs a owl:NamedIndividual .
+
+priv:List_of_Prussian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Prussian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Russian_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Saxon_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Serbian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Sicilian_monarchs a owl:NamedIndividual .
+
+priv:List_of_Spanish_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Swedish_monarchs a owl:NamedIndividual .
+
+priv:List_of_Swedish_royal_consorts a owl:NamedIndividual .
+
+priv:List_of_Valencian_monarchs a owl:NamedIndividual .
+
+priv:List_of_chancellors_of_Germany a owl:NamedIndividual .
+
+priv:List_of_consorts_of_Brandenburg a owl:NamedIndividual .
+
+priv:List_of_consorts_of_Brunswick-Lüneburg a owl:NamedIndividual .
+
+priv:List_of_consorts_of_Holstein-Sonderburg a owl:NamedIndividual .
+
+priv:List_of_consorts_of_Mecklenburg a owl:NamedIndividual .
+
+priv:List_of_counts_and_dukes_of_Limburg a owl:NamedIndividual .
+
+priv:List_of_counts_and_dukes_of_Montpensier a owl:NamedIndividual .
+
+priv:List_of_counts_and_dukes_of_Vendôme a owl:NamedIndividual .
+
+priv:List_of_counts_and_margraves_of_Namur a owl:NamedIndividual .
+
+priv:List_of_counts_of_Burgundy a owl:NamedIndividual .
+
+priv:List_of_counts_palatine_of_the_Rhine a owl:NamedIndividual .
+
+priv:List_of_dukes_and_kings_of_Croatia a owl:NamedIndividual .
+
+priv:List_of_dukes_of_Milan a owl:NamedIndividual .
+
+priv:List_of_governors-general_of_French_Indochina a owl:NamedIndividual .
+
+priv:List_of_head_of_the_State_of_Punjab_\(British_India\) a owl:NamedIndividual .
+
+priv:List_of_kings_and_dukes_of_Lorraine a owl:NamedIndividual .
+
+priv:List_of_kings_of_Burgundy a owl:NamedIndividual .
+
+priv:List_of_lord_high_commissioners_of_the_Ionian_Islands a owl:NamedIndividual .
+
+priv:List_of_lords_and_princes_of_Joinville a owl:NamedIndividual .
+
+priv:List_of_margraves_and_electors_of_Brandenburg a owl:NamedIndividual .
+
+priv:List_of_margraves_of_Meissen a owl:NamedIndividual .
+
+<http://example.org/private#List_of_mayors_of_Alexandria,_Virginia> a owl:NamedIndividual .
+
+priv:List_of_mayors_of_Birmingham a owl:NamedIndividual .
+
+priv:List_of_mayors_of_Calgary a owl:NamedIndividual .
+
+priv:List_of_mayors_of_Hamburg a owl:NamedIndividual .
+
+<http://example.org/private#List_of_mayors_of_Lancaster,_Pennsylvania> a owl:NamedIndividual .
+
+<http://example.org/private#List_of_mayors_of_Santa_Barbara,_California> a owl:NamedIndividual .
+
+priv:List_of_mayors_of_Tehran a owl:NamedIndividual .
+
+priv:List_of_mayors_of_The_Hague a owl:NamedIndividual .
+
+priv:List_of_mayors_of_Vienna a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Brazil a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Brittany a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Luxembourg a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Majorca a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Persia a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_Württemberg a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_the_Kingdom_of_the_Two_Sicilies a owl:NamedIndividual .
+
+priv:List_of_monarchs_of_the_Netherlands a owl:NamedIndividual .
+
+priv:List_of_palatines_of_Hungary a owl:NamedIndividual .
+
+priv:List_of_presidents_of_the_National_Assembly_\(Cambodia\) a owl:NamedIndividual .
+
+priv:List_of_presidents_of_the_National_Assembly_of_France a owl:NamedIndividual .
+
+priv:List_of_presidents_of_the_Senate_of_Cambodia a owl:NamedIndividual .
+
+priv:List_of_presidents_of_the_Senate_of_France a owl:NamedIndividual .
+
+priv:List_of_prime_ministers_of_Eswatini a owl:NamedIndividual .
+
+priv:List_of_prime_ministers_of_France a owl:NamedIndividual .
+
+priv:List_of_prime_ministers_of_Hungary a owl:NamedIndividual .
+
+priv:List_of_prime_ministers_of_Lesotho a owl:NamedIndividual .
+
+priv:List_of_prime_ministers_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:List_of_princesses_of_Orange_by_marriage a owl:NamedIndividual .
+
+priv:List_of_regents a owl:NamedIndividual .
+
+priv:List_of_royal_consorts_of_Persia a owl:NamedIndividual .
+
+priv:List_of_rulers_of_Austria a owl:NamedIndividual .
+
+priv:List_of_rulers_of_Auvergne a owl:NamedIndividual .
+
+priv:List_of_rulers_of_Mecklenburg a owl:NamedIndividual .
+
+priv:List_of_rulers_of_Saxony a owl:NamedIndividual .
+
+priv:List_of_rulers_of_Thuringia a owl:NamedIndividual .
+
+priv:Little_Christmas a owl:NamedIndividual .
+
+priv:Little_Easton a owl:NamedIndividual .
+
+priv:Liverpool a owl:NamedIndividual .
+
+priv:Liverpool_city_centre a owl:NamedIndividual .
+
+priv:Liège a owl:NamedIndividual .
+
+priv:Lobnya a owl:NamedIndividual .
+
+priv:Local_Government_Act_2000 a owl:NamedIndividual .
+
+priv:Local_government_in_the_Republic_of_Ireland a owl:NamedIndividual .
+
+priv:Logan_Pearsall_Smith a owl:NamedIndividual .
+
+priv:Lok_Sabha a owl:NamedIndividual .
+
+priv:London_Assembly a owl:NamedIndividual .
+
+priv:London_Borough_of_Newham a owl:NamedIndividual .
+
+priv:London_Conservatives a owl:NamedIndividual .
+
+priv:London_Green_Party a owl:NamedIndividual .
+
+priv:London_Labour a owl:NamedIndividual .
+
+priv:London_Liberal_Democrats a owl:NamedIndividual .
+
+<http://example.org/private#Longwood,_Saint_Helena> a owl:NamedIndividual .
+
+priv:Lord_Algernon_Gordon-Lennox a owl:NamedIndividual .
+
+priv:Lord_Augustus_FitzRoy a owl:NamedIndividual .
+
+<http://example.org/private#Lord_Charles_Townshend_(1785–1853)> a owl:NamedIndividual .
+
+priv:Lord_George_Manners a owl:NamedIndividual .
+
+<http://example.org/private#Lord_John_Hay_(Royal_Navy_officer,_born_1827)> a owl:NamedIndividual .
+
+priv:Lord_Mayor_of_Liverpool a owl:NamedIndividual .
+
+priv:Lord_of_Mann a owl:NamedIndividual .
+
+priv:Lord_of_Mechelen a owl:NamedIndividual .
+
+priv:Lord_of_Molina a owl:NamedIndividual .
+
+priv:Lordship_of_Biscay a owl:NamedIndividual .
+
+priv:Lordship_of_Rostock a owl:NamedIndividual .
+
+priv:Lordship_of_Stargard a owl:NamedIndividual .
+
+<http://example.org/private#Louis,_Dauphin_of_France_(1729–1765)> a owl:NamedIndividual .
+
+<http://example.org/private#Louis,_Grand_Dauphin> a owl:NamedIndividual .
+
+priv:Louis-Mathieu_Molé a owl:NamedIndividual .
+
+<http://example.org/private#Louis_Antoine,_Duke_of_Angoulême> a owl:NamedIndividual .
+
+priv:Louis_Bonaparte a owl:NamedIndividual .
+
+<http://example.org/private#Louis_IV,_Grand_Duke_of_Hesse> a owl:NamedIndividual .
+
+<http://example.org/private#Louis_IV,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Louis_I_of_Spain a owl:NamedIndividual .
+
+<http://example.org/private#Louis_Jean_Marie_de_Bourbon,_Duke_of_Penthièvre> a owl:NamedIndividual .
+
+priv:Louis_Marie_Joseph_de_Sadeleer a owl:NamedIndividual .
+
+priv:Louis_Nicolas_Vauquelin a owl:NamedIndividual .
+
+<http://example.org/private#Louis_Philippe_I,_Duke_of_Orléans> a owl:NamedIndividual .
+
+<http://example.org/private#Louis_Philippe_II,_Duke_of_Orléans> a owl:NamedIndividual .
+
+priv:Louis_XVII a owl:NamedIndividual .
+
+priv:Louis_XVIII a owl:NamedIndividual .
+
+priv:Louis_de_Beaupoil_de_Saint-Aulaire a owl:NamedIndividual .
+
+<http://example.org/private#Louisa_Cavendish,_Duchess_of_Devonshire> a owl:NamedIndividual .
+
+priv:Louise_Henriette_de_Bourbon a owl:NamedIndividual .
+
+<http://example.org/private#Louise_Marie_Adélaïde_de_Bourbon,_Duchess_of_Orléans> a owl:NamedIndividual .
+
+priv:Louise_Mountbatten a owl:NamedIndividual .
+
+priv:Louise_Taft a owl:NamedIndividual .
+
+priv:Louise_of_Hesse-Kassel a owl:NamedIndividual .
+
+priv:Louise_of_Orléans a owl:NamedIndividual .
+
+priv:Louisiana a owl:NamedIndividual .
+
+priv:Lower_house a owl:NamedIndividual .
+
+priv:Lucerne a owl:NamedIndividual .
+
+priv:Lucia_Migliaccio a owl:NamedIndividual .
+
+priv:Luke_Edward_Wright a owl:NamedIndividual .
+
+priv:Luleå a owl:NamedIndividual .
+
+priv:Luxembourg_Palace a owl:NamedIndividual .
+
+priv:Lyudmila_Putina a owl:NamedIndividual .
+
+priv:Lübeck a owl:NamedIndividual .
+
+priv:Lương_Cường a owl:NamedIndividual .
+
+priv:Lương_Tam_Quang a owl:NamedIndividual .
+
+priv:M._Carey_Thomas a owl:NamedIndividual .
+
+priv:Maastricht a owl:NamedIndividual .
+
+priv:Macky_Sall a owl:NamedIndividual .
+
+priv:Madagascar a owl:NamedIndividual .
+
+priv:Madeira a owl:NamedIndividual .
+
+priv:Madrid a owl:NamedIndividual .
+
+priv:Mahathir_Mohamad a owl:NamedIndividual .
+
+priv:Malayan_Union a owl:NamedIndividual .
+
+priv:Malays_\(ethnic_group\) a owl:NamedIndividual .
+
+priv:Malaysia a owl:NamedIndividual .
+
+priv:Malek_Jahan_Khanom a owl:NamedIndividual .
+
+priv:Mallikarjun_Kharge a owl:NamedIndividual .
+
+priv:Mallorca a owl:NamedIndividual .
+
+priv:Management a owl:NamedIndividual .
+
+priv:Mandisa_Maya a owl:NamedIndividual .
+
+priv:Manon_Jeannotte a owl:NamedIndividual .
+
+priv:Manuel_Godoy a owl:NamedIndividual .
+
+priv:March_of_Ancona a owl:NamedIndividual .
+
+priv:March_of_Genoa a owl:NamedIndividual .
+
+priv:March_of_Tuscany a owl:NamedIndividual .
+
+priv:Marga_Prohens a owl:NamedIndividual .
+
+priv:Margaret_Leijonhufvud a owl:NamedIndividual .
+
+priv:Margaret_Thom a owl:NamedIndividual .
+
+priv:Margaret_Woodrow_Wilson a owl:NamedIndividual .
+
+priv:Margaret_of_Brabant a owl:NamedIndividual .
+
+priv:Margaret_of_Sicily a owl:NamedIndividual .
+
+priv:Margot_Asquith a owl:NamedIndividual .
+
+priv:Margravate_of_Meissen a owl:NamedIndividual .
+
+priv:Margraviate_of_Antwerp a owl:NamedIndividual .
+
+priv:Margraviate_of_Moravia a owl:NamedIndividual .
+
+priv:Margrethe_II a owl:NamedIndividual .
+
+priv:Maria_Alexandrovna_\(Marie_of_Hesse\) a owl:NamedIndividual .
+
+priv:Maria_Amalia_of_Naples_and_Sicily a owl:NamedIndividual .
+
+priv:Maria_Amalia_of_Saxony a owl:NamedIndividual .
+
+<http://example.org/private#Maria_Amalie,_Countess_of_Hoym> a owl:NamedIndividual .
+
+priv:Maria_Anna_Victoria_of_Bavaria a owl:NamedIndividual .
+
+priv:Maria_Anna_of_Bavaria_\(born_1551\) a owl:NamedIndividual .
+
+priv:Maria_Anna_of_Savoy a owl:NamedIndividual .
+
+priv:Maria_Antònia_Munar a owl:NamedIndividual .
+
+<http://example.org/private#Maria_Beatrice_d'Este,_Duchess_of_Massa> a owl:NamedIndividual .
+
+priv:Maria_Carolina_of_Austria a owl:NamedIndividual .
+
+priv:Maria_Christina_of_Austria a owl:NamedIndividual .
+
+priv:Maria_Feodorovna_\(Dagmar_of_Denmark\) a owl:NamedIndividual .
+
+priv:Maria_Josepha_of_Austria a owl:NamedIndividual .
+
+<http://example.org/private#Maria_Josepha_of_Saxony,_Dauphine_of_France> a owl:NamedIndividual .
+
+priv:Maria_Ludovika_of_Austria-Este a owl:NamedIndividual .
+
+priv:Maria_Luisa_Gabriella_of_Savoy a owl:NamedIndividual .
+
+priv:Maria_Luisa_of_Parma a owl:NamedIndividual .
+
+priv:Maria_Luisa_of_Spain a owl:NamedIndividual .
+
+priv:Maria_Salom a owl:NamedIndividual .
+
+<http://example.org/private#Maria_Teresa_Felicitas_d'Este> a owl:NamedIndividual .
+
+priv:Maria_Theresa a owl:NamedIndividual .
+
+priv:Maria_Theresa_Lewis a owl:NamedIndividual .
+
+priv:Maria_Theresa_of_Naples_and_Sicily a owl:NamedIndividual .
+
+priv:Maria_Theresa_of_Savoy a owl:NamedIndividual .
+
+<http://example.org/private#Maria_d'Este> a owl:NamedIndividual .
+
+<http://example.org/private#Maria_of_the_Palatinate,_Duchess_of_Södermanland> a owl:NamedIndividual .
+
+priv:Mariano_Luis_de_Urquijo a owl:NamedIndividual .
+
+priv:Mariano_Rajoy a owl:NamedIndividual .
+
+priv:Marie_Henriette_of_Austria a owl:NamedIndividual .
+
+priv:Marie_Joséphine_of_Savoy a owl:NamedIndividual .
+
+<http://example.org/private#Marie_Louise,_Duchess_of_Parma> a owl:NamedIndividual .
+
+priv:Marie_Louise_Gonzaga a owl:NamedIndividual .
+
+priv:Mariehamn a owl:NamedIndividual .
+
+priv:Marieme_Faye_Sall a owl:NamedIndividual .
+
+priv:Marienborg a owl:NamedIndividual .
+
+priv:Marilyn_Quayle a owl:NamedIndividual .
+
+priv:Mark_Carney a owl:NamedIndividual .
+
+priv:Mark_Warner a owl:NamedIndividual .
+
+priv:Marla_Maples a owl:NamedIndividual .
+
+priv:Marquisate_of_Oristano a owl:NamedIndividual .
+
+priv:Marseille a owl:NamedIndividual .
+
+priv:Marta_González_Vázquez a owl:NamedIndividual .
+
+<http://example.org/private#Marthe_Camille_Bachasson,_Count_of_Montalivet> a owl:NamedIndividual .
+
+<http://example.org/private#Martin-Michel-Charles_Gaudin,_duc_de_Gaëte> a owl:NamedIndividual .
+
+priv:Martin_Van_Buren a owl:NamedIndividual .
+
+priv:Marvin_Pierce a owl:NamedIndividual .
+
+<http://example.org/private#Mary,_Queen_of_Hungary> a owl:NamedIndividual .
+
+priv:Mary_Anne_Disraeli a owl:NamedIndividual .
+
+priv:Mary_Anne_MacLeod_Trump a owl:NamedIndividual .
+
+priv:Mary_Berenson a owl:NamedIndividual .
+
+<http://example.org/private#Mary_Grey,_Countess_Grey> a owl:NamedIndividual .
+
+priv:Mary_Louise_Smith_\(politician\) a owl:NamedIndividual .
+
+priv:Mary_Simon a owl:NamedIndividual .
+
+priv:Mary_Todd_Lincoln a owl:NamedIndividual .
+
+priv:Mary_of_Burgundy a owl:NamedIndividual .
+
+priv:Mary_of_Teck a owl:NamedIndividual .
+
+priv:Marylebone a owl:NamedIndividual .
+
+priv:Masakazu_Sekiguchi a owl:NamedIndividual .
+
+priv:Mashhad a owl:NamedIndividual .
+
+priv:Matilda_of_Tuscany a owl:NamedIndividual .
+
+priv:Matt_Cartwright a owl:NamedIndividual .
+
+priv:Matthias_Corvinus a owl:NamedIndividual .
+
+<http://example.org/private#Maurice,_Prince_of_Orange> a owl:NamedIndividual .
+
+priv:Maurya_Empire a owl:NamedIndividual .
+
+<http://example.org/private#Maximilian_I,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Maximilian_II_Emanuel a owl:NamedIndividual .
+
+priv:Maximilian_I_Joseph_of_Bavaria a owl:NamedIndividual .
+
+priv:Mayfair a owl:NamedIndividual .
+
+priv:Mayor a owl:NamedIndividual .
+
+priv:Mayor_of_London a owl:NamedIndividual .
+
+priv:Mayor_of_Manchester a owl:NamedIndividual .
+
+priv:Mayor_of_the_District_of_Columbia a owl:NamedIndividual .
+
+priv:Mayors_in_England a owl:NamedIndividual .
+
+<http://example.org/private#Maytown,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Mayurbhanj_district a owl:NamedIndividual .
+
+priv:Mechthild_of_the_Palatinate a owl:NamedIndividual .
+
+priv:Mediterranean_Sea a owl:NamedIndividual .
+
+priv:Mehdi_Chamran a owl:NamedIndividual .
+
+<http://example.org/private#Meinhard,_Duke_of_Carinthia> a owl:NamedIndividual .
+
+priv:Meiningen a owl:NamedIndividual .
+
+priv:Meissen a owl:NamedIndividual .
+
+priv:Melanesia a owl:NamedIndividual .
+
+priv:Melania_Trump a owl:NamedIndividual .
+
+priv:Melinda_Katz a owl:NamedIndividual .
+
+priv:Member_of_Parliament_\(United_Kingdom\) a owl:NamedIndividual .
+
+priv:Member_of_the_German_Bundestag a owl:NamedIndividual .
+
+priv:Member_of_the_Scottish_Parliament a owl:NamedIndividual .
+
+priv:Member_of_the_Senedd a owl:NamedIndividual .
+
+priv:Menen a owl:NamedIndividual .
+
+priv:Meopham a owl:NamedIndividual .
+
+priv:Meritxell_Batet a owl:NamedIndividual .
+
+priv:Mesopotamia a owl:NamedIndividual .
+
+priv:Messancy a owl:NamedIndividual .
+
+priv:Methodist_Church_of_Australasia a owl:NamedIndividual .
+
+priv:Metropolitan_borough a owl:NamedIndividual .
+
+priv:Mette_Frederiksen a owl:NamedIndividual .
+
+<http://example.org/private#Michael_Hicks_Beach,_1st_Earl_St_Aldwyn> a owl:NamedIndividual .
+
+priv:Michael_Häupl a owl:NamedIndividual .
+
+priv:Michael_Ludwig a owl:NamedIndividual .
+
+priv:Michael_of_Russia a owl:NamedIndividual .
+
+priv:Michel_Sapin a owl:NamedIndividual .
+
+priv:Michele_Bachmann a owl:NamedIndividual .
+
+priv:Middle_East a owl:NamedIndividual .
+
+priv:Middle_Eastern_theatre_of_World_War_I a owl:NamedIndividual .
+
+priv:Middle_High_German a owl:NamedIndividual .
+
+priv:Middlesex a owl:NamedIndividual .
+
+<http://example.org/private#Middletown,_Ohio> a owl:NamedIndividual .
+
+<http://example.org/private#Midlands–North-West_(European_Parliament_constituency)> a owl:NamedIndividual .
+
+priv:Midlothian a owl:NamedIndividual .
+
+priv:Midwinter a owl:NamedIndividual .
+
+priv:Mike_Festa a owl:NamedIndividual .
+
+priv:Mike_Johnson a owl:NamedIndividual .
+
+priv:Mikhail_Mishustin a owl:NamedIndividual .
+
+priv:Mikhail_Mokretsov a owl:NamedIndividual .
+
+priv:Miklós_Horthy a owl:NamedIndividual .
+
+priv:Milan a owl:NamedIndividual .
+
+priv:Millard_Fillmore a owl:NamedIndividual .
+
+<http://example.org/private#Millicent_Leveson-Gower,_Duchess_of_Sutherland> a owl:NamedIndividual .
+
+<http://example.org/private#Milton,_Massachusetts> a owl:NamedIndividual .
+
+priv:Minangkabau_people a owl:NamedIndividual .
+
+priv:Minister-President_of_the_Brussels-Capital_Region a owl:NamedIndividual .
+
+priv:Minister-president a owl:NamedIndividual .
+
+priv:Minneapolis a owl:NamedIndividual .
+
+priv:Mirow a owl:NamedIndividual .
+
+priv:Mirza_Ali_Asghar_Khan_Amin_al-Soltan a owl:NamedIndividual .
+
+priv:Mirza_Aqa_Khan_Nuri a owl:NamedIndividual .
+
+priv:Mirza_Asadollah_Nuri a owl:NamedIndividual .
+
+priv:Mirza_Hassan_Mostowfi_ol-Mamalek_Ashtiani a owl:NamedIndividual .
+
+priv:Mirza_Hosein_Khan_Sepahsalar a owl:NamedIndividual .
+
+priv:Mirza_Nasrullah_Khan a owl:NamedIndividual .
+
+priv:Mirza_Yusuf_Ashtiani a owl:NamedIndividual .
+
+priv:Mirza_Yusuf_Khan_Astiani a owl:NamedIndividual .
+
+priv:Mohammad_Ali_Shah_Qajar a owl:NamedIndividual .
+
+priv:Mohammad_Shah_Qajar a owl:NamedIndividual .
+
+priv:Mohammed_Saddiq a owl:NamedIndividual .
+
+priv:Monarchy_of_Australia a owl:NamedIndividual .
+
+priv:Monarchy_of_Belgium a owl:NamedIndividual .
+
+priv:Monarchy_of_Cambodia a owl:NamedIndividual .
+
+priv:Monarchy_of_Canada a owl:NamedIndividual .
+
+priv:Monarchy_of_Denmark a owl:NamedIndividual .
+
+priv:Monarchy_of_Ireland a owl:NamedIndividual .
+
+priv:Monarchy_of_Lesotho a owl:NamedIndividual .
+
+priv:Monarchy_of_Luxembourg a owl:NamedIndividual .
+
+priv:Monarchy_of_Spain a owl:NamedIndividual .
+
+priv:Monarchy_of_Thailand a owl:NamedIndividual .
+
+priv:Monarchy_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Monbijou_Palace a owl:NamedIndividual .
+
+priv:Monmouthshire a owl:NamedIndividual .
+
+priv:Moravia a owl:NamedIndividual .
+
+<http://example.org/private#Morley,_West_Yorkshire> a owl:NamedIndividual .
+
+priv:Moscow a owl:NamedIndividual .
+
+priv:Mozaffar_ad-Din_Shah_Qajar a owl:NamedIndividual .
+
+priv:Msunduzi_Local_Municipality a owl:NamedIndividual .
+
+priv:Mswati_III a owl:NamedIndividual .
+
+priv:Mullah_Omar a owl:NamedIndividual .
+
+priv:Mumbai a owl:NamedIndividual .
+
+priv:Munich a owl:NamedIndividual .
+
+priv:Municipal_corporation a owl:NamedIndividual .
+
+priv:Municipal_council a owl:NamedIndividual .
+
+priv:Municipal_executive a owl:NamedIndividual .
+
+priv:Municipal_treasurer a owl:NamedIndividual .
+
+priv:Munir_al-Saltaneh a owl:NamedIndividual .
+
+priv:Murli_Manohar_Joshi a owl:NamedIndividual .
+
+priv:Mzimkhulu_Thebolla a owl:NamedIndividual .
+
+priv:Naikaku_Sōri_Daijin_Kantei a owl:NamedIndividual .
+
+<http://example.org/private#Nancy,_France> a owl:NamedIndividual .
+
+priv:Nancy_Pelosi a owl:NamedIndividual .
+
+priv:Nancy_Reagan a owl:NamedIndividual .
+
+priv:Nanda_dynasty a owl:NamedIndividual .
+
+priv:Naples a owl:NamedIndividual .
+
+priv:Napoleon_III a owl:NamedIndividual .
+
+priv:Narcisse-Achille_de_Salvandy a owl:NamedIndividual .
+
+priv:Narendra_Modi a owl:NamedIndividual .
+
+<http://example.org/private#Narragansett,_Rhode_Island> a owl:NamedIndividual .
+
+priv:Naruhito a owl:NamedIndividual .
+
+priv:Nate_Vance a owl:NamedIndividual .
+
+priv:Nathan_Wright_\(judge\) a owl:NamedIndividual .
+
+<http://example.org/private#National_Art_Gallery,_Bulgaria> a owl:NamedIndividual .
+
+priv:National_Assembly_\(Cambodia\) a owl:NamedIndividual .
+
+priv:National_Assembly_\(France\) a owl:NamedIndividual .
+
+priv:National_Assembly_\(Lesotho\) a owl:NamedIndividual .
+
+priv:National_Assembly_of_South_Africa a owl:NamedIndividual .
+
+priv:National_Council_\(Austria\) a owl:NamedIndividual .
+
+priv:National_Council_of_Provinces a owl:NamedIndividual .
+
+priv:National_Union_Party_\(United_States\) a owl:NamedIndividual .
+
+priv:Nativity_Fast a owl:NamedIndividual .
+
+priv:Nativity_of_Jesus a owl:NamedIndividual .
+
+priv:Naval_warfare_in_the_Mediterranean_during_World_War_I a owl:NamedIndividual .
+
+priv:Nazi_Germany a owl:NamedIndividual .
+
+priv:Ndlovukati a owl:NamedIndividual .
+
+priv:Nell_Dunn a owl:NamedIndividual .
+
+priv:Neszmély a owl:NamedIndividual .
+
+priv:Netherlands a owl:NamedIndividual .
+
+priv:Neum a owl:NamedIndividual .
+
+priv:Neustrelitz a owl:NamedIndividual .
+
+priv:New_Delhi a owl:NamedIndividual .
+
+priv:New_Forest a owl:NamedIndividual .
+
+priv:New_Frontier_Party_\(Japan\) a owl:NamedIndividual .
+
+<http://example.org/private#New_Haven,_Connecticut> a owl:NamedIndividual .
+
+<http://example.org/private#New_Holland,_Pennsylvania> a owl:NamedIndividual .
+
+priv:New_Jersey a owl:NamedIndividual .
+
+priv:New_Orleans a owl:NamedIndividual .
+
+<http://example.org/private#New_Palace,_Potsdam> a owl:NamedIndividual .
+
+<http://example.org/private#New_Year's_Day> a owl:NamedIndividual .
+
+<http://example.org/private#New_Year's_Eve> a owl:NamedIndividual .
+
+priv:New_York_\(state\) a owl:NamedIndividual .
+
+priv:New_York_City a owl:NamedIndividual .
+
+<http://example.org/private#Newark,_New_Jersey> a owl:NamedIndividual .
+
+priv:Nguyễn_Khắc_Định a owl:NamedIndividual .
+
+priv:Nguyễn_Phú_Trọng a owl:NamedIndividual .
+
+priv:Nguyễn_Thiện_Nhân a owl:NamedIndividual .
+
+priv:Nguyễn_Thị_Thanh_Nga a owl:NamedIndividual .
+
+priv:Nguyễn_Văn_Được a owl:NamedIndividual .
+
+priv:Ngwenyama a owl:NamedIndividual .
+
+priv:Ngô_Phương_Ly a owl:NamedIndividual .
+
+priv:Ngô_Xuân_Lịch a owl:NamedIndividual .
+
+priv:Niceto_Alcalá-Zamora a owl:NamedIndividual .
+
+priv:Nicholas_II a owl:NamedIndividual .
+
+<http://example.org/private#Nicholas_True,_Baron_True> a owl:NamedIndividual .
+
+priv:Nicolas_Joseph_Maison a owl:NamedIndividual .
+
+priv:Nicole_Duranton a owl:NamedIndividual .
+
+priv:Nieuwe_Kerk_\(Delft\) a owl:NamedIndividual .
+
+priv:Nikolai_Patrushev a owl:NamedIndividual .
+
+priv:Nikolay_Bordyuzha a owl:NamedIndividual .
+
+priv:Nikolay_Kovalyov_\(politician\) a owl:NamedIndividual .
+
+priv:Nivelles a owl:NamedIndividual .
+
+priv:Noor_Mohammad_Saqib a owl:NamedIndividual .
+
+priv:Noordeinde_Palace a owl:NamedIndividual .
+
+priv:Norfolk a owl:NamedIndividual .
+
+priv:Norodom_Sihamoni a owl:NamedIndividual .
+
+priv:North_Carolina_House_of_Representatives a owl:NamedIndividual .
+
+priv:North_Caucasus a owl:NamedIndividual .
+
+priv:North_Kensington a owl:NamedIndividual .
+
+priv:North_Rhine-Westphalia a owl:NamedIndividual .
+
+priv:North_Vietnam a owl:NamedIndividual .
+
+priv:Northamptonshire a owl:NamedIndividual .
+
+priv:Northern_Italy a owl:NamedIndividual .
+
+priv:Northwestern_Europe a owl:NamedIndividual .
+
+priv:Nottinghamshire a owl:NamedIndividual .
+
+priv:Ntfombi_of_Eswatini a owl:NamedIndividual .
+
+priv:Number_One_Observatory_Circle a owl:NamedIndividual .
+
+<http://example.org/private#Nur,_Iran> a owl:NamedIndividual .
+
+priv:Nus_Ghani a owl:NamedIndividual .
+
+priv:Nîmes a owl:NamedIndividual .
+
+priv:Oberlosa a owl:NamedIndividual .
+
+priv:Obertenghi a owl:NamedIndividual .
+
+priv:Odisha a owl:NamedIndividual .
+
+<http://example.org/private#Odoardo_Farnese,_Hereditary_Prince_of_Parma> a owl:NamedIndividual .
+
+priv:Olaf_Scholz a owl:NamedIndividual .
+
+priv:Old_High_German a owl:NamedIndividual .
+
+priv:Old_Hindi a owl:NamedIndividual .
+
+priv:Olton a owl:NamedIndividual .
+
+priv:Om_Birla a owl:NamedIndividual .
+
+priv:Ongendus a owl:NamedIndividual .
+
+priv:Open_Flemish_Liberals_and_Democrats a owl:NamedIndividual .
+
+priv:Order_of_Saint_John_\(chartered_1888\) a owl:NamedIndividual .
+
+priv:Order_of_St_Michael_and_St_George a owl:NamedIndividual .
+
+priv:Order_of_the_Bath a owl:NamedIndividual .
+
+priv:Order_of_the_British_Empire a owl:NamedIndividual .
+
+priv:Order_of_the_Northwest_Territories a owl:NamedIndividual .
+
+priv:Orlow_W._Chapman a owl:NamedIndividual .
+
+priv:Orriule a owl:NamedIndividual .
+
+priv:Osborne_Markham a owl:NamedIndividual .
+
+priv:Oscar_II a owl:NamedIndividual .
+
+priv:Ostend a owl:NamedIndividual .
+
+<http://example.org/private#Otto_I,_Count_of_Nassau> a owl:NamedIndividual .
+
+<http://example.org/private#Otto_II,_Margrave_of_Meissen> a owl:NamedIndividual .
+
+priv:Otto_the_Great a owl:NamedIndividual .
+
+priv:Ottokar_I_of_Bohemia a owl:NamedIndividual .
+
+priv:Oulu a owl:NamedIndividual .
+
+<http://example.org/private#Outline_of_Washington,_D.C.> a owl:NamedIndividual .
+
+priv:Oxfordshire a owl:NamedIndividual .
+
+priv:Pala_Empire a owl:NamedIndividual .
+
+priv:Palace_of_Coudenberg a owl:NamedIndividual .
+
+priv:Palace_of_Moncloa a owl:NamedIndividual .
+
+priv:Palace_of_Versailles a owl:NamedIndividual .
+
+priv:Palace_of_Westminster a owl:NamedIndividual .
+
+priv:Palace_of_Zarzuela a owl:NamedIndividual .
+
+priv:Palacio_del_Senado a owl:NamedIndividual .
+
+priv:Palais-Royal a owl:NamedIndividual .
+
+priv:Palais_Bourbon a owl:NamedIndividual .
+
+priv:Palais_Modena a owl:NamedIndividual .
+
+priv:Palanga a owl:NamedIndividual .
+
+<http://example.org/private#Palazzina_Marfisa_d'Este> a owl:NamedIndividual .
+
+priv:Palazzo_Estense a owl:NamedIndividual .
+
+priv:Palazzo_Paradiso a owl:NamedIndividual .
+
+priv:Palazzo_Schifanoia a owl:NamedIndividual .
+
+priv:Palazzo_dei_Diamanti a owl:NamedIndividual .
+
+priv:Palazzo_della_Pilotta a owl:NamedIndividual .
+
+priv:Paldiski a owl:NamedIndividual .
+
+priv:Palermo a owl:NamedIndividual .
+
+priv:Palestine_\(region\) a owl:NamedIndividual .
+
+priv:Panjwayi_District a owl:NamedIndividual .
+
+priv:Panshanger a owl:NamedIndividual .
+
+priv:Pany_Yathotou a owl:NamedIndividual .
+
+priv:Papua_New_Guinea a owl:NamedIndividual .
+
+<http://example.org/private#Parliament_House,_New_Delhi> a owl:NamedIndividual .
+
+priv:Parliament_of_the_Brussels-Capital_Region a owl:NamedIndividual .
+
+priv:Parliament_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Parma a owl:NamedIndividual .
+
+priv:Party_for_Freedom_and_Progress a owl:NamedIndividual .
+
+priv:Patrice_de_MacMahon a owl:NamedIndividual .
+
+priv:Patricia_Millett a owl:NamedIndividual .
+
+priv:Patricia_Russell a owl:NamedIndividual .
+
+priv:Patrick_Calhoun_\(immigrant\) a owl:NamedIndividual .
+
+priv:Patrick_Sensburg a owl:NamedIndividual .
+
+priv:Paul_A._Brodeur a owl:NamedIndividual .
+
+priv:Paul_Bender_\(jurist\) a owl:NamedIndividual .
+
+priv:Paul_Mashatile a owl:NamedIndividual .
+
+priv:Paul_de_Smet_de_Naeyer a owl:NamedIndividual .
+
+priv:Pauline_Bonaparte a owl:NamedIndividual .
+
+priv:Pauline_de_Meulan a owl:NamedIndividual .
+
+priv:Pavia a owl:NamedIndividual .
+
+priv:Pedro_Cevallos a owl:NamedIndividual .
+
+<http://example.org/private#Pedro_Pablo_Abarca_de_Bolea,_10th_Count_of_Aranda> a owl:NamedIndividual .
+
+priv:Pedro_Rollán a owl:NamedIndividual .
+
+priv:Pedro_Sánchez a owl:NamedIndividual .
+
+priv:Peeblesshire a owl:NamedIndividual .
+
+priv:Peelite a owl:NamedIndividual .
+
+priv:Pehr_Evind_Svinhufvud a owl:NamedIndividual .
+
+<http://example.org/private#Pemberton,_New_Jersey> a owl:NamedIndividual .
+
+<http://example.org/private#Pembroke_Lodge,_Richmond_Park> a owl:NamedIndividual .
+
+<http://example.org/private#Peniston_Lamb,_1st_Viscount_Melbourne> a owl:NamedIndividual .
+
+priv:Pennsylvania a owl:NamedIndividual .
+
+priv:Penrhyndeudraeth a owl:NamedIndividual .
+
+<http://example.org/private#Peoria,_Illinois> a owl:NamedIndividual .
+
+priv:Percy_FitzGerald a owl:NamedIndividual .
+
+priv:Persian_Gulf a owl:NamedIndividual .
+
+priv:Perth a owl:NamedIndividual .
+
+priv:Pescara a owl:NamedIndividual .
+
+priv:Pete_Aguilar a owl:NamedIndividual .
+
+priv:Peter_Haubner a owl:NamedIndividual .
+
+priv:Peter_Samt a owl:NamedIndividual .
+
+priv:Peter_Tschentscher a owl:NamedIndividual .
+
+priv:Petit_Luxembourg a owl:NamedIndividual .
+
+priv:Philadelphia a owl:NamedIndividual .
+
+priv:Philip_II_of_Spain a owl:NamedIndividual .
+
+<http://example.org/private#Philip_Sidney,_2nd_Viscount_De_L'Isle> a owl:NamedIndividual .
+
+priv:Philip_V_of_Spain a owl:NamedIndividual .
+
+<http://example.org/private#Philip_William,_Elector_Palatine> a owl:NamedIndividual .
+
+priv:Philip_the_Handsome a owl:NamedIndividual .
+
+<http://example.org/private#Philipp,_Landgrave_of_Hesse> a owl:NamedIndividual .
+
+priv:Philippine_dynasty a owl:NamedIndividual .
+
+priv:Philippines a owl:NamedIndividual .
+
+priv:PhotoDisc a owl:NamedIndividual .
+
+priv:Phú_Thọ_province a owl:NamedIndividual .
+
+priv:Phạm_Minh_Chính a owl:NamedIndividual .
+
+priv:Piast_dynasty a owl:NamedIndividual .
+
+priv:Pier_Luigi_Farnese a owl:NamedIndividual .
+
+<http://example.org/private#Pierre-Barthélémy_Portal_d'Albarèdes> a owl:NamedIndividual .
+
+<http://example.org/private#Pierre_Dupont_de_l'Étang> a owl:NamedIndividual .
+
+priv:Pierre_Paul_Nicolas_Henrion_de_Pansey a owl:NamedIndividual .
+
+priv:Pierre_Paul_Royer-Collard a owl:NamedIndividual .
+
+priv:Pierre_de_Decker a owl:NamedIndividual .
+
+priv:Pisa a owl:NamedIndividual .
+
+priv:Pisa_Cathedral a owl:NamedIndividual .
+
+priv:Pittsburgh a owl:NamedIndividual .
+
+priv:Plauen a owl:NamedIndividual .
+
+priv:Plön_\(district\) a owl:NamedIndividual .
+
+priv:Poland a owl:NamedIndividual .
+
+<http://example.org/private#Polish–Lithuanian_Commonwealth> a owl:NamedIndividual .
+
+priv:Political_make-up_of_local_councils_in_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Politics_and_government_of_the_Brussels-Capital_Region a owl:NamedIndividual .
+
+priv:Polynesia a owl:NamedIndividual .
+
+<http://example.org/private#Pompey,_New_York> a owl:NamedIndividual .
+
+priv:Pontefract a owl:NamedIndividual .
+
+priv:Pontifical_Commission_for_Vatican_City_State a owl:NamedIndividual .
+
+priv:Pope a owl:NamedIndividual .
+
+priv:Porthcurno a owl:NamedIndividual .
+
+priv:Potsdam a owl:NamedIndividual .
+
+priv:Prague a owl:NamedIndividual .
+
+priv:Prague_Castle a owl:NamedIndividual .
+
+priv:Pramod_Chandra_Mody a owl:NamedIndividual .
+
+priv:Pramod_Tiwari a owl:NamedIndividual .
+
+priv:Premier_of_China a owl:NamedIndividual .
+
+priv:Premier_of_the_Punjab a owl:NamedIndividual .
+
+priv:Premiership_of_Ismail_Sabri_Yaakob a owl:NamedIndividual .
+
+priv:Prescott_Bush a owl:NamedIndividual .
+
+priv:Presidencies_and_provinces_of_British_India a owl:NamedIndividual .
+
+priv:President_of_Austria a owl:NamedIndividual .
+
+priv:President_of_France a owl:NamedIndividual .
+
+priv:President_of_Germany a owl:NamedIndividual .
+
+priv:President_of_India a owl:NamedIndividual .
+
+priv:President_of_Russia a owl:NamedIndividual .
+
+priv:President_of_South_Africa a owl:NamedIndividual .
+
+priv:President_of_Vietnam a owl:NamedIndividual .
+
+priv:President_of_the_Congress_of_Deputies a owl:NamedIndividual .
+
+priv:President_of_the_National_Assembly_of_Laos a owl:NamedIndividual .
+
+priv:President_of_the_Senate_of_Spain a owl:NamedIndividual .
+
+priv:President_of_the_United_States a owl:NamedIndividual .
+
+<http://example.org/private#Presidential_Palace,_Hanoi> a owl:NamedIndividual .
+
+priv:Presley_Spruance a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Afghanistan a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Australia a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Cambodia a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Canada a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Denmark a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Finland a owl:NamedIndividual .
+
+priv:Prime_Minister_of_France a owl:NamedIndividual .
+
+priv:Prime_Minister_of_India a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Japan a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Laos a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Malaysia a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Russia a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Spain a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Thailand a owl:NamedIndividual .
+
+priv:Prime_Minister_of_Vietnam a owl:NamedIndividual .
+
+priv:Prime_Minister_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Prince-Bishopric_of_Liège a owl:NamedIndividual .
+
+priv:Prince-Bishopric_of_Ratzeburg a owl:NamedIndividual .
+
+priv:Prince-elector a owl:NamedIndividual .
+
+priv:Prince_Adolf_of_Hohenlohe-Ingelfingen a owl:NamedIndividual .
+
+priv:Prince_Albert_of_Saxe-Coburg_and_Gotha a owl:NamedIndividual .
+
+priv:Prince_Alexander_of_Hesse_and_by_Rhine a owl:NamedIndividual .
+
+priv:Prince_Andrew_of_Greece_and_Denmark a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Arthur,_Duke_of_Connaught_and_Strathearn> a owl:NamedIndividual .
+
+priv:Prince_Augustus_William_of_Prussia a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Edward,_Duke_of_Kent_and_Strathearn> a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Frederick,_Duke_of_York_and_Albany> a owl:NamedIndividual .
+
+priv:Prince_Frederick_Charles_of_Hesse a owl:NamedIndividual .
+
+priv:Prince_Frederick_William_of_Hesse-Kassel a owl:NamedIndividual .
+
+<http://example.org/private#Prince_George,_Duke_of_Kent> a owl:NamedIndividual .
+
+<http://example.org/private#Prince_George_County,_Virginia> a owl:NamedIndividual .
+
+priv:Prince_George_William_of_Hesse-Darmstadt a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Gustaf_Adolf,_Duke_of_Västerbotten> a owl:NamedIndividual .
+
+priv:Prince_Henrik_of_Denmark a owl:NamedIndividual .
+
+priv:Prince_Henry_of_Battenberg a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Leopold,_Duke_of_Albany> a owl:NamedIndividual .
+
+priv:Prince_Louis_of_Battenberg a owl:NamedIndividual .
+
+priv:Prince_Nicholas_of_Greece_and_Denmark a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Philip,_Duke_of_Edinburgh> a owl:NamedIndividual .
+
+<http://example.org/private#Prince_Philippe,_Count_of_Flanders> a owl:NamedIndividual .
+
+priv:Prince_du_sang a owl:NamedIndividual .
+
+priv:Prince_of_Bismarck a owl:NamedIndividual .
+
+priv:Prince_of_Orange a owl:NamedIndividual .
+
+priv:Prince_of_Swabia a owl:NamedIndividual .
+
+priv:Prince_of_Transylvania a owl:NamedIndividual .
+
+priv:Prince_of_the_Holy_Roman_Empire a owl:NamedIndividual .
+
+priv:Prince_regent a owl:NamedIndividual .
+
+priv:Princes_of_Condé a owl:NamedIndividual .
+
+priv:Princes_of_Conti a owl:NamedIndividual .
+
+priv:Princess_Alexandrine_of_Baden a owl:NamedIndividual .
+
+priv:Princess_Alice_of_Battenberg a owl:NamedIndividual .
+
+priv:Princess_Alice_of_the_United_Kingdom a owl:NamedIndividual .
+
+priv:Princess_Anna_of_Prussia a owl:NamedIndividual .
+
+priv:Princess_Antoinette_of_Brunswick-Wolfenbüttel a owl:NamedIndividual .
+
+priv:Princess_Augusta_of_Saxe-Gotha a owl:NamedIndividual .
+
+priv:Princess_Eleonore_of_Solms-Hohensolms-Lich a owl:NamedIndividual .
+
+priv:Princess_Elisabeth_Albertine_of_Saxe-Hildburghausen a owl:NamedIndividual .
+
+priv:Princess_Friederike_of_Hesse-Darmstadt a owl:NamedIndividual .
+
+priv:Princess_Helen_of_Waldeck_and_Pyrmont a owl:NamedIndividual .
+
+priv:Princess_Louise_Augusta_of_Denmark a owl:NamedIndividual .
+
+priv:Princess_Louise_Eleonore_of_Hohenlohe-Langenburg a owl:NamedIndividual .
+
+priv:Princess_Louise_Margaret_of_Prussia a owl:NamedIndividual .
+
+priv:Princess_Louise_of_Prussia a owl:NamedIndividual .
+
+<http://example.org/private#Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)> a owl:NamedIndividual .
+
+priv:Princess_Margaret_of_Connaught a owl:NamedIndividual .
+
+priv:Princess_Marie_of_Hohenzollern-Sigmaringen a owl:NamedIndividual .
+
+priv:Princess_Marina_of_Greece_and_Denmark a owl:NamedIndividual .
+
+priv:Princess_Mary_Adelaide_of_Cambridge a owl:NamedIndividual .
+
+priv:Princess_Michael_of_Kent a owl:NamedIndividual .
+
+priv:Princess_Sibylla_of_Saxe-Coburg_and_Gotha a owl:NamedIndividual .
+
+priv:Princess_Sophie_of_Bavaria a owl:NamedIndividual .
+
+priv:Princess_Victoria_Adelaide_of_Schleswig-Holstein a owl:NamedIndividual .
+
+priv:Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha a owl:NamedIndividual .
+
+priv:Princess_Victoria_of_Hesse_and_by_Rhine a owl:NamedIndividual .
+
+priv:Princess_Victoria_of_Saxe-Coburg-Saalfeld a owl:NamedIndividual .
+
+<http://example.org/private#Princeton,_New_Jersey> a owl:NamedIndividual .
+
+priv:Principality_of_Brunswick-Wolfenbüttel a owl:NamedIndividual .
+
+priv:Principality_of_Calenberg a owl:NamedIndividual .
+
+priv:Principality_of_Lüneburg a owl:NamedIndividual .
+
+priv:Principality_of_Nassau-Orange-Fulda a owl:NamedIndividual .
+
+priv:Principality_of_Orange-Nassau a owl:NamedIndividual .
+
+priv:Privy_Council_\(United_Kingdom\) a owl:NamedIndividual .
+
+priv:Privy_Garden_of_the_Palace_of_Whitehall a owl:NamedIndividual .
+
+priv:Prosper_Duvergier_de_Hauranne a owl:NamedIndividual .
+
+priv:Prosper_Poullet a owl:NamedIndividual .
+
+priv:Province_of_Pennsylvania a owl:NamedIndividual .
+
+<http://example.org/private#Province_of_Pomerania_(1815–1945)> a owl:NamedIndividual .
+
+priv:Province_of_Silesia a owl:NamedIndividual .
+
+priv:Prussian_House_of_Lords a owl:NamedIndividual .
+
+priv:Przemków a owl:NamedIndividual .
+
+priv:Pundravardhana a owl:NamedIndividual .
+
+priv:Punjab_Province_\(British_India\) a owl:NamedIndividual .
+
+priv:Pyrénées-Atlantiques a owl:NamedIndividual .
+
+priv:Pärnu a owl:NamedIndividual .
+
+priv:Père_Lachaise_Cemetery a owl:NamedIndividual .
+
+priv:Přemyslid_dynasty a owl:NamedIndividual .
+
+priv:Qajar_\(tribe\) a owl:NamedIndividual .
+
+priv:Qajar_Iran a owl:NamedIndividual .
+
+priv:Qajar_dynasty a owl:NamedIndividual .
+
+priv:Qom a owl:NamedIndividual .
+
+priv:Queen_Elizabeth_The_Queen_Mother a owl:NamedIndividual .
+
+priv:Queen_Letizia_of_Spain a owl:NamedIndividual .
+
+priv:Queen_Mary_of_Denmark a owl:NamedIndividual .
+
+priv:Queen_Silvia_of_Sweden a owl:NamedIndividual .
+
+priv:Queen_Sofía_of_Spain a owl:NamedIndividual .
+
+priv:Queens a owl:NamedIndividual .
+
+<http://example.org/private#R._A._Cross,_1st_Viscount_Cross> a owl:NamedIndividual .
+
+priv:Rade_people a owl:NamedIndividual .
+
+priv:Raffaella_Petrini a owl:NamedIndividual .
+
+priv:Rafi_Manoukian a owl:NamedIndividual .
+
+priv:Rahul_Gandhi a owl:NamedIndividual .
+
+priv:Rajya_Sabha a owl:NamedIndividual .
+
+priv:Rally_for_the_Republic a owl:NamedIndividual .
+
+priv:Ralph_Brinkhaus a owl:NamedIndividual .
+
+priv:Ralph_Shuttleworth_Allen a owl:NamedIndividual .
+
+priv:Ram_Nath_Kovind a owl:NamedIndividual .
+
+priv:Ramesh_Bais a owl:NamedIndividual .
+
+priv:Ranuccio_II_Farnese a owl:NamedIndividual .
+
+priv:Rashtrapati_Bhavan a owl:NamedIndividual .
+
+<http://example.org/private#Ray,_Iran> a owl:NamedIndividual .
+
+<http://example.org/private#Ray_County,_Iran> a owl:NamedIndividual .
+
+priv:Raymond_Crews a owl:NamedIndividual .
+
+priv:Rebecca_Harris a owl:NamedIndividual .
+
+priv:Refilwe_Mtsweni-Tsipane a owl:NamedIndividual .
+
+priv:Reform_Party_of_the_United_States_of_America a owl:NamedIndividual .
+
+priv:Reginald_Vyner a owl:NamedIndividual .
+
+priv:Reginarids a owl:NamedIndividual .
+
+priv:Reichstag_\(German_Empire\) a owl:NamedIndividual .
+
+priv:Reichstag_\(North_German_Confederation\) a owl:NamedIndividual .
+
+priv:Reign_of_Alfonso_XIII a owl:NamedIndividual .
+
+priv:Reims_Cathedral a owl:NamedIndividual .
+
+priv:Reinhardsbrunn a owl:NamedIndividual .
+
+priv:Rekhta a owl:NamedIndividual .
+
+priv:Republican_Party_\(United_States\) a owl:NamedIndividual .
+
+priv:Residence_Act a owl:NamedIndividual .
+
+priv:Rheinfelden_\(Aargau\) a owl:NamedIndividual .
+
+priv:Rhine_Province a owl:NamedIndividual .
+
+priv:Ribe a owl:NamedIndividual .
+
+priv:Ricardo_Wall a owl:NamedIndividual .
+
+<http://example.org/private#Richard_Bourke,_6th_Earl_of_Mayo> a owl:NamedIndividual .
+
+priv:Richard_Brodhead a owl:NamedIndividual .
+
+priv:Richard_Ferrand a owl:NamedIndividual .
+
+priv:Richard_H._Bayard a owl:NamedIndividual .
+
+priv:Richard_Hudson_\(American_politician\) a owl:NamedIndividual .
+
+<http://example.org/private#Richard_More_O'Ferrall> a owl:NamedIndividual .
+
+priv:Richard_Tisei a owl:NamedIndividual .
+
+priv:Richard_of_Cornwall a owl:NamedIndividual .
+
+priv:Richard_von_Weizsäcker a owl:NamedIndividual .
+
+priv:Riddarholmen_Church a owl:NamedIndividual .
+
+priv:Riga a owl:NamedIndividual .
+
+priv:Rijeka a owl:NamedIndividual .
+
+priv:Rimini a owl:NamedIndividual .
+
+priv:Ringsted a owl:NamedIndividual .
+
+priv:Rishi_Sunak a owl:NamedIndividual .
+
+priv:Rob_Portman a owl:NamedIndividual .
+
+priv:Robert_Dimsdale a owl:NamedIndividual .
+
+<http://example.org/private#Robert_Dundas,_2nd_Viscount_Melville> a owl:NamedIndividual .
+
+<http://example.org/private#Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury> a owl:NamedIndividual .
+
+<http://example.org/private#Robert_I,_Duke_of_Parma> a owl:NamedIndividual .
+
+priv:Robert_Lowe a owl:NamedIndividual .
+
+priv:Robert_Pearsall_Smith a owl:NamedIndividual .
+
+<http://example.org/private#Robert_St_Clair-Erskine,_4th_Earl_of_Rosslyn> a owl:NamedIndividual .
+
+<http://example.org/private#Robert_Vernon,_1st_Baron_Lyveden> a owl:NamedIndividual .
+
+priv:Robert_Wood_Williamson a owl:NamedIndividual .
+
+priv:Robert_Y._Hayne a owl:NamedIndividual .
+
+<http://example.org/private#Rocca_Estense,_San_Felice_sul_Panaro> a owl:NamedIndividual .
+
+<http://example.org/private#Rodney_Street,_Liverpool> a owl:NamedIndividual .
+
+priv:Roger_L._Green a owl:NamedIndividual .
+
+priv:Romulus_M._Saunders a owl:NamedIndividual .
+
+priv:Ronald_Reagan a owl:NamedIndividual .
+
+priv:Rosalynn_Carter a owl:NamedIndividual .
+
+<http://example.org/private#Rosemary_Ward,_Viscountess_Ednam> a owl:NamedIndividual .
+
+priv:Ross_Wilkins a owl:NamedIndividual .
+
+priv:Rostock a owl:NamedIndividual .
+
+<http://example.org/private#Rowland_Hill,_1st_Viscount_Hill> a owl:NamedIndividual .
+
+<http://example.org/private#Roy_Kennedy,_Baron_Kennedy_of_Southwark> a owl:NamedIndividual .
+
+<http://example.org/private#Royal_Burial_Ground,_Frogmore> a owl:NamedIndividual .
+
+priv:Royal_Palace_of_Caserta a owl:NamedIndividual .
+
+priv:Royal_Palace_of_La_Granja_de_San_Ildefonso a owl:NamedIndividual .
+
+priv:Royal_Palace_of_Madrid a owl:NamedIndividual .
+
+priv:Royal_Palace_of_Naples a owl:NamedIndividual .
+
+priv:Royal_Prince_of_Belgium a owl:NamedIndividual .
+
+priv:Royal_Red_Cross a owl:NamedIndividual .
+
+priv:Rudi_Vervoort a owl:NamedIndividual .
+
+<http://example.org/private#Rudolf_II,_Duke_of_Austria> a owl:NamedIndividual .
+
+priv:Rudolf_I_of_Bohemia a owl:NamedIndividual .
+
+priv:Rudolf_I_of_Germany a owl:NamedIndividual .
+
+priv:Rueil-Malmaison a owl:NamedIndividual .
+
+<http://example.org/private#Rupert,_King_of_the_Romans> a owl:NamedIndividual .
+
+priv:Russell_Dlamini a owl:NamedIndividual .
+
+priv:Russian_Orthodox_Church a owl:NamedIndividual .
+
+<http://example.org/private#Rye,_New_York> a owl:NamedIndividual .
+
+priv:Rödental a owl:NamedIndividual .
+
+<http://example.org/private#Saigon_Governor's_Palace> a owl:NamedIndividual .
+
+priv:Saint-Amans-Soult a owl:NamedIndividual .
+
+priv:Saint-Germain-en-Laye a owl:NamedIndividual .
+
+priv:Saint-Josse-ten-Noode a owl:NamedIndividual .
+
+priv:Saint-Ouen-le-Pin a owl:NamedIndividual .
+
+<http://example.org/private#Saint-Quentin,_Aisne> a owl:NamedIndividual .
+
+priv:Saint_Göran_Hospital a owl:NamedIndividual .
+
+<http://example.org/private#Saint_Paul's_Abbey,_Lavanttal> a owl:NamedIndividual .
+
+priv:Saint_Petersburg a owl:NamedIndividual .
+
+<http://example.org/private#Saint_Stephen's_Day> a owl:NamedIndividual .
+
+priv:Sainte-Adresse a owl:NamedIndividual .
+
+<http://example.org/private#Saints_Peter_and_Paul_Cathedral,_Saint_Petersburg> a owl:NamedIndividual .
+
+priv:Salma_Lakhani a owl:NamedIndividual .
+
+priv:Sam_Matekane a owl:NamedIndividual .
+
+priv:Sam_Mostyn a owl:NamedIndividual .
+
+priv:Samuel_Cogolati a owl:NamedIndividual .
+
+priv:Samuel_H._West a owl:NamedIndividual .
+
+priv:Samuel_Maxwell_Harrington a owl:NamedIndividual .
+
+priv:Samuel_McKean a owl:NamedIndividual .
+
+priv:San_Lorenzo_de_El_Escorial a owl:NamedIndividual .
+
+priv:Sanctuary_of_Santa_Maria_della_Steccata a owl:NamedIndividual .
+
+<http://example.org/private#Sandringham,_Norfolk> a owl:NamedIndividual .
+
+<http://example.org/private#Sandy,_Bedfordshire> a owl:NamedIndividual .
+
+priv:Sanjay_Joshi a owl:NamedIndividual .
+
+priv:Sanskrit a owl:NamedIndividual .
+
+<http://example.org/private#Santa_Chiara,_Naples> a owl:NamedIndividual .
+
+priv:Santa_Fe_de_Nuevo_México a owl:NamedIndividual .
+
+priv:Santosh_Gangwar a owl:NamedIndividual .
+
+priv:Sanya a owl:NamedIndividual .
+
+priv:Sarah_Cowper a owl:NamedIndividual .
+
+priv:Sarah_Elmeligi a owl:NamedIndividual .
+
+priv:Sarah_Troughton a owl:NamedIndividual .
+
+<http://example.org/private#Savannah,_Georgia> a owl:NamedIndividual .
+
+priv:Saxe-Coburg-Saalfeld a owl:NamedIndividual .
+
+priv:Saxe-Gotha-Altenburg a owl:NamedIndividual .
+
+priv:Saxe-Meiningen a owl:NamedIndividual .
+
+priv:Saxe-Wittenberg a owl:NamedIndividual .
+
+priv:Sayed_Yousuf_Halim a owl:NamedIndividual .
+
+priv:Saysomphone_Phomvihane a owl:NamedIndividual .
+
+priv:Schaerbeek a owl:NamedIndividual .
+
+priv:Schloss_Heiligenberg_\(Jugenheim\) a owl:NamedIndividual .
+
+<http://example.org/private#Schloss_Rosenau,_Coburg> a owl:NamedIndividual .
+
+priv:Schlosshotel_Kronberg a owl:NamedIndividual .
+
+priv:Schwerin a owl:NamedIndividual .
+
+priv:Scotland a owl:NamedIndividual .
+
+<http://example.org/private#Sebastián_de_la_Cuadra,_1st_Marquess_of_Villarías> a owl:NamedIndividual .
+
+priv:Second_French_Empire a owl:NamedIndividual .
+
+priv:Secretary-General_of_ASEAN a owl:NamedIndividual .
+
+priv:Secretary_of_State_for_India a owl:NamedIndividual .
+
+priv:Seeheim-Jugenheim a owl:NamedIndividual .
+
+priv:Sena_dynasty a owl:NamedIndividual .
+
+priv:Senate_\(Cambodia\) a owl:NamedIndividual .
+
+priv:Senate_\(France\) a owl:NamedIndividual .
+
+priv:Senate_of_Canada a owl:NamedIndividual .
+
+priv:Senate_of_Eswatini a owl:NamedIndividual .
+
+priv:Senate_of_Lesotho a owl:NamedIndividual .
+
+priv:Senate_of_Spain a owl:NamedIndividual .
+
+priv:Senate_of_Thailand a owl:NamedIndividual .
+
+priv:Serena_Rothschild a owl:NamedIndividual .
+
+priv:Sergei_Ivanov a owl:NamedIndividual .
+
+priv:Sergei_Stepashin a owl:NamedIndividual .
+
+priv:Seyfollah_Mirza a owl:NamedIndividual .
+
+priv:Shah_Abdol-Azim_Shrine a owl:NamedIndividual .
+
+<http://example.org/private#Sharpsville,_Pennsylvania> a owl:NamedIndividual .
+
+priv:Shashi_Kapoor a owl:NamedIndividual .
+
+priv:Shauraseni_Prakrit a owl:NamedIndividual .
+
+priv:Shia_Islam a owl:NamedIndividual .
+
+priv:Shigeru_Ishiba a owl:NamedIndividual .
+
+priv:Shokouh_al-Saltaneh a owl:NamedIndividual .
+
+<http://example.org/private#Shreveport,_Louisiana> a owl:NamedIndividual .
+
+priv:Shunga_Empire a owl:NamedIndividual .
+
+<http://example.org/private#Sidney_Herbert,_1st_Baron_Herbert_of_Lea> a owl:NamedIndividual .
+
+<http://example.org/private#Siemowit_IV,_Duke_of_Masovia> a owl:NamedIndividual .
+
+<http://example.org/private#Sigismund,_Holy_Roman_Emperor> a owl:NamedIndividual .
+
+priv:Sigismund_Báthory a owl:NamedIndividual .
+
+priv:Sigismund_I_the_Old a owl:NamedIndividual .
+
+priv:Sigmar_Gabriel a owl:NamedIndividual .
+
+priv:Simeon_Saxe-Coburg-Gotha a owl:NamedIndividual .
+
+priv:Simon_Bernard a owl:NamedIndividual .
+
+priv:Simon_Cameron a owl:NamedIndividual .
+
+<http://example.org/private#Simon_Harcourt,_1st_Viscount_Harcourt> a owl:NamedIndividual .
+
+priv:Sinai_Peninsula a owl:NamedIndividual .
+
+priv:Sint-Truiden a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Charles_Tennant,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Francis_Baring,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Francis_Blake,_3rd_Baronet,_of_Twizell_Castle> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_George_Clerk,_6th_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_George_Grey,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_George_Trevelyan,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_James_Fergusson,_6th_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_James_Graham,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_John_Floyd,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_John_Gladstone,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_John_Newport,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_John_Shelley,_7th_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Philip_Miles,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Robert_Peel,_1st_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_Walter_Townsend-Farquhar,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#Sir_William_Molesworth,_8th_Baronet> a owl:NamedIndividual .
+
+priv:Sirajuddin_Haqqani a owl:NamedIndividual .
+
+<http://example.org/private#Skórzyn,_Lubusz_Voivodeship> a owl:NamedIndividual .
+
+priv:Socialist_Party_\(Belgium\) a owl:NamedIndividual .
+
+priv:Socialist_Party_\(France\) a owl:NamedIndividual .
+
+priv:Solna a owl:NamedIndividual .
+
+priv:Soltan-Ali_Vazir-e_Afkham a owl:NamedIndividual .
+
+priv:Somerset a owl:NamedIndividual .
+
+<http://example.org/private#Somerset_Lowry-Corry,_4th_Earl_Belmore> a owl:NamedIndividual .
+
+priv:Sonexay_Siphandone a owl:NamedIndividual .
+
+priv:Sophia_Charlotte_of_Hanover a owl:NamedIndividual .
+
+priv:Sophia_Dallas a owl:NamedIndividual .
+
+priv:Sophia_Dorothea_of_Celle a owl:NamedIndividual .
+
+priv:Sophia_Dorothea_of_Hanover a owl:NamedIndividual .
+
+priv:Sophia_of_Minsk a owl:NamedIndividual .
+
+priv:Sophia_of_Nassau a owl:NamedIndividual .
+
+priv:Sophie_von_Dönhoff a owl:NamedIndividual .
+
+priv:Soumagne a owl:NamedIndividual .
+
+priv:South_Africa a owl:NamedIndividual .
+
+<http://example.org/private#South_Bend,_Indiana> a owl:NamedIndividual .
+
+priv:South_Kensington a owl:NamedIndividual .
+
+<http://example.org/private#South_Orange,_New_Jersey> a owl:NamedIndividual .
+
+priv:South_Vietnam a owl:NamedIndividual .
+
+priv:Southeast_Asia a owl:NamedIndividual .
+
+priv:Southern_Europe a owl:NamedIndividual .
+
+priv:Southport a owl:NamedIndividual .
+
+priv:Southwark a owl:NamedIndividual .
+
+priv:Sovereign_Principality_of_the_United_Netherlands a owl:NamedIndividual .
+
+priv:Sovereignty a owl:NamedIndividual .
+
+priv:Soviet_Union a owl:NamedIndividual .
+
+<http://example.org/private#Spanish_Socialist_Workers'_Party> a owl:NamedIndividual .
+
+priv:Speaker_of_the_National_Assembly_of_South_Africa a owl:NamedIndividual .
+
+priv:Speaker_of_the_United_States_House_of_Representatives a owl:NamedIndividual .
+
+<http://example.org/private#Spencer_Cavendish,_8th_Duke_of_Devonshire> a owl:NamedIndividual .
+
+priv:Spencer_Cowper a owl:NamedIndividual .
+
+priv:Spencer_Perceval a owl:NamedIndividual .
+
+priv:Speyer a owl:NamedIndividual .
+
+priv:Speyer_Cathedral a owl:NamedIndividual .
+
+<http://example.org/private#Split,_Croatia> a owl:NamedIndividual .
+
+<http://example.org/private#St._Bendt's_Church,_Ringsted> a owl:NamedIndividual .
+
+<http://example.org/private#St._Stephen's_Cathedral,_Vienna> a owl:NamedIndividual .
+
+priv:St._Vitus_Cathedral a owl:NamedIndividual .
+
+priv:St_Andrews a owl:NamedIndividual .
+
+<http://example.org/private#St_George's_Chapel,_Windsor_Castle> a owl:NamedIndividual .
+
+<http://example.org/private#St_Martin's_Church,_Bladon> a owl:NamedIndividual .
+
+<http://example.org/private#St_Mary_Magdalene_Church,_Sandringham> a owl:NamedIndividual .
+
+<http://example.org/private#St_Michael's_Abbey,_Farnborough> a owl:NamedIndividual .
+
+<http://example.org/private#St_Mildred's_Church,_Whippingham> a owl:NamedIndividual .
+
+priv:Stadtholder a owl:NamedIndividual .
+
+<http://example.org/private#Stafford_Northcote,_1st_Earl_of_Iddesleigh> a owl:NamedIndividual .
+
+priv:Stansfield_Turner a owl:NamedIndividual .
+
+priv:State_Duma a owl:NamedIndividual .
+
+priv:State_Guest_House_\(Vietnam\) a owl:NamedIndividual .
+
+<http://example.org/private#Staunton,_Virginia> a owl:NamedIndividual .
+
+priv:Stephen_Báthory a owl:NamedIndividual .
+
+priv:Stephen_Cave a owl:NamedIndividual .
+
+priv:Stephen_I_of_Hungary a owl:NamedIndividual .
+
+priv:Stephen_VIII_Báthory a owl:NamedIndividual .
+
+<http://example.org/private#Steubenville,_Ohio> a owl:NamedIndividual .
+
+priv:Steve_Israel a owl:NamedIndividual .
+
+priv:Steve_Scalise a owl:NamedIndividual .
+
+priv:Steve_Stivers a owl:NamedIndividual .
+
+priv:Stockholm a owl:NamedIndividual .
+
+priv:Stoke_Albany a owl:NamedIndividual .
+
+priv:Strängnäs_Cathedral a owl:NamedIndividual .
+
+priv:Style_of_the_French_sovereign a owl:NamedIndividual .
+
+priv:Suhma_kingdom a owl:NamedIndividual .
+
+priv:Supreme_Leader_of_Afghanistan a owl:NamedIndividual .
+
+priv:Suresh_Patel a owl:NamedIndividual .
+
+priv:Surrey a owl:NamedIndividual .
+
+priv:Susan_Hall a owl:NamedIndividual .
+
+priv:Sushilkumar_Shinde a owl:NamedIndividual .
+
+priv:Sutton_Courtenay a owl:NamedIndividual .
+
+priv:Sweden a owl:NamedIndividual .
+
+<http://example.org/private#Sybil_Fane,_Countess_of_Westmorland> a owl:NamedIndividual .
+
+priv:Sydney a owl:NamedIndividual .
+
+priv:Syed_Ahmed_\(politician\) a owl:NamedIndividual .
+
+priv:Sylvain_Van_de_Weyer a owl:NamedIndividual .
+
+priv:Syria a owl:NamedIndividual .
+
+priv:Szapáry a owl:NamedIndividual .
+
+priv:Székesfehérvár a owl:NamedIndividual .
+
+priv:Sébastien_Lecornu a owl:NamedIndividual .
+
+priv:Søren_Pind a owl:NamedIndividual .
+
+<http://example.org/private#Sơn_Tây,_Hanoi> a owl:NamedIndividual .
+
+priv:T._H._S._Sotheron-Estcourt a owl:NamedIndividual .
+
+priv:Tabriz a owl:NamedIndividual .
+
+priv:Taft_family a owl:NamedIndividual .
+
+priv:Taj_al-Dawlah a owl:NamedIndividual .
+
+priv:Taj_ol-Molouk a owl:NamedIndividual .
+
+priv:Tajrish a owl:NamedIndividual .
+
+priv:Tallinn a owl:NamedIndividual .
+
+priv:Tamil_Nadu a owl:NamedIndividual .
+
+priv:Tamilisai_Soundararajan a owl:NamedIndividual .
+
+priv:Tarn_\(department\) a owl:NamedIndividual .
+
+priv:Ted_Lieu a owl:NamedIndividual .
+
+priv:Tehran a owl:NamedIndividual .
+
+priv:Tehran_province a owl:NamedIndividual .
+
+priv:Tetsuro_Fukuyama a owl:NamedIndividual .
+
+priv:Texas a owl:NamedIndividual .
+
+priv:Thailand a owl:NamedIndividual .
+
+priv:Thanh_Hóa_province a owl:NamedIndividual .
+
+priv:The_Curragh a owl:NamedIndividual .
+
+<http://example.org/private#The_Glen,_Scottish_Borders> a owl:NamedIndividual .
+
+priv:The_Hague a owl:NamedIndividual .
+
+priv:The_Republicans_\(France\) a owl:NamedIndividual .
+
+priv:Theodor_Heuss a owl:NamedIndividual .
+
+priv:Theodore_E._Burton a owl:NamedIndividual .
+
+priv:Theodore_Roosevelt a owl:NamedIndividual .
+
+<http://example.org/private#Theodoric_IV,_Landgrave_of_Lusatia> a owl:NamedIndividual .
+
+priv:Thoko_Didiza a owl:NamedIndividual .
+
+priv:Thomas_Clayton a owl:NamedIndividual .
+
+<http://example.org/private#Thomas_Denman,_1st_Baron_Denman> a owl:NamedIndividual .
+
+priv:Thomas_Denman_\(physician\) a owl:NamedIndividual .
+
+priv:Thomas_Grimston_Estcourt a owl:NamedIndividual .
+
+priv:Thomas_Hope_Troubridge a owl:NamedIndividual .
+
+priv:Thomas_Irwin_\(American_politician\) a owl:NamedIndividual .
+
+priv:Thomas_J._Moran_\(businessman\) a owl:NamedIndividual .
+
+priv:Thomas_L._Harris a owl:NamedIndividual .
+
+priv:Thomas_McKean_Thompson_McKennan a owl:NamedIndividual .
+
+priv:Thomas_Milner_Gibson a owl:NamedIndividual .
+
+<http://example.org/private#Thomas_S._Gates_Jr.> a owl:NamedIndividual .
+
+<http://example.org/private#Thomas_Spring_Rice,_1st_Baron_Monteagle_of_Brandon> a owl:NamedIndividual .
+
+priv:Thongloun_Sisoulith a owl:NamedIndividual .
+
+priv:Thornton_Heath a owl:NamedIndividual .
+
+priv:Thurgau a owl:NamedIndividual .
+
+priv:Théophile_Wahis a owl:NamedIndividual .
+
+priv:Théophile_de_Lantsheere a owl:NamedIndividual .
+
+priv:Tim_Kaine a owl:NamedIndividual .
+
+priv:Tino_Chrupalla a owl:NamedIndividual .
+
+priv:Tipper_Gore a owl:NamedIndividual .
+
+priv:Tiruppur a owl:NamedIndividual .
+
+priv:Tom_Emmer a owl:NamedIndividual .
+
+priv:Tomás_Estrada_Palma a owl:NamedIndividual .
+
+priv:Tories_\(British_political_party\) a owl:NamedIndividual .
+
+priv:Torres_Vedras a owl:NamedIndividual .
+
+priv:Tournai a owl:NamedIndividual .
+
+priv:Trellech a owl:NamedIndividual .
+
+priv:Trichinopoly_District a owl:NamedIndividual .
+
+priv:Trieste a owl:NamedIndividual .
+
+priv:Trương_Thị_Mai a owl:NamedIndividual .
+
+priv:Trần_Cẩm_Tú a owl:NamedIndividual .
+
+priv:Trần_Lưu_Quang a owl:NamedIndividual .
+
+priv:Trần_Thanh_Mẫn a owl:NamedIndividual .
+
+priv:Trần_Đại_Quang a owl:NamedIndividual .
+
+priv:Trịnh_Văn_Quyết_\(quân_nhân\) a owl:NamedIndividual .
+
+priv:Tsar a owl:NamedIndividual .
+
+priv:Tsar_of_all_Russia a owl:NamedIndividual .
+
+priv:Tsarevets_\(fortress\) a owl:NamedIndividual .
+
+priv:Tuileries_Palace a owl:NamedIndividual .
+
+priv:Turku a owl:NamedIndividual .
+
+priv:Tòng_Thị_Phóng a owl:NamedIndividual .
+
+priv:Tô_Huy_Rứa a owl:NamedIndividual .
+
+priv:Tô_Lâm a owl:NamedIndividual .
+
+priv:Tô_Quyền a owl:NamedIndividual .
+
+priv:Türnitz a owl:NamedIndividual .
+
+<http://example.org/private#Union_County,_New_Jersey> a owl:NamedIndividual .
+
+priv:Union_for_a_Popular_Movement a owl:NamedIndividual .
+
+priv:United_Grand_Lodge_of_England a owl:NamedIndividual .
+
+priv:United_Kingdom_of_the_Netherlands a owl:NamedIndividual .
+
+priv:United_States_Capitol a owl:NamedIndividual .
+
+priv:United_States_Reports a owl:NamedIndividual .
+
+priv:United_States_Senate a owl:NamedIndividual .
+
+priv:United_States_of_the_Ionian_Islands a owl:NamedIndividual .
+
+priv:United_States_presidential_line_of_succession a owl:NamedIndividual .
+
+priv:Uniting_Church_in_Australia a owl:NamedIndividual .
+
+priv:Upper_Alsace a owl:NamedIndividual .
+
+priv:Upper_house a owl:NamedIndividual .
+
+priv:Uppsala_Cathedral a owl:NamedIndividual .
+
+priv:Ursula_Addington a owl:NamedIndividual .
+
+priv:Usha_Vance a owl:NamedIndividual .
+
+priv:Utpal_Kumar_Singh a owl:NamedIndividual .
+
+priv:Utsuls a owl:NamedIndividual .
+
+priv:Vadnagar a owl:NamedIndividual .
+
+priv:Vajiralongkorn a owl:NamedIndividual .
+
+priv:Vajubhai_Vala a owl:NamedIndividual .
+
+priv:Valdemar_II_of_Denmark a owl:NamedIndividual .
+
+priv:Valdemar_I_of_Denmark a owl:NamedIndividual .
+
+priv:Valenciennes a owl:NamedIndividual .
+
+priv:Valentina_Matviyenko a owl:NamedIndividual .
+
+priv:Valkenburg_Naval_Air_Base a owl:NamedIndividual .
+
+priv:Van_der_Bellen_family a owl:NamedIndividual .
+
+priv:Vanga_kingdom a owl:NamedIndividual .
+
+priv:Vasili_IV_of_Russia a owl:NamedIndividual .
+
+priv:Vatican_City a owl:NamedIndividual .
+
+priv:Vedic_Sanskrit a owl:NamedIndividual .
+
+priv:Vedic_period a owl:NamedIndividual .
+
+priv:Venetian_Lagoon a owl:NamedIndividual .
+
+priv:Ventspils a owl:NamedIndividual .
+
+<http://example.org/private#Vera_Mary_St_Clair-Erskine,_Countess_of_Rosslyn> a owl:NamedIndividual .
+
+priv:Vicary_Gibbs_\(judge\) a owl:NamedIndividual .
+
+<http://example.org/private#Vice_President's_Enclave> a owl:NamedIndividual .
+
+priv:Vice_President_of_China a owl:NamedIndividual .
+
+priv:Vice_President_of_India a owl:NamedIndividual .
+
+priv:Vice_President_of_Laos a owl:NamedIndividual .
+
+priv:Vice_President_of_the_United_States a owl:NamedIndividual .
+
+<http://example.org/private#Victor_de_Broglie_(1785–1870)> a owl:NamedIndividual .
+
+<http://example.org/private#Victoria,_Crown_Princess_of_Sweden> a owl:NamedIndividual .
+
+<http://example.org/private#Victoria,_Princess_Royal> a owl:NamedIndividual .
+
+priv:Victoria_\(British_TV_series\) a owl:NamedIndividual .
+
+priv:Victoria_Starmer a owl:NamedIndividual .
+
+priv:Victoria_of_Baden a owl:NamedIndividual .
+
+priv:Vienna_City_Hall a owl:NamedIndividual .
+
+<http://example.org/private#Villa_d'Este> a owl:NamedIndividual .
+
+<http://example.org/private#Villa_d'Este_(Cernobbio)> a owl:NamedIndividual .
+
+priv:Vilnius a owl:NamedIndividual .
+
+priv:Vilnius_Cathedral a owl:NamedIndividual .
+
+priv:Virginia_House_of_Delegates a owl:NamedIndividual .
+
+priv:Virginia_Senate a owl:NamedIndividual .
+
+priv:Viridis_Visconti a owl:NamedIndividual .
+
+priv:Viviane_Wade a owl:NamedIndividual .
+
+priv:Việt_Trì a owl:NamedIndividual .
+
+priv:Vladimir_Putin a owl:NamedIndividual .
+
+priv:Vladimir_Yakushev a owl:NamedIndividual .
+
+<http://example.org/private#Vladislaus_II,_Duke_and_King_of_Bohemia> a owl:NamedIndividual .
+
+priv:Vlorë a owl:NamedIndividual .
+
+priv:Vooruit_\(political_party\) a owl:NamedIndividual .
+
+priv:Vyacheslav_Volodin a owl:NamedIndividual .
+
+priv:Võ_Văn_Thưởng a owl:NamedIndividual .
+
+priv:Văn_Giang_district a owl:NamedIndividual .
+
+priv:Vương_Đình_Huệ a owl:NamedIndividual .
+
+priv:WC_postcode_area a owl:NamedIndividual .
+
+priv:W_postcode_area a owl:NamedIndividual .
+
+priv:Wakil_Ahmed_Muttawakil a owl:NamedIndividual .
+
+priv:Wallis_Simpson a owl:NamedIndividual .
+
+priv:Walmer a owl:NamedIndividual .
+
+<http://example.org/private#Walram_II,_Count_of_Nassau> a owl:NamedIndividual .
+
+priv:Walter_E._Edge a owl:NamedIndividual .
+
+priv:Walter_Mondale a owl:NamedIndividual .
+
+<http://example.org/private#Walter_Montagu_Douglas_Scott,_5th_Duke_of_Buccleuch> a owl:NamedIndividual .
+
+priv:Walter_Rosenkranz a owl:NamedIndividual .
+
+priv:Walter_T._Mosley a owl:NamedIndividual .
+
+priv:Walthère_Frère-Orban a owl:NamedIndividual .
+
+priv:Wan_Azizah_Wan_Ismail a owl:NamedIndividual .
+
+priv:Wang_Huning a owl:NamedIndividual .
+
+priv:Warcino a owl:NamedIndividual .
+
+priv:Warren_G._Harding a owl:NamedIndividual .
+
+priv:Warsaw a owl:NamedIndividual .
+
+priv:Warwick_Parish a owl:NamedIndividual .
+
+priv:Warwickshire a owl:NamedIndividual .
+
+<http://example.org/private#Washington,_D.C.> a owl:NamedIndividual .
+
+priv:Wawel_Castle a owl:NamedIndividual .
+
+priv:Wawel_Cathedral a owl:NamedIndividual .
+
+priv:Welbeck_Abbey a owl:NamedIndividual .
+
+priv:Welwyn_Garden_City a owl:NamedIndividual .
+
+priv:Wenceslaus_III_of_Bohemia a owl:NamedIndividual .
+
+priv:Wenceslaus_IV_of_Bohemia a owl:NamedIndividual .
+
+priv:Wenceslaus_I_of_Bohemia a owl:NamedIndividual .
+
+priv:Werle a owl:NamedIndividual .
+
+priv:Wesleyan_Methodist_Church_\(Great_Britain\) a owl:NamedIndividual .
+
+priv:West_Asia a owl:NamedIndividual .
+
+priv:West_Bromwich a owl:NamedIndividual .
+
+priv:West_Germanic_languages a owl:NamedIndividual .
+
+priv:West_Germany a owl:NamedIndividual .
+
+priv:West_Riding_of_Yorkshire a owl:NamedIndividual .
+
+priv:Western_Hindi_languages a owl:NamedIndividual .
+
+priv:Westminster a owl:NamedIndividual .
+
+priv:Westmorland a owl:NamedIndividual .
+
+priv:Whigs_\(British_political_party\) a owl:NamedIndividual .
+
+priv:White_House a owl:NamedIndividual .
+
+<http://example.org/private#White_Lodge,_Richmond_Park> a owl:NamedIndividual .
+
+priv:White_Sea a owl:NamedIndividual .
+
+priv:Whittingehame a owl:NamedIndividual .
+
+priv:Wiatrołom a owl:NamedIndividual .
+
+priv:Wiener_Neustadt a owl:NamedIndividual .
+
+priv:Wilhelm_II a owl:NamedIndividual .
+
+<http://example.org/private#Wilhelmina_of_Prussia,_Princess_of_Orange> a owl:NamedIndividual .
+
+<http://example.org/private#Wilhelmine_of_Prussia,_Queen_of_the_Netherlands> a owl:NamedIndividual .
+
+<http://example.org/private#William,_Duke_of_Austria> a owl:NamedIndividual .
+
+<http://example.org/private#William,_Prince_of_Wales> a owl:NamedIndividual .
+
+<http://example.org/private#William_Cavendish,_7th_Duke_of_Devonshire> a owl:NamedIndividual .
+
+<http://example.org/private#William_Cavendish-Bentinck,_7th_Duke_of_Portland> a owl:NamedIndividual .
+
+priv:William_Colby a owl:NamedIndividual .
+
+<http://example.org/private#William_Cowper,_1st_Earl_Cowper> a owl:NamedIndividual .
+
+<http://example.org/private#William_Cowper,_2nd_Baronet> a owl:NamedIndividual .
+
+<http://example.org/private#William_Cowper-Temple,_1st_Baron_Mount_Temple> a owl:NamedIndividual .
+
+priv:William_Denison a owl:NamedIndividual .
+
+<http://example.org/private#William_Grenville,_1st_Baron_Grenville> a owl:NamedIndividual .
+
+priv:William_H._Crawford a owl:NamedIndividual .
+
+priv:William_Harcourt_\(politician\) a owl:NamedIndividual .
+
+priv:William_Hart_Dyke a owl:NamedIndividual .
+
+<http://example.org/private#William_Henry_Smith_(1825–1891)> a owl:NamedIndividual .
+
+priv:William_Hiester_\(Pennsylvania_politician\) a owl:NamedIndividual .
+
+priv:William_Howard_Taft a owl:NamedIndividual .
+
+priv:William_Huskisson a owl:NamedIndividual .
+
+<http://example.org/private#William_I,_German_Emperor> a owl:NamedIndividual .
+
+<http://example.org/private#William_II,_Prince_of_Orange> a owl:NamedIndividual .
+
+priv:William_III_of_England a owl:NamedIndividual .
+
+priv:William_III_of_the_Netherlands a owl:NamedIndividual .
+
+priv:William_II_of_the_Netherlands a owl:NamedIndividual .
+
+<http://example.org/private#William_IV,_Prince_of_Orange> a owl:NamedIndividual .
+
+priv:William_L._Marcy a owl:NamedIndividual .
+
+<http://example.org/private#William_Lamb,_2nd_Viscount_Melbourne> a owl:NamedIndividual .
+
+<http://example.org/private#William_Lowther,_2nd_Earl_of_Lonsdale> a owl:NamedIndividual .
+
+priv:William_Marks_\(politician\) a owl:NamedIndividual .
+
+<http://example.org/private#William_Monsell,_1st_Baron_Emly> a owl:NamedIndividual .
+
+priv:William_Ogilvie_\(Ardglass\) a owl:NamedIndividual .
+
+<http://example.org/private#William_Pitt,_1st_Earl_of_Chatham> a owl:NamedIndividual .
+
+priv:William_Pitt_the_Younger a owl:NamedIndividual .
+
+priv:William_Rehnquist a owl:NamedIndividual .
+
+priv:William_Smoult_Playfair a owl:NamedIndividual .
+
+priv:William_Stevenson_\(Canadian_politician\) a owl:NamedIndividual .
+
+priv:William_Sturges_Bourne a owl:NamedIndividual .
+
+<http://example.org/private#William_V,_Prince_of_Orange> a owl:NamedIndividual .
+
+<http://example.org/private#William_Vesey-FitzGerald,_2nd_Baron_FitzGerald_and_Vesey> a owl:NamedIndividual .
+
+<http://example.org/private#William_Ward,_3rd_Earl_of_Dudley> a owl:NamedIndividual .
+
+<http://example.org/private#William_Wellesley-Pole,_3rd_Earl_of_Mornington> a owl:NamedIndividual .
+
+priv:William_Wilkins_\(American_politician\) a owl:NamedIndividual .
+
+priv:Wilsele a owl:NamedIndividual .
+
+priv:Wiltshire a owl:NamedIndividual .
+
+<http://example.org/private#Windisch,_Switzerland> a owl:NamedIndividual .
+
+<http://example.org/private#Windsor,_Berkshire> a owl:NamedIndividual .
+
+priv:Windsor_Castle__location__1 a owl:NamedIndividual .
+
+priv:Winkfield a owl:NamedIndividual .
+
+priv:Winston_Churchill a owl:NamedIndividual .
+
+priv:Wittendörp a owl:NamedIndividual .
+
+priv:Woking a owl:NamedIndividual .
+
+priv:Wolfgang_Schäuble a owl:NamedIndividual .
+
+priv:Woluwe-Saint-Lambert a owl:NamedIndividual .
+
+<http://example.org/private#Woodstock,_Oxfordshire> a owl:NamedIndividual .
+
+priv:Wren_Day a owl:NamedIndividual .
+
+priv:Wrocław a owl:NamedIndividual .
+
+priv:Wyndham_Lewis_\(politician\) a owl:NamedIndividual .
+
+<http://example.org/private#Wytheville,_Virginia> a owl:NamedIndividual .
+
+priv:Władysław_III_of_Poland a owl:NamedIndividual .
+
+priv:Władysław_IV_Vasa a owl:NamedIndividual .
+
+priv:Xi_Jinping a owl:NamedIndividual .
+
+priv:Yaël_Braun-Pivet a owl:NamedIndividual .
+
+priv:Yorkshire a owl:NamedIndividual .
+
+priv:Yoshihiko_Noda a owl:NamedIndividual .
+
+priv:Yoshiko_Ishiba a owl:NamedIndividual .
+
+priv:Young_England a owl:NamedIndividual .
+
+priv:Ypres a owl:NamedIndividual .
+
+priv:Yule a owl:NamedIndividual .
+
+priv:Zadar a owl:NamedIndividual .
+
+priv:Zele a owl:NamedIndividual .
+
+priv:Zhao_Leji a owl:NamedIndividual .
+
+priv:Zhari_District a owl:NamedIndividual .
+
+priv:Znojmo a owl:NamedIndividual .
+
+priv:accompanyPrinceTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:acknowledgeAnyIllegitimate a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:address a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:admitToIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:agreeToAnnuityForDuchessHerDaughterIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:aidPeacefulResolutionOfTrentAffairIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:ancestor a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:appoint a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:appointHisWifeAsLadyOfOrderOfBlackEagleHighOrderOfChivalryIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:approachBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:archiveAtWaybackMachinePrince a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:arrangeMarriageOfHisDaughterToPrince a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:ask a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:assist a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:attempt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:attend a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:baptiseOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:be a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beDaughterOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:beEmpressFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beFormerStateInNorthern a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:beHappyWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:NORP .
+
+priv:beHeirTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:LOC .
+
+priv:beIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:LOC .
+
+priv:beInLineToThroneAfter a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:beInterestedIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:beKingOfFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beLastViceroyOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beLaterIndependentFor a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beMarriedToFutureGrandDukeOfAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beMarriedToOfHesseIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beMotherOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:beNewCrownPrinceOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beNoLong a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:beNotJustGeopoliticalRivalIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:beNowNeighbourBothAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:beOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:bePresidentFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:bePrinceOfWalesBetween a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beSmallStateIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beSoUnpopularInMainland a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:LOC .
+
+priv:beSovereignFrom a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:beStillAliveUntil a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beSupremeGovernorOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:beVeryFondOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:beVeryPopularWellRespectManIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:bearAtOnMayAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:bearIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:bearOnAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:become a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:becomeFatherInLawOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeFluentInBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:becomeGrandMasterOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:becomeInvolvedIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:becomeLordOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:becomeMiddleDaughterFollowBirthOfPrincessLouiseIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeMistressSubsequentWifeOfKing a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:becomePersonalValetTo a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:becomeQueenAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeQueenOfAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeSeriouslyIllOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:becomeSir a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeUnpopularIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:begin a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:birthDate a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:birthName a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:birthPlace a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:birthYear a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:break a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range xsd:string .
+
+priv:breakOutIn a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range xsd:string .
+
+priv:bring a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:buildIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:burialDate a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:burialPlace a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:buryNextToHerHusbandInRoyalMausoleumOfAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:buyCottageIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:callAsWitnessInCaseIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:campaignUnsuccessfullyForSeatIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:celebrateS a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:celebrateTheirGoldenWeddingAnniversaryIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:centre a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:ceremonialCounty a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:changeFamilyNameFromTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:changeNameOfRoyalHouseFromTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:christenPrivatelyByOnIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:churchillb a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:come a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:comeLittleOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:comeTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:comeToIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:comeToThroneOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:commission a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:complainTo a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:conferHonoraryDegreeOfDoctorOfCivilLawDclUpon a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:consider a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:continue a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:continueHerSculptureIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:controlItAlongWithAs a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:coronation a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:create a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:crownAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dateOfBurial a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:deathDate a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:deathPlace a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:deathYear a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:decide a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:defeat a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:defeatIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:deliverHerChildOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:describe a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:despise a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:devastateBySDeathIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dictateHerJournalIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieAtOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:dieAtOnAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieInAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieOfMeningitisAtOnBefore a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:dieOnIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:dieSuddenlyIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:drawTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:dynasty a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:embroilIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:EVENT .
+
+priv:engageTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:enrolAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:enter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:entrustThisTaskToBrightStrictPhilologist a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:escapeToSRelativelyMildClimateDuring a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range xsd:string .
+
+priv:establishIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:establishedTitle a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:estate a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:fallDownSomeStairAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:fallInLoveWithHerBrotherSTutorReverendHerSenior a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:family a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:familycolor a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:father a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:fightWarWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:finalRuler a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:findIn a rdf:Property ;
+    rdfs:domain priv:FAC ;
+    rdfs:range priv:GPE .
+
+priv:firstMonarch a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:force a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range priv:PERSON .
+
+priv:formOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:foundIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:foundedPlace a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:fr a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:get a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToDaughterOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToHerDaughterNicknameOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToQueenSGrandchild a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:giveCouple100000WhichYieldIncomeOfYear40AsWellAsThatOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:giveHonoraryPositionOf a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:FAC .
+
+priv:giveTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:goTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:goToIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:goWithHisWifeToForIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:governmentName a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:grantAnnuityOfFromCivilListIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:grantHeTitle a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:grantHeTitleIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:grantMembershipInIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:handOverAdministrationOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:haveAffairWith a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:haveChildTogetherPrincessVictoriaAdelaide a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:PERSON .
+
+priv:haveCulturalAffinityWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:haveMildEpilepsy3LikeHisGreatNephew a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:haveNotoriousRoleInDuring a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:haveSecretTalkWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:haveTowards a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:headquarters a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:hit a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:holidayInMainland a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:honorificSuffix a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:hop a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:house a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:houses a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:hurtInSleighAccidentOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:husband a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:identify a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:imposeTradeEmbargoOnUntil a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:inform a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:inheritThroneOnHisMotherSDeathIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:introduceIntoIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:invadeIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:inviteTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:involveInAgainstIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:isolateFromOtherChildUnderSoCall a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:join a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:keepNewsOfSDeathSecretFromHerChildFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:killByInCityOfIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:knowAsMantaRay53HonoursArmEdithonoursEditnationalHonour a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:knowSince a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:label a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:lastMonarch a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:layImageNumberFrom a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:lcheading a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:leader a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:leaderName a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:leaderTerm a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:leaderTitle a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:lease a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:leaveForGreatSafetyOfHouse89PrivateEstateOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:leaveForIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:legend1title a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:listMonument113In a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:liveAt a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:liveIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:liveInFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:localName a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:location a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:locationCity a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:locationCountry a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:locationTown a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:longTitle a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:lordLieutenantName a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:lordLieutenantOffice a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:loseCrucialBattleAt a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:ORG .
+
+priv:lowerHouse a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:lowerhouse a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:make a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:makeAnotherTripTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:makeIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:makeNoEffortToDiscreditThisPossibilityWhichWouldHaveMeanHeBeBrotherJournalOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:makeReciprocalTripIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:makeTheirPublicEntryIntoOn a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range xsd:string .
+
+priv:marry a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:marryAtChapelOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:marryHerMaternalCousinOfIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:marryOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:marryPrinceChristianOfSchleswigHolsteinIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:marryTallHandsomeOfInLoveMatchIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:meetCoupleAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:meetEveryMemberOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:meetOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:meetingPlace a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:monarch a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:mother a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:moveTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:nameAfter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:nameInSheHonour5859QueenS a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:nearestCity a owl:DatatypeProperty,
+        owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:nominate a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:noteIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:nurseHeDevotedlyFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:nursingHomes a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:occupy a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:occupyCountryIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:occupyEasternmostPartOfMainland a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:occupyHouseAsHer a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:GPE .
+
+priv:openWith a rdf:Property ;
+    rdfs:range priv:ORG .
+
+priv:otherparty a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:outliveHeBy a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:parent a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:parentCompany a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:parentFamily a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:parents a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:partOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:partitionIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:pass a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:passOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:payForGrandDucalFamilyToHolidayIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:payHisRespectToTheir a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:pensionOffIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:place a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:placeOfBurial a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:playIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:populationPlace a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:portrayByInDramaEdwardByInTelevisionSerialAlbert50ByInFilmByInSeriesVictoria52ByInLimitSeries a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:portrayYoungIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:postcodeArea a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:postcodeDistrict a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:predecease a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:predecessor a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:presidentEnd a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:proclaimDissolutionOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:promoteToHonoraryRankOfColonelOnSubstantiveLieutenantColonelInColonelOnAnd14On a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:proposeTallRichOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:provideRespiteFor a rdf:Property ;
+    rdfs:range priv:PERSON .
+
+priv:publishBookLeavesFromIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:pursue a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:pushThrough a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:quoteIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:raiseLargelyIsolateFromOtherChildUnderSoCall a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:rebuke a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:receiveAnnuityOfFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:receiveCommandOfAnyTroopAfter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:receivePaintingIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:regent a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:reign a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:reignType a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:reignend a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:reignstart a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:related a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:relatedLegislation a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:relatedto a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:relations a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:relative a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:relatives a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:religiousAffiliation a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:remainAtHeadOfGovernmentSubsequentlyOfGovernmentUntil a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range xsd:string .
+
+priv:rendTagjaiIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:residence a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:resignAfter a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:resignIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:restoreRelationWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:retire a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:retrieve a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:retrieveApril a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:retrieveBPreviousPrincesOf a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:retrieveInPVia a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:retrieveMarchVia a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:retrieveOctober a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:retrieveSeptember a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:retrieveVictoriaIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:returnTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:returnToWithIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:royalAnthem a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:royalTitle a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:see a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:sendTroopIntoAdminister a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:serveAsFrom a rdf:Property ;
+    rdfs:domain priv:PRODUCT ;
+    rdfs:range xsd:string .
+
+priv:serveAsUnofficialSecretaryToQueenFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:setAgainst a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:shareMonarchWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:shootAtAgainOnBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:showDislikeFor a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:siblings a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:sideWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:NORP .
+
+priv:speakOfHisDevotionTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:spend a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:spendAtOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:LOC .
+
+priv:spendMuchOfHerTimeAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:spendRainyHolidayInWestOfAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:spendStudyAtUnderAmongOtherChemist a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:spouse a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:spouses a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:stateHouse a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:stayAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:stepfather a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:styleIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:succeedHisUncleAsDukeOfSaxeCoburgIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:succeedImmediatelyAs a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:succession a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:successor a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:sufferAnotherBereavementIn a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range xsd:string .
+
+priv:sufferAnotherBlowWithDeathOfHerSonOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:sufferFromPainInHisBackLegs114In a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:sufferOstracismBy a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:suggestOf a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:GPE .
+
+priv:summonOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:superseded a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:supportProposeAmalgamationOfRbnaWithNew a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:surname a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:surpass a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:takeAdvantageOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:takeTitleFrom a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:talkToSheFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tellIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tend a rdf:Property ;
+    rdfs:domain priv:PRODUCT ;
+    rdfs:range priv:GPE .
+
+priv:threaten a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tipInto a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:title a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:titleDeputy a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:titleLeader a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:titleRepresentative a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:titlebar a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:titles a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:titlestyle a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:tourCountryFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:transcribeVolumeFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:travelAboardUnionCastleLineShip a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:travelThroughout a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:travelWithout a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:ukLegTitle a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:upperHouse a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:viceroy a owl:ObjectProperty ;
+    rdfs:domain owl:Thing .
+
+priv:visit a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:visitCoupleAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:visitIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:visitInAsPostCaptainInTwiceIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:voiceSharpCriticismOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:vomIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:want a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:welcomeCreationOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:winElectionAsHonoraryPresidentOfIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:winOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:withdrawFrom a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:withdrawLastOfItsForceIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:write a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:writeIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:writeSAdventuresIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:writeTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:writeToBaron a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:writeToSir a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:yearLeader a owl:DatatypeProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal .
+
+priv:yieldTo a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:GPE .
+
+priv:Ángel_Garrido a owl:NamedIndividual .
+
+<http://example.org/private#Édouard_Mortier,_Duke_of_Treviso> a owl:NamedIndividual .
+
+<http://example.org/private#Élie,_duc_Decazes> a owl:NamedIndividual .
+
+priv:Élysée_Palace a owl:NamedIndividual .
+
+priv:Émile_Wangermée a owl:NamedIndividual .
+
+priv:Épinay-Champlâtreux a owl:NamedIndividual .
+
+priv:Étienne_Constantin_de_Gerlache a owl:NamedIndividual .
+
+priv:Étienne_Macdonald a owl:NamedIndividual .
+
+priv:Étienne_Maurice_Gérard a owl:NamedIndividual .
+
+priv:Điện_Biên_Phủ a owl:NamedIndividual .
+
+priv:Đỗ_Văn_Chiến a owl:NamedIndividual .
+
+priv:Šibenik a owl:NamedIndividual .
+
+priv:Șimleu_Silvaniei a owl:NamedIndividual .
+
+priv:PRODUCT a owl:Class .
+
+priv:EVENT a owl:Class .
+
+priv:NORP a owl:Class .
+
+priv:FAC a owl:Class .
+
+priv:WORK_OF_ART a owl:Class .
+
+priv:LOC a owl:Class .
+
+priv:ORG a owl:Class .
+
+priv:GPE a owl:Class .
+
+priv:PERSON a owl:Class .
+

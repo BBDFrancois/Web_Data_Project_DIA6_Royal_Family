@@ -1,0 +1,1218 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix priv: <http://example.org/private#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+priv:accompanyPrinceTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:acknowledgeAnyIllegitimate a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:admitToIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:agreeToAnnuityForDuchessHerDaughterIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:aidPeacefulResolutionOfTrentAffairIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:appoint a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:appointHisWifeAsLadyOfOrderOfBlackEagleHighOrderOfChivalryIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:approachBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:archiveAtWaybackMachinePrince a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:arrangeMarriageOfHisDaughterToPrince a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:ask a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:assist a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:attempt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:attend a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:baptiseOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:be a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beDaughterOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:beEmpressFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beFormerStateInNorthern a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:beHappyWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:NORP .
+
+priv:beHeirTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:LOC .
+
+priv:beIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:LOC .
+
+priv:beInLineToThroneAfter a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:beInterestedIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:beKingOfFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beLastViceroyOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beLaterIndependentFor a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beMarriedToFutureGrandDukeOfAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beMarriedToOfHesseIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beMotherOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:beNewCrownPrinceOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beNoLong a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:beNotJustGeopoliticalRivalIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:beNowNeighbourBothAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:beOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:bePresidentFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:bePrinceOfWalesBetween a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:beSmallStateIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:beSoUnpopularInMainland a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:LOC .
+
+priv:beSovereignFrom a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:beStillAliveUntil a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:beSupremeGovernorOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:beVeryFondOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:beVeryPopularWellRespectManIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:bearAtOnMayAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:bearIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:bearOnAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:become a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:becomeFatherInLawOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeFluentInBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:becomeGrandMasterOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:becomeInvolvedIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:becomeLordOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:becomeMiddleDaughterFollowBirthOfPrincessLouiseIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeMistressSubsequentWifeOfKing a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:becomePersonalValetTo a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:becomeQueenAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeQueenOfAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:becomeSeriouslyIllOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:becomeSir a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:becomeUnpopularIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:begin a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:break a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range xsd:string .
+
+priv:breakOutIn a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range xsd:string .
+
+priv:bring a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:buildIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:buryNextToHerHusbandInRoyalMausoleumOfAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:buyCottageIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:callAsWitnessInCaseIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:campaignUnsuccessfullyForSeatIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:celebrateS a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:celebrateTheirGoldenWeddingAnniversaryIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:changeFamilyNameFromTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:changeNameOfRoyalHouseFromTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:christenPrivatelyByOnIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:churchillb a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:come a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:comeLittleOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:comeTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:comeToIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:comeToThroneOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:commission a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:complainTo a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:conferHonoraryDegreeOfDoctorOfCivilLawDclUpon a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:consider a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:continue a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:continueHerSculptureIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:controlItAlongWithAs a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:create a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:crownAtOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:decide a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:defeat a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:defeatIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:deliverHerChildOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:describe a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:despise a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:devastateBySDeathIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dictateHerJournalIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieAtOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:dieAtOnAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieInAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:dieOfMeningitisAtOnBefore a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:dieOnIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:dieSuddenlyIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:drawTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:embroilIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:EVENT .
+
+priv:engageTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:enrolAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:enter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:entrustThisTaskToBrightStrictPhilologist a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:escapeToSRelativelyMildClimateDuring a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range xsd:string .
+
+priv:establishIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:fallDownSomeStairAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:fallInLoveWithHerBrotherSTutorReverendHerSenior a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:fightWarWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:findIn a rdf:Property ;
+    rdfs:domain priv:FAC ;
+    rdfs:range priv:GPE .
+
+priv:force a rdf:Property ;
+    rdfs:domain priv:EVENT ;
+    rdfs:range priv:PERSON .
+
+priv:formOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:foundIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:fr a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:get a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToDaughterOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToHerDaughterNicknameOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:giveBirthToQueenSGrandchild a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:giveCouple100000WhichYieldIncomeOfYear40AsWellAsThatOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:giveHonoraryPositionOf a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:FAC .
+
+priv:giveTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:goTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:goToIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:goWithHisWifeToForIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:grantAnnuityOfFromCivilListIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:grantHeTitle a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:grantHeTitleIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:grantMembershipInIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:handOverAdministrationOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:haveAffairWith a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:haveChildTogetherPrincessVictoriaAdelaide a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:PERSON .
+
+priv:haveCulturalAffinityWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:haveMildEpilepsy3LikeHisGreatNephew a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:haveNotoriousRoleInDuring a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:haveSecretTalkWith a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:haveTowards a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:hit a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:holidayInMainland a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:hop a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:hurtInSleighAccidentOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:identify a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:imposeTradeEmbargoOnUntil a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:inform a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:inheritThroneOnHisMotherSDeathIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:introduceIntoIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:invadeIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:inviteTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:involveInAgainstIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:isolateFromOtherChildUnderSoCall a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:join a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:keepNewsOfSDeathSecretFromHerChildFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:killByInCityOfIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:knowAsMantaRay53HonoursArmEdithonoursEditnationalHonour a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:knowSince a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:label a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:layImageNumberFrom a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:lease a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:leaveForGreatSafetyOfHouse89PrivateEstateOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:leaveForIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:listMonument113In a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:liveAt a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:FAC .
+
+priv:liveIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:liveInFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:loseCrucialBattleAt a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:ORG .
+
+priv:make a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:makeAnotherTripTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:makeIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:makeNoEffortToDiscreditThisPossibilityWhichWouldHaveMeanHeBeBrotherJournalOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:makeReciprocalTripIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:makeTheirPublicEntryIntoOn a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range xsd:string .
+
+priv:marry a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:marryAtChapelOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:marryHerMaternalCousinOfIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:marryOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:marryPrinceChristianOfSchleswigHolsteinIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:marryTallHandsomeOfInLoveMatchIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:meetCoupleAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:meetEveryMemberOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:meetOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:moveTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:nameAfter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:nameInSheHonour5859QueenS a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:nominate a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:noteIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:nurseHeDevotedlyFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:occupy a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:occupyCountryIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:occupyEasternmostPartOfMainland a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:occupyHouseAsHer a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:GPE .
+
+priv:openWith a rdf:Property ;
+    rdfs:range priv:ORG .
+
+priv:outliveHeBy a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:partOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:partitionIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:pass a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:passOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:payForGrandDucalFamilyToHolidayIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:payHisRespectToTheir a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:pensionOffIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:playIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:portrayByInDramaEdwardByInTelevisionSerialAlbert50ByInFilmByInSeriesVictoria52ByInLimitSeries a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:portrayYoungIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:predecease a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:proclaimDissolutionOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:promoteToHonoraryRankOfColonelOnSubstantiveLieutenantColonelInColonelOnAnd14On a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:proposeTallRichOf a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:provideRespiteFor a rdf:Property ;
+    rdfs:range priv:PERSON .
+
+priv:publishBookLeavesFromIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:pursue a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:pushThrough a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:quoteIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:raiseLargelyIsolateFromOtherChildUnderSoCall a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:WORK_OF_ART .
+
+priv:rebuke a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:receiveAnnuityOfFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:EVENT .
+
+priv:receiveCommandOfAnyTroopAfter a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:receivePaintingIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:remainAtHeadOfGovernmentSubsequentlyOfGovernmentUntil a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range xsd:string .
+
+priv:rendTagjaiIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:resignAfter a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:resignIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:restoreRelationWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:LOC .
+
+priv:retire a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:retrieve a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:retrieveApril a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range priv:ORG .
+
+priv:retrieveBPreviousPrincesOf a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:retrieveInPVia a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:retrieveMarchVia a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:retrieveOctober a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:retrieveSeptember a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:retrieveVictoriaIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:GPE .
+
+priv:returnTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:returnToWithIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:see a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:sendTroopIntoAdminister a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:serveAsFrom a rdf:Property ;
+    rdfs:domain priv:PRODUCT ;
+    rdfs:range xsd:string .
+
+priv:serveAsUnofficialSecretaryToQueenFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:setAgainst a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:shareMonarchWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:GPE .
+
+priv:shootAtAgainOnBoth a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:showDislikeFor a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:PERSON .
+
+priv:sideWith a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:NORP .
+
+priv:speakOfHisDevotionTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:spend a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:spendAtOn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:LOC .
+
+priv:spendMuchOfHerTimeAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:spendRainyHolidayInWestOfAt a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:FAC .
+
+priv:spendStudyAtUnderAmongOtherChemist a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:stayAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:styleIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:succeedHisUncleAsDukeOfSaxeCoburgIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:succeedImmediatelyAs a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:sufferAnotherBereavementIn a rdf:Property ;
+    rdfs:domain priv:WORK_OF_ART ;
+    rdfs:range xsd:string .
+
+priv:sufferAnotherBlowWithDeathOfHerSonOn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:sufferFromPainInHisBackLegs114In a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:sufferOstracismBy a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:suggestOf a rdf:Property ;
+    rdfs:domain priv:LOC ;
+    rdfs:range priv:GPE .
+
+priv:summonOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:supportProposeAmalgamationOfRbnaWithNew a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range priv:ORG .
+
+priv:surpass a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:takeAdvantageOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:takeTitleFrom a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:talkToSheFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tellIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tend a rdf:Property ;
+    rdfs:domain priv:PRODUCT ;
+    rdfs:range priv:GPE .
+
+priv:threaten a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tipInto a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:title a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:tourCountryFor a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:transcribeVolumeFrom a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:travelAboardUnionCastleLineShip a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:FAC .
+
+priv:travelThroughout a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:travelWithout a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:visit a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:visitCoupleAt a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:visitIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:visitInAsPostCaptainInTwiceIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:voiceSharpCriticismOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:vomIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:NORP .
+
+priv:want a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:welcomeCreationOf a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:ORG .
+
+priv:winElectionAsHonoraryPresidentOfIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:winOn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:withdrawFrom a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:ORG .
+
+priv:withdrawLastOfItsForceIn a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range xsd:string .
+
+priv:write a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range xsd:string .
+
+priv:writeIn a rdf:Property ;
+    rdfs:domain priv:ORG ;
+    rdfs:range xsd:string .
+
+priv:writeSAdventuresIn a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:GPE .
+
+priv:writeTo a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:writeToBaron a rdf:Property ;
+    rdfs:domain priv:PERSON ;
+    rdfs:range priv:PERSON .
+
+priv:writeToSir a rdf:Property ;
+    rdfs:domain priv:GPE ;
+    rdfs:range priv:PERSON .
+
+priv:yieldTo a rdf:Property ;
+    rdfs:domain priv:NORP ;
+    rdfs:range priv:GPE .
+
+priv:PRODUCT a owl:Class .
+
+priv:EVENT a owl:Class .
+
+priv:NORP a owl:Class .
+
+priv:FAC a owl:Class .
+
+priv:WORK_OF_ART a owl:Class .
+
+priv:LOC a owl:Class .
+
+priv:ORG a owl:Class .
+
+priv:GPE a owl:Class .
+
+priv:PERSON a owl:Class .
+

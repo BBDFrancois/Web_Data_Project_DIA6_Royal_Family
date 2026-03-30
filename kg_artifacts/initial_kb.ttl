@@ -1,0 +1,362 @@
+@prefix : <http://example.org/private#> .
+
+:5February1883 :openWith :GreatPomp .
+:Albert :arrangeMarriageOfHisDaughterToPrince :FrederickWilliam .
+:Albert :ask :Hohenzollerns .
+:Albert :attend :TheUniversityOfBonn .
+:Albert :bePresidentFrom "1843" .
+:Albert :dieAt :WindsorCastle .
+:Albert :lease :Balmoral .
+:Albert :make "November" .
+:Albert :rebuke "1846" .
+:Albert :returnToWithIn "October 1839" .
+:Albert :shootAtAgainOnBoth "29 and 30" .
+:Albert :sufferFromPainInHisBackLegs114In "November 1861" .
+:Albert :title "the next seventeen years" .
+:Albert :writeTo :Augusta .
+:AlbertEdward :marryOf :Denmark .
+:AlbertEdward :succeedImmediatelyAs :Edward .
+:Alexander :bearIn "1886" .
+:Alexander :becomeSir :AlexanderMountbatten .
+:Alexander :pursue :Beatrice .
+:Alfred :beHeirTo :Coburg .
+:Alfred :enter :TheRoyalNavy .
+:Alfred :join :TheRoyalNavy .
+:Alfred :marryOf :Denmark .
+:Alfred :marryOf :Russia .
+:Alfred :meetOf :Russia .
+:Alfred :visitIn "1869" .
+:AlfredDukeOfSaxecoburg :beSovereignFrom "22 August 1893" .
+:Alice :beMarriedToFutureGrandDukeOfAtOn "1 July 1862" .
+:Alice :beMarriedToOfHesseIn "1862" .
+:Alice :deliverHerChildOn "5 April" .
+:Alice :dieIn "1878" .
+:Alice :giveBirthToHerDaughterNicknameOn "1 November 1864" .
+:Alice :keepNewsOfSDeathSecretFromHerChildFor "several weeks" .
+:Alice :marryOf :Hesse .
+:Alice :spend "the next six months" .
+:Alice :writeTo :QueenVictoria .
+:Alix :killByInCityOfIn "the summer of 1918" .
+:AlmanachRoyalOfficiel :retrieveInPVia :ArchivesDeBruxelles .
+:AlmanachRoyalOfficiel :retrieveMarchVia :ArchivesDeBruxellesCibrario .
+:AnneGabrielleAlexandrineMor :beMotherOf :EdwardSchenkerScheener .
+:ArchieBrown :becomePersonalValetTo :Leopold4Education .
+:Arthur :appoint "1911" .
+:Arthur :be :Freemason .
+:Arthur :becomeFatherInLawOf :CrownPrinceGustafAdolf .
+:Arthur :marryOf :Prussia .
+:Arthur :promoteToHonoraryRankOfColonelOnSubstantiveLieutenantColonelInColonelOnAnd14On "1 April 1893" .
+:Arthur :returnTo :Britain .
+:Arthur :tourCountryFor "eight weeks" .
+:Arthur :travelAboardUnionCastleLineShip :BalmoralCastleToSouthAfrica .
+:Augusta :beStillAliveUntil "1890" .
+:BarbaraWTuchman :noteIn :TheGunsOfAugust .
+:BaronVonStockmar :ask :PrinceAlbert .
+:BbcNews :retrieveBPreviousPrincesOf :Wales .
+:Beatrice :bring :ThePrinceConsort .
+:Beatrice :comeLittleOn "14 April 1857" .
+:Beatrice :continue "her seventies" .
+:Beatrice :dieInAt "the age of 87" .
+:Beatrice :drawTo :ThePrinceImperial .
+:Beatrice :liveAt :OsborneCottage .
+:Beatrice :marryTallHandsomeOfInLoveMatchIn "1885" .
+:Beatrice :showDislikeFor :Brown .
+:BeatriceLaysWreath :layImageNumberFrom :TheHultonArchive .
+:BenjaminDisraeli :nominate :Lorne .
+:Bergstrsser :comeToIn "January 1884" .
+:Bill :passOn "5 November 1909" .
+:Bismarck :involveInAgainstIn "1864" .
+:Bismarck :remainAtHeadOfGovernmentSubsequentlyOfGovernmentUntil "1890" .
+:Britain :embroilIn :TheCrimeanWar .
+:Britain :shareMonarchWith :Hanover .
+:BritishEmpire :celebrateS :GoldenJubilee .
+:Brown :dieSuddenlyIn "March 1883" .
+:Buchanan :accompanyPrinceTo :MountVernon .
+:CamillaParkerBowles :becomeMistressSubsequentWifeOfKing :CharlesIii .
+:CapePrinceAlfred :beIn :TheNorthWestTerritories .
+:Cham :haveCulturalAffinityWith :India .
+:Charles :beNoLong :Hamlet .
+:CharlesEdward :succeedHisUncleAsDukeOfSaxeCoburgIn "1900" .
+:CharlesMordaunt :threaten "1869" .
+:ChildrenVictoria :haveChildTogetherPrincessVictoriaAdelaide :MaryLouise .
+:Christian :giveHonoraryPositionOf :HighSteward .
+:Christmas1877 :provideRespiteFor :Alice .
+:Dagmar :engageTo :TsarevichNicholas .
+:DavidProthero :retrieveOctober :Foxdavies .
+:DeJmLara :retrieveSeptember :OlveraAyes .
+:Disraeli :pushThrough :Parliament .
+:Duke :visitInAsPostCaptainInTwiceIn "1870" .
+:Editaffie :grantAnnuityOfFromCivilListIn "1866" .
+:Edward :acknowledgeAnyIllegitimate :Children30 .
+:Edward :baptiseOn "30 November" .
+:Edward :beOf :Germany .
+:Edward :bePrinceOfWalesBetween "8 December 1841" .
+:Edward :becomeGrandMasterOf :TheAntientGrandLodgeOfEngland .
+:Edward :callAsWitnessInCaseIn "early 1870" .
+:Edward :create :DukeOfKent .
+:Edward :crownAtOn "9 August 1902" .
+:Edward :dieIn "1910" .
+:Edward :goTo :Lneburg .
+:Edward :inheritThroneOnHisMotherSDeathIn "1901" .
+:Edward :liveIn :Quebec .
+:Edward :liveInFrom "1791 to 1800" .
+:Edward :marryAtChapelOn "10 March 1863" .
+:Edward :marryOf :Denmark .
+:Edward :returnTo :Britain .
+:Edward :spendStudyAtUnderAmongOtherChemist :LyonPlayfair .
+:Edward :travelThroughout :Britain .
+:EdwardOxford :attempt "the first few months" .
+:EdwardViiEdwardVii :beKingOfFrom "22 January 1901" .
+:EmilyWilliamson :foundIn :Manchester .
+:EmpressFrederick :buryNextToHerHusbandInRoyalMausoleumOfAtOn "13 August 1901" .
+:Ena :becomeUnpopularIn :Spain .
+:England :knowSince "the earlier 1660s" .
+:Esher :transcribeVolumeFrom "1832 to 1861" .
+:FelicityKendal :playIn :EdwardTheSeventh .
+:FelixMendelssohn :describe :Albert .
+:France :controlItAlongWithAs :Indochina .
+:France :invadeIn "1858" .
+:Frederick :dieIn "1827" .
+:Frederick :goToIn "September 1887" .
+:Frederick :goWithHisWifeToForIn "June 1887" .
+:Frederick :join :ThePrussianArmy .
+:Frederick :makeAnotherTripTo :GreatBritain .
+:Frederick :receiveCommandOfAnyTroopAfter :TheFrancoprussianWar .
+:Frederick :returnTo :Germany .
+:Frederick :welcomeCreationOf :TheNorthGermanConfederation .
+:FrederickIii :appointHisWifeAsLadyOfOrderOfBlackEagleHighOrderOfChivalryIn :TheKingdomOfPrussia .
+:FrederickWilliamIv :giveTo :Frederick .
+:French :loseCrucialBattleAt :DienBienPhu .
+:French :yieldTo :Japan .
+:Fulford1949 :quoteIn :Fulford1949 .
+:GenotypeAnalysisIdentifiesTheCauseOfTheRoyalDisease :identify :GenotypeAnalysisIdentifiesTheCauseOfTheRoyalDisease .
+:GeorgeV :changeFamilyNameFromTo :Windsor .
+:GeorgeV :changeNameOfRoyalHouseFromTo :Windsor .
+:Gladstone :resignIn "1885" .
+:Gladstone :retire "1894" .
+:GreatBritain :fightWarWith :Afghanistan .
+:HallieWoodhall :portrayYoungIn "the second season" .
+:Helena :assist "later years" .
+:Helena :beHappyWith :Christian .
+:Helena :becomeMiddleDaughterFollowBirthOfPrincessLouiseIn "1848" .
+:Helena :celebrateTheirGoldenWeddingAnniversaryIn "1916" .
+:Helena :dieOnIn :SchombergHouse .
+:Helena :makeIn "1893" .
+:Helena :outliveHeBy "six years" .
+:Helena :supportProposeAmalgamationOfRbnaWithNew :Rcn .
+:Helena :writeToSir :TheodoreMartin .
+:Henry :dieIn "1896" .
+:Henry :partOn "6 December 1895" .
+:Henry :travelWithout :Beatrice .
+:HenryPonsonby :write :Fiddle .
+:Hesse :becomeInvolvedIn :TheAustroprussianWar .
+:Hesse :sideWith :Austrians .
+:Hibbert :see :Hibbert .
+:Ireland :hit "1845" .
+:IstvnRend :rendTagjaiIn :Hungarian .
+:JavedMahmood :tellIn "2010" .
+:John :make "1878" .
+:Junkers :tend :Prussia .
+:Karim :becomeFluentInBoth :Urdu .
+:Karim :surpass :MrBrown .
+:Kents :moveTo :Germany .
+:Kinealy :retrieve "March 2013 - ^ Longford" .
+:King :inform :Asquith .
+:LadyFlora :dieIn "July" .
+:LadyRandolph :churchillb :DaisyGreville .
+:LakeLouise :nameInSheHonour5859QueenS "last years" .
+:Lehzen :despise :Duchess .
+:Lehzen :pensionOffIn "1842" .
+:Leopold :attend :OxfordUniversity .
+:Leopold :be "27 April 1882" .
+:Leopold :beVeryFondOf :MaryBaring .
+:Leopold :create :DukeOfAlbany .
+:Leopold :enter :ChristChurch .
+:Leopold :haveMildEpilepsy3LikeHisGreatNephew :PrinceJohn .
+:Leopold :hop "1836" .
+:Leopold :serveAsFrom "1876 to 1877" .
+:LewisCarroll :writeSAdventuresIn :Wonderland .
+:Life139140Titles :styleIn "the months" .
+:ListeDerRitterDesKniglichPreuischenHohenOrdensVomSchwarzenAdler :vomIn :German .
+:LondonDied :dieAt "June 20, 1837 to January 22, 1901" .
+:Lorne :appoint "1878" .
+:Lorne :become :DukeOfArgyll .
+:Lorne :campaignUnsuccessfullyForSeatIn "1885" .
+:Lorne :hurtInSleighAccidentOn "14 February" .
+:Lorne :inviteTo :BalmoralCastle .
+:Lorne :meetEveryMemberOf :Parliament .
+:Lorne :speakOfHisDevotionTo :Louise .
+:Louis :writeIn "August 1877" .
+:LouisMountbatten :beLastViceroyOf :India .
+:LouisPhilippe :makeReciprocalTripIn "1844" .
+:Louise :beNowNeighbourBothAt :KensingtonPalace .
+:Louise :come "18 March 1848" .
+:Louise :consider :PrinceHenry .
+:Louise :continueHerSculptureIn "1902" .
+:Louise :devastateBySDeathIn "1914" .
+:Louise :fallInLoveWithHerBrotherSTutorReverendHerSenior "between 1866 and 1870" .
+:Louise :haveAffairWith :ArthurBigge .
+:Louise :leaveForIn "1881" .
+:Louise :marry :JohnCampbell .
+:Louise :nurseHeDevotedlyFrom "1911" .
+:Louise :serveAsUnofficialSecretaryToQueenFrom "1866 to 1871" .
+:Louise :spendMuchOfHerTimeAt :KentHouse .
+:Louise :stayAt :KensingtonPalace .
+:Louise :summonOn "28 April 1914" .
+:Louise :visit :ElizabethGarrett .
+:Louise :visit :SantaBarbara .
+:Louise :voiceSharpCriticismOf :Helena .
+:LucindaHawksley :bearIn "1866" .
+:MantaAlfredi :knowAsMantaRay53HonoursArmEdithonoursEditnationalHonour :Saxecoburg .
+:Margaret :marryOf :Hesse .
+:Maria :predecease :Alfred .
+:Maria :receiveAnnuityOfFrom :TheBritishCivilList .
+:Marie :becomeSeriouslyIllOn "15 November" .
+:Marshall :quoteIn :Longford .
+:Marshall :retrieve "August 2018 - ^ Marshall" .
+:Melbourne :resignAfter :RadicalsAndTories .
+:Minoru :winOn "26 July 1909" .
+:NapoleonIii :meetCoupleAt :Boulogne .
+:NapoleonIii :visitIn "April 1855" .
+:NationalPortraitGallery :listMonument113In :KensalGreenCemetery .
+:NorthAmericans :escapeToSRelativelyMildClimateDuring "the winter months" .
+:OrdenDeCarlosIii :retrieve :CaballerosDeLaInsigneOrdenDelToisnDeOro .
+:OttoVonBismarck :sendTroopIntoAdminister :Holstein .
+:Palace :haveSecretTalkWith :Balfour .
+:Palmerston :dieIn "1865" .
+:Parliament :agreeToAnnuityForDuchessHerDaughterIn "August 1831.[10" .
+:Peel :resignIn "1846" .
+:PrinceAlbert :aidPeacefulResolutionOfTrentAffairIn "1861" .
+:PrinceAlbert :archiveAtWaybackMachinePrince :Albert .
+:PrinceAlbert :takeAdvantageOf "the two years" .
+:PrinceAlfred :visitIn "1861" .
+:PrinceAlfred :winElectionAsHonoraryPresidentOfIn "1890" .
+:PrinceAlfredHamlet :nameAfter :Alfred .
+:PrinceAlfredStreet :findIn :Pietermaritzburg .
+:PrinceChristian :dieAt :SchombergHouse .
+:PrinceLeopold :be :Leopold .
+:Princess :giveBirthToQueenSGrandchild :Wilhelm .
+:PrincessFeodora :be "6 years old" .
+:PrincessHelena :marryPrinceChristianOfSchleswigHolsteinIn :WindsorCastle .
+:PrincessHelena :occupyHouseAsHer :London .
+:PrincessVictoria :be "14 years old" .
+:PrincessVictoria :be "18" .
+:PrincessVictoria :suggestOf :Hesse .
+:Prussia :beFormerStateInNorthern :Europe .
+:Prussia :defeat :Denmark .
+:Prussia :defeatIn :TheFrancoprussianWar .
+:Prussia :handOverAdministrationOf :Schleswigholstein .
+:Prussia :occupy :Holstein .
+:Prussia :proclaimDissolutionOf :TheGermanConfederation .
+:Queen :comeTo :QueensRoad .
+:Queen :commission :Tory .
+:Queen :dictateHerJournalIn "the last months" .
+:Queen :giveCouple100000WhichYieldIncomeOfYear40AsWellAsThatOf :RangerOfWindsorPark .
+:Queen :setAgainst :Beatrice .
+:Queen :talkToSheFor "seven months" .
+:Queen :visitCoupleAt :StClaire .
+:QueenVictoria :dieAtOn :TheIsleOfWight84 .
+:QueenVictoria :dieIn "January 1901" .
+:QueenVictoria :pass "1901" .
+:QueenVictoria :payForGrandDucalFamilyToHolidayIn :Eastbourne .
+:QueenVictoria :retrieve "March 2013 - ^ Marshall" .
+:QueenVictoria :writeTo :TheQueenOfPrussia .
+:QueenVictoria :writeTo :Victoria .
+:RomanCatholicism :introduceIntoIn "the 16th century" .
+:Russia :beNotJustGeopoliticalRivalIn :Asia .
+:Salisbury :inform :Edward .
+:Saxecoburg :beSmallStateIn :Germany .
+:Sigismund :dieOfMeningitisAtOnBefore :TheBattleOfKniggrtz .
+:Staatshandbcher :fr :DasHerzogtumsSachsenaltenburg .
+:Stoecker :beVeryPopularWellRespectManIn :Germany .
+:Strauss :want "1870" .
+:TheAlfredRowingClub :establishIn "1864" .
+:TheBoerWar :beSoUnpopularInMainland :Europe .
+:TheDukeAndDuchess :makeTheirPublicEntryIntoOn "12 March" .
+:TheFebruaryRevolution :force :Nicholas .
+:TheFirstWorldWar :break "1914" .
+:TheFirstWorldWar :breakOutIn "1914" .
+:TheFrenchEmperor :defeatIn :TheFrancoprussianWar .
+:TheLadiesWorkSociety :foundIn :SouthAudleyStreet .
+:TheLodgeOfReconciliation :formOn "7 December 1813" .
+:TheNationalGallery :receivePaintingIn "1863" .
+:ThePrinceAlfredHotel :buildIn "1802" .
+:ThePrinceConsort :writeToBaron :Stockmar .
+:TheQueen :sufferAnotherBereavementIn "1883" .
+:TheRoyalArchives1855Visit :retrieveVictoriaIn :Paris .
+:TheRoyalFamily :retrieveApril :Hattersley .
+:TheShahOf :visit :England .
+:TheUnitedStates :begin "1965" .
+:TheUnitedStates :imposeTradeEmbargoOnUntil "1994" .
+:TheUnitedStates :withdrawLastOfItsForceIn "March of that year" .
+:TheUniversityOfDurham :conferHonoraryDegreeOfDoctorOfCivilLawDclUpon :PrinceLeopold .
+:Vicky :be "60 years old" .
+:Vicky :becomeOf :Germany .
+:Victoria :approachBoth :DerbyAnd .
+:Victoria :be "14 years old" .
+:Victoria :be "18" .
+:Victoria :be "less than a year old" .
+:Victoria :be "seventeen" .
+:Victoria :beDaughterOf :PrinceEdward .
+:Victoria :beEmpressFor "only a few months" .
+:Victoria :beInLineToThroneAfter :Frederick .
+:Victoria :beInterestedIn :TheTheoryOfEvolutionOfDarwin .
+:Victoria :beSupremeGovernorOf :TheChurchOfEngland .
+:Victoria :bearAtOnMayAt :KensingtonPalace .
+:Victoria :becomeQueenAt "the age of 18" .
+:Victoria :becomeQueenOfAt "the age of eighteen" .
+:Victoria :buyCottageIn :Bornstedt .
+:Victoria :christenPrivatelyByOnIn :TheCupolaRoom .
+:Victoria :comeToThroneOn "20 June 1837" .
+:Victoria :complainTo :Melbourne .
+:Victoria :complainTo :Russell .
+:Victoria :decide "four months" .
+:Victoria :dieAtOn "22 January 1901" .
+:Victoria :dieAtOnAt "the age of 81" .
+:Victoria :dieIn "1901" .
+:Victoria :entrustThisTaskToBrightStrictPhilologist :GeorgErnstHinzpeter .
+:Victoria :fallDownSomeStairAt :Windsor .
+:Victoria :get "several months" .
+:Victoria :giveBirthToDaughterOn "24 May 1819" .
+:Victoria :grantHeTitle :PrinceConsort34 .
+:Victoria :grantHeTitleIn "1857" .
+:Victoria :haveTowards :Alice .
+:Victoria :holidayInMainland :Europe .
+:Victoria :inform "the day" .
+:Victoria :isolateFromOtherChildUnderSoCall :KensingtonSystem .
+:Victoria :label :Ireland .
+:Victoria :leaveForGreatSafetyOfHouse89PrivateEstateOn :TheIsleOfWight .
+:Victoria :marryHerMaternalCousinOfIn "1840" .
+:Victoria :portrayByInDramaEdwardByInTelevisionSerialAlbert50ByInFilmByInSeriesVictoria52ByInLimitSeries :QueenCharlotte53 .
+:Victoria :proposeTallRichOf :Prussia .
+:Victoria :publishBookLeavesFromIn :Highlands .
+:Victoria :raiseLargelyIsolateFromOtherChildUnderSoCall :KensingtonSystem .
+:Victoria :returnTo :Windsor .
+:Victoria :spendAtOn :TheIsleOfWight .
+:Victoria :spendRainyHolidayInWestOfAt :LochLaggan .
+:Victoria :sufferAnotherBlowWithDeathOfHerSonOn "27 March 1879" .
+:Victoria :sufferOstracismBy :Hohenzollerns .
+:Victoria :takeTitleFrom "1 May 1876.[151" .
+:Victoria :visit :TheCurraghCamp .
+:Victoria :writeTo :KingLeopold .
+:VictoriaAlexandria :bearOnAt :KensingtonPalace .
+:Vienna :withdrawFrom :TheGermanConfederation .
+:Vietnam :admitToIn "1977" .
+:Vietnam :beLaterIndependentFor "centuries" .
+:Vietnam :grantMembershipInIn "2007" .
+:Vietnam :join :Asean .
+:Vietnam :occupyCountryIn "1978" .
+:Vietnam :occupyEasternmostPartOfMainland :SoutheastAsia .
+:Vietnam :partitionIn "1954" .
+:Vietnam :restoreRelationWith :Europe .
+:WalterBagehot :write "1867" .
+:Weymouth :payHisRespectToTheir :Majesties .
+:WilhelmIi :tipInto :War134 .
+:William :enrolAt :TheUniversityOfBonn .
+:WilliamIFrederick :beNewCrownPrinceOf :Prussia .
+:WilliamIv :dieAt "the age of 71" .
+:WilliamIv :dieIn "1837" .
+:WilliamIv :dieIn "June 1837" .
+:Williams :makeNoEffortToDiscreditThisPossibilityWhichWouldHaveMeanHeBeBrotherJournalOf :TheHouseOfAssemblyOfUpperCanada1839 .
+:Wilson :becomeLordOn "25 January 1910.[98" .
+:Wrth :haveNotoriousRoleInDuring :TheSiegeOfParis .
