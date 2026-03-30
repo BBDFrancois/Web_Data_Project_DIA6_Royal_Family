@@ -9,7 +9,7 @@ src/: Contains the five core Python modules (m1 to m5).
 notebooks/: Contains the main execution pipeline (main_pipeline.ipynb).
 data/: Stores raw extractions, processed CSV files, and KGE datasets (train, valid, test).
 kg_artifacts/: Contains all RDF graphs, ontology files, and alignment scripts.
-reports/: Contains the final report PDF and project visualizations.
+reports/: Contains the final report PDF and the video presentation (and the project visualizations in image/).
 requirements.txt: Lists all necessary Python libraries for environment setup.
 .gitignore: Ensures unnecessary local files are not tracked.
 
